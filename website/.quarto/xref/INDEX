@@ -1,0 +1,44 @@
+{
+  "index.qmd": {
+    "index.html": "8021e463"
+  },
+  "quizzes.qmd": {
+    "quizzes.html": "744828ff"
+  },
+  "sessions/04-dna-extraction/index.qmd": {
+    "index.html": "1a9db31d"
+  },
+  "sessions/09-life-on-earth/index.qmd": {
+    "index.html": "091b26f0"
+  },
+  "sessions/03-dna/index.qmd": {
+    "index.html": "698bf3f1"
+  },
+  "sessions/07-bioinformatics/index.qmd": {
+    "index.html": "f2d4ebaa"
+  },
+  "sessions/05-central-dogma/index.qmd": {
+    "index.html": "f8773d18"
+  },
+  "sessions/01-how-to-study/index.qmd": {
+    "index.html": "4db62c43"
+  },
+  "sessions/index.qmd": {
+    "index.html": "f656216b"
+  },
+  "sessions/06-biotech-I/index.qmd": {
+    "index.html": "b4487106"
+  },
+  "sessions/02-scientific-method/slides.qmd": {
+    "slides.html": "2a6e08e2"
+  },
+  "sessions/02-scientific-method/index.qmd": {
+    "index.html": "a7edba33"
+  },
+  "sessions/10-weird-plants/index.qmd": {
+    "index.html": "7e8f5565"
+  },
+  "sessions/08-forensic-dna/index.qmd": {
+    "index.html": "40196908"
+  }
+}

@@ -1,0 +1,53 @@
+---
+title: "Introduction & Scientific Method"
+subtitle: "Session 2"
+---
+
+[Open the slides →](slides.qmd)
+
+## Overview
+
+The scientific method is a step-by-step process for exploring how the world works: **observation → question → hypothesis → experiment → data collection → data analysis → conclusion**. It isn't a straight line — scientists loop back and revise as they learn more.
+
+## Key Vocabulary
+
+::: {.vocab-box}
+- **hypothesis** — a testable, falsifiable proposed explanation
+- **falsifiable** — capable of being proven wrong by evidence
+- **independent variable** — the factor the experimenter deliberately changes
+- **dependent variable** — the factor that is measured
+- **control group** — the baseline group that does not receive the treatment, used for comparison
+- **confounding variable** — an outside factor that could distort the result
+- **precision** — how closely repeated measurements agree with each other
+- **accuracy** — how close a measurement is to the true value
+:::
+
+## Precision vs. Accuracy
+
+It's easy to confuse these two. A measurement can be **precise but not accurate** (consistent, but consistently wrong due to a systematic error), or **accurate but not precise** (right on average, but scattered).
+
+## Case Study: Penicillin
+
+Alexander Fleming's 1928 discovery of penicillin is a real example of the full scientific method in action — from an accidental **observation** (mould killing bacteria on a forgotten petri dish) to a **hypothesis**, **experiments**, and a **conclusion** that changed medicine. See the slides for the full walkthrough.
+
+## Check Your Understanding — Live Quiz
+
+Scan the QR code below with your phone to join the live quiz for this session.
+
+::: {.qr-block}
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="180" height="180">
+
+::: {}
+**Scientific Method — quick check (3 questions)**
+
+1. What is the difference between precision and accuracy?
+2. What is the purpose of a control group in an experiment?
+3. What is the first step of the scientific method?
+
+[Or open the quiz directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
+:::
+:::
+
+::: {.callout-important}
+**Before class:** replace `REPLACE_WITH_YOUR_GOOGLE_FORM_LINK` above with your actual quiz link (see the [Live Quizzes](../../quizzes.qmd) page for how to set this up — it only takes a few minutes and only needs to be done once per session).
+:::

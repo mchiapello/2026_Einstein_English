@@ -1,0 +1,15 @@
+---
+title: "Bioinformatics"
+---
+
+::: {.callout-note}
+This session's material and slides are still being refreshed from last year's version. Placeholder page — structure only.
+:::
+
+## Material
+
+_Coming soon._
+
+## Slides
+
+_Coming soon._

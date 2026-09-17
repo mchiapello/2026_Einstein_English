@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Scientific English — Liceo Einstein"
+  description: "Course website: scientific method, DNA, biotech, bioinformatics and more, taught in English."
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: sessions/index.qmd
+        text: Sessions
+      - href: quizzes.qmd
+        text: Live Quizzes
+    right:
+      - text: "A.Y. 2025/26"
+  sidebar:
+    style: docked
+    contents:
+      - index.qmd
+      - section: "Sessions"
+        contents:
+          - sessions/index.qmd
+          - sessions/01-how-to-study/index.qmd
+          - sessions/02-scientific-method/index.qmd
+          - sessions/03-dna/index.qmd
+          - sessions/04-dna-extraction/index.qmd
+          - sessions/05-central-dogma/index.qmd
+          - sessions/06-biotech-I/index.qmd
+          - sessions/07-bioinformatics/index.qmd
+          - sessions/08-forensic-dna/index.qmd
+          - sessions/09-life-on-earth/index.qmd
+          - sessions/10-weird-plants/index.qmd
+      - quizzes.qmd
+  page-footer:
+    center: "Liceo Scientifico \"A. Einstein\" — Scientific English course"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: true
+    number-sections: false
+    link-external-newwindow: true

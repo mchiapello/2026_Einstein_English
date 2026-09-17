@@ -1,0 +1,54 @@
+---
+title: "Live Quizzes"
+---
+
+Students answer these quizzes **on their own phones** during class, after scanning a QR code. This page explains how it works and how to set one up for a new session.
+
+## Why not build a custom quiz app?
+
+A live, whole-class quiz needs a server that collects everyone's answers in real time and shows them on a shared screen. This website is a **static site** (just files, no server), so instead of building and hosting that infrastructure, we use a free existing tool for the live part, and the website only holds the **QR code / link** that points students to it.
+
+## Choosing a tool
+
+| Tool | Best for | Notes |
+|---|---|---|
+| **Google Forms** | Quick checks, homework-style quizzes, results you can review later in a spreadsheet | Link is **permanent** — create it once, embed the QR code in the site, reuse every year |
+| **Kahoot** | Fun, competitive, live-projected quizzes with a countdown timer | Each session gets a **new game PIN** — can't be baked into the static site in advance |
+| **Wooclap / Socrative** | Similar to Kahoot, plus open-ended and word-cloud question types | Same PIN/session-code limitation as Kahoot |
+
+**Recommendation:** use **Google Forms** for the quizzes linked from this website (permanent QR code, zero setup on class day), and reach for **Kahoot/Wooclap** separately, live, when you want a projected, competitive, in-the-moment quiz — just display their join screen instead of using this site.
+
+## Setting up a Google Forms quiz (once per session)
+
+1. Go to [Google Forms](https://forms.google.com) → new form → click the **Settings gear → Quizzes** → turn on "Make this a quiz".
+2. Add your multiple-choice questions and mark the correct answer for each (so students get instant feedback).
+3. Click **Send** → the **link (🔗) icon** → copy the short link.
+4. Open the session's `index.qmd` file and replace `REPLACE_WITH_YOUR_GOOGLE_FORM_LINK` (it appears **twice**: once in the image `src`, once in the "Or open the quiz directly" link) with that link.
+5. Re-render the site (`quarto render` or `quarto preview`) — the QR code image updates automatically, because it's generated on the fly from the link you pasted (via [api.qrserver.com](https://api.qrserver.com), a free public QR-code service — no software to install).
+
+That's the whole reusable pattern — the block below is what's in each session page:
+
+````markdown
+::: {.qr-block}
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=YOUR_LINK_HERE" alt="QR code to join the live quiz" width="180" height="180">
+
+::: {}
+**Quiz title — N questions**
+
+1. First question, just as a reminder of what's being asked
+2. ...
+
+[Or open the quiz directly →](YOUR_LINK_HERE)
+:::
+:::
+````
+
+::: {.callout-note}
+If you'd rather not depend on an external QR image service, you can generate a QR PNG offline with the `qrcode` Python package (`pip install qrcode[pil]`) and reference the saved image file instead of the `api.qrserver.com` URL — the rest of the block stays the same.
+:::
+
+## Reusing your existing exam questions
+
+Your `EXAM/exercises/*.Rmd` files (written for the R/exams package, used for the paper exam) are a ready-made question bank. Each file has the question text and a `TRUE`/`FALSE` solution vector for the answers — that maps directly onto a Google Forms multiple-choice question. For example, `Einstein_L1_Q1.Rmd`, `Q2` and `Q3` became the three questions used in the [Scientific Method quiz](sessions/02-scientific-method/index.qmd).
+
+When building out the remaining sessions, pull 2–4 questions per session from the matching `Einstein_L*_Q*.Rmd` files as a starting point for that session's live quiz.

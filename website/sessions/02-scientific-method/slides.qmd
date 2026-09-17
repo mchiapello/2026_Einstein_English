@@ -1,0 +1,291 @@
+---
+title: "Understanding the Scientific Method"
+subtitle: "Session 2 — Scientific English"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    incremental: false
+    footer: "Scientific English — Liceo Einstein"
+---
+
+## What is the Scientific Method? {.center}
+
+- A way to investigate the world and answer questions using **observation** and **experiment**
+- A step-by-step process for exploring *how* things work and *why*
+- Think of it as a detective's toolkit for solving mysteries about the world
+
+::: {.notes}
+This slide sets the tone. The scientific method is not just a boring recipe — it's a practical problem-solving tool that they use every day, even if they don't call it that. The detective analogy works well because it emphasizes curiosity and investigation.
+:::
+
+## Curiosity Drives Discovery
+
+> Why is the sky blue? How do plants grow? What are stars made of?
+
+Science starts with **asking questions** about the world around us.
+
+## The Seven Steps
+
+1. Observation
+2. Question
+3. Hypothesis
+4. Experiment
+5. Data collection
+6. Data analysis
+7. Conclusion
+
+::: {.notes}
+Emphasize that this is a cycle, not a straight line — scientists often go back and revise.
+:::
+
+## An Everyday Example: The Toaster {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+![](img/toaster-1-observation.png){width="100%"}
+
+![](img/toaster-2-question.png){width="100%"}
+:::
+::: {.column width="50%"}
+![](img/toaster-3-hypothesis.png){width="100%"}
+
+![](img/toaster-4-prediction.png){width="100%"}
+:::
+::::
+
+::: {.notes}
+This toaster sequence walks through steps 1–4 concretely: observation (toaster won't toast), question (why?), hypothesis (maybe the outlet), and prediction (if we try a different outlet it will work). Use this to show that the scientific method isn't just for labs — students do this at home.
+:::
+
+## Testing the Prediction
+
+![](img/toaster-5-test.png){width="70%" fig-align="center"}
+
+If the toaster still doesn't work in the new outlet, the hypothesis is **rejected** — time to try another one (maybe it's the toaster itself, not the outlet).
+
+::: {.notes}
+If the prediction fails, we don't give up — we form a new hypothesis and test again. This is why the scientific method is a cycle. Ask students: what other hypotheses could explain the toaster not working?
+:::
+
+## Science is a Cycle, Not a Line
+
+- We often go back, revise our ideas, and try again
+- Findings are **shared** so others can learn and build on them
+- The scientific method isn't only for labs — we use it every day
+
+## Step 1 — Observation
+
+Careful, systematic scrutiny of the world.
+
+Sources of observations:
+
+- Direct sensory experience
+- Literature review
+- Findings from previous studies
+
+## Step 2 — Question
+
+A clear, focused inquiry based on the observation.
+
+::: {.vocab-box}
+**Vocabulary:** *ambiguous* — unclear or open to more than one interpretation.
+:::
+
+Vague questions → vague hypotheses → hard-to-design experiments.
+
+## Step 3 — Hypothesis
+
+A **testable and falsifiable** statement proposing an answer to the question.
+
+- Expresses a cause-and-effect relationship
+- **Falsifiability**: it must be possible to prove it wrong
+- Researchers may compare several *alternative hypotheses*
+
+::: {.callout-warning}
+Watch out for **spurious correlations** — two things changing together doesn't mean one causes the other.
+:::
+
+## Step 4 — Experiment
+
+Planning and organizing the procedure that will test the hypothesis.
+
+- **Independent variable** — the one *we* deliberately change
+- **Dependent variable** — the one we *measure*
+
+## Identifying Variables — Try It
+
+| Scenario | Independent variable | Dependent variable |
+|---|---|---|
+| Plant growth | Amount of sunlight | Height of plants |
+| Drug dosage | Dosage of a drug | Heart rate |
+| Exam scores | **?** | Exam scores |
+
+::: {.fragment}
+What could the independent variable be in the exam scores example? (hours studied? sleep? something else?)
+:::
+
+::: {.notes}
+Pause here and get answers from students. Common ones: hours studied, amount of sleep, caffeine intake, test anxiety. This is where you can tie back to their real lives — they're all doing experiments (studying vs not studying, sleeping vs staying up) and observing the outcome (exam score). Ask: which variable would YOU want to test?
+:::
+
+## Step 5 — Data Collection: Two Types of Data
+
+| | Qualitative | Quantitative |
+|---|---|---|
+| **Nature** | Descriptive, not easily measured | Numerical, measurable |
+| **Form** | Observations, categories | Numbers from measurement/counts |
+| **Example** | Colour of a flower, texture | Height (cm), temperature (°C) |
+| **Analysis** | Thematic / content analysis | Statistical methods |
+
+::: {.notes}
+Both types are valuable. Qualitative data captures nuance and description — "the plant looks healthier, has more vibrant green." Quantitative data is precise and analyzable — "the plant is 25.3 cm tall." In Fleming's penicillin experiment, qualitative observation (the clear zone around the mould) led him to the discovery, but quantitative data (how much bacterial growth was inhibited, concentration of the substance needed) was crucial for developing it as a medicine.
+:::
+
+## Precision vs. Accuracy
+
+| | Precision | Accuracy |
+|---|---|---|
+| **Definition** | How closely repeated measurements agree with *each other* | How close a measurement is to the *true value* |
+| **Associated with** | Consistency, reliability | Correctness, no systematic error |
+| **Example** | Weighing something 5× and always getting 12.3 g | Weighing something and getting the true 12.5 g |
+
+::: {.callout-tip}
+It's possible to be precise but *not* accurate — consistent measurements can still all be wrong if there's a systematic error.
+:::
+
+## Precision vs. Accuracy — Visualized
+
+![](img/precision-accuracy-targets.png){width="75%" fig-align="center"}
+
+::: {.notes}
+Walk through each quadrant. Top-left (scattered, off-center): neither precise nor accurate — measurements are all over the place and far from the bullseye. Top-right (clustered, off-center): precise but NOT accurate — they're consistent with each other, but they're clustered in the wrong place. Bottom-left (scattered, centered): accurate but not precise — they're scattered, but on average they hit the target. Bottom-right (clustered, centered): both precise AND accurate — the gold standard. Real-world example: a broken scale that always reads 2 kg too high is precise (consistent) but not accurate (wrong value).
+:::
+
+## The Control Group
+
+Purpose of a control group:
+
+- **Baseline comparison** — the normal state, without treatment
+- **Minimizing confounding variables** — keep everything else constant
+- **Establishing cause and effect**
+- **Standard for comparison** against the experimental group
+
+::: {.vocab-box}
+**Vocabulary:** *confounding variable* — an outside factor that could distort the result.
+:::
+
+::: {.notes}
+Without a control group, you can't tell if the outcome was caused by your variable or something else. Example: testing a new study technique on one class but not another. But if the class getting the technique is also more motivated, how do you know which caused the better grades? A control group that differs ONLY in the treatment lets you isolate the effect. This is the most common reason experiments fail — they don't properly control confounding variables.
+:::
+
+## Randomization & Replication
+
+:::: {.columns}
+::: {.column width="55%"}
+- **Randomization** helps eliminate bias
+- **Replication** (repeating the trial) helps ensure results are reliable
+:::
+::: {.column width="45%"}
+![](img/randomization-replication.png){width="100%"}
+:::
+::::
+
+::: {.notes}
+The image shows the same treatment (star, square, circle shapes) randomly assigned to different groups across multiple repetitions. Randomization prevents you from accidentally biasing which subjects get which treatment — maybe without randomization, the most motivated students would all end up in the experimental group by chance. Replication (repeating the experiment 4 times here) shows that results are not a fluke. If you get similar results every time, you're confident in your finding.
+:::
+
+## Step 6 — Data Analysis
+
+- **Organizing data** (data cleaning): tables, graphs, charts
+- **Descriptive statistics**: mean, median, standard deviation
+- **Graphical representations**: scatter plots, bar graphs, histograms, line graphs
+
+## Step 7 — Conclusion
+
+- Compare results **with the hypothesis**: supported, or contradicted?
+- Assess **validity**: reliability of data, rigor of design, confounders
+- Consider **statistical significance** and **alternative explanations**
+- Discuss **generalizability** and broader **implications**
+- **Communicate findings** — papers undergo peer review before publication
+
+::: {.notes}
+A good conclusion doesn't just say "we were right" or "we were wrong." It evaluates HOW CONFIDENT we should be in the result. Did we test enough subjects? Enough times? Could something else have caused the outcome? What's next? For Fleming, the conclusion was: this substance looks promising for medical use — but more research (which took 12 years and multiple scientists) was needed to develop it into a usable drug. This is why peer review matters: other experts check your logic and methods before your work becomes trusted.
+:::
+
+# Case Study: Penicillin {background-color="#1d5c9c"}
+
+## Observation
+
+In September 1928, Alexander Fleming was studying *Staphylococcus* bacteria at St. Mary's Hospital, London.
+
+He left petri dishes on his workbench while on vacation.
+
+## Observation (continued)
+
+:::: {.columns}
+::: {.column width="55%"}
+Upon returning, he noticed one dish had **mould growing on it** — with a clear area around the mould where bacteria seemed to be killed.
+:::
+::: {.column width="45%"}
+![](img/fleming-petri-diagram.png){width="100%"}
+:::
+::::
+
+::: {.notes}
+This is the key observation — most scientists would have cursed and thrown away contaminated plates. But Fleming was curious enough to wonder WHY the bacteria died. This is the foundation of every great scientific discovery: curiosity about an unexpected result. Without that curiosity, penicillin would still be sitting in dirty lab dishes unnoticed.
+:::
+
+## Question & Hypothesis
+
+**Question:** What killed the bacteria near the mould?
+
+**Hypothesis:** The mould (later identified as *Penicillium*) releases a substance that inhibits bacterial growth.
+
+## Experiment
+
+Fleming:
+
+1. Isolated the mould
+2. Extracted its secretions
+3. Tested the secretions against various bacteria, including *Staphylococcus*
+
+## Data & Analysis
+
+:::: {.columns}
+::: {.column width="50%"}
+The substance killed a wide range of bacteria — but was **not toxic to human cells**.
+
+This substance was later named **penicillin**.
+:::
+::: {.column width="50%"}
+![Fleming's original 1929 figure, *British Journal of Experimental Pathology*](img/fleming-1929-original-figure.jpg){width="100%"}
+:::
+::::
+
+::: {.notes}
+Show them the actual historical 1929 publication photo. This is real data from a real experiment over 90 years ago. The key finding: the mould secretion killed bacteria in a test tube without harming human tissue. This was the data that mattered — not just that bacteria died, but that it could be used safely. The three labels in the photo show: the Penicillium colony (the source), the zone where Staphylococcus is undergoing lysis (dying), and normal Staphylococcus colony far away. This figure was published in the British Journal of Experimental Pathology — Fleming communicated his findings to the scientific community.
+:::
+
+## Conclusion & Impact
+
+- Penicillin was recognized as a potential **antibiotic**
+- In the 1940s, Howard Florey and Ernst Boris Chain scaled up isolation and production
+- This marked the beginning of the **antibiotic era** in medicine
+
+::: {.fragment}
+**Estimated lives saved to date: over 200 million**
+:::
+
+## Quick Check — Live Quiz {.center}
+
+Scan the QR code on the [session material page](index.qmd) (or ask your teacher to display it) to join the live quiz on this session.
+
+## Recap
+
+- Science moves through observation → question → hypothesis → experiment → data → analysis → conclusion — as a **cycle**
+- A good hypothesis is **testable and falsifiable**
+- Distinguish **precision** from **accuracy**
+- Control groups, randomization and replication make experiments trustworthy
+- Fleming's discovery of penicillin is a real-world example of this whole process

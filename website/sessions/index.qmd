@@ -1,0 +1,73 @@
+---
+title: "Sessions"
+---
+
+::: {.session-card}
+### 1. How to Study
+Evidence-based study strategies: spaced practice, retrieval practice, interleaving, elaboration, concrete examples, dual coding.
+
+[Material →](01-how-to-study/index.qmd)
+:::
+
+::: {.session-card}
+### 2. Introduction & Scientific Method
+Observation, hypothesis, experiment, data, conclusion — with the story of penicillin.
+
+[Material →](02-scientific-method/index.qmd) · [Slides →](02-scientific-method/slides.qmd)
+:::
+
+::: {.session-card}
+### 3. DNA
+Structure and function of DNA.
+
+[Material →](03-dna/index.qmd)
+:::
+
+::: {.session-card}
+### 4. DNA Extraction (Lab)
+Hands-on DNA extraction practical.
+
+[Material →](04-dna-extraction/index.qmd)
+:::
+
+::: {.session-card}
+### 5. Biology Central Dogma
+From DNA to RNA to protein: transcription and translation.
+
+[Material →](05-central-dogma/index.qmd)
+:::
+
+::: {.session-card}
+### 6. Biotech I
+Overview of DNA technologies.
+
+[Material →](06-biotech-I/index.qmd)
+:::
+
+::: {.session-card}
+### 7. Bioinformatics
+Introduction to sequence data and sequence alignment.
+
+[Material →](07-bioinformatics/index.qmd)
+:::
+
+::: {.session-card}
+### 8. Forensic DNA
+DNA fingerprinting and RFLP analysis.
+
+[Material →](08-forensic-dna/index.qmd)
+:::
+
+::: {.session-card}
+### 9. Life on Earth
+Evolution and the age of the Earth.
+
+[Material →](09-life-on-earth/index.qmd)
+:::
+
+::: {.session-card}
+### 10. Weird Plants
+Plant biology beyond the obvious.
+
+[Material →](10-weird-plants/index.qmd)
+:::
