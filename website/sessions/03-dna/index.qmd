@@ -1,15 +1,125 @@
 ---
-title: "DNA"
+title: "Understanding DNA"
 ---
 
-::: {.callout-note}
-This session's material and slides are still being refreshed from last year's version. Placeholder page — structure only.
+## Overview
+
+DNA is the molecule that carries genetic instructions for all living things. In this session, you'll learn about DNA's structure, how it works, and why it's so important to life. Read through the material below and then watch the presentation.
+
+[→ View the slides](slides.qmd)
+
+## Key Vocabulary
+
+::: {.vocab-box}
+**DNA (deoxyribonucleic acid)** — the molecule that stores genetic information in all living organisms. It has a double helix structure made of four chemical bases (A, T, G, C).
 :::
 
-## Material
+::: {.vocab-box}
+**Nucleotide** — the basic building block of DNA, consisting of a sugar, a phosphate group, and a nitrogenous base.
+:::
 
-_Coming soon._
+::: {.vocab-box}
+**Base** — one of four chemical compounds in DNA: Adenine (A), Thymine (T), Guanine (G), or Cytosine (C). A always pairs with T, and G always pairs with C.
+:::
 
-## Slides
+::: {.vocab-box}
+**Gene** — a short segment of DNA (typically 300 to 3,000 base pairs) that contains instructions for building one protein. Humans have about 20,000 genes.
+:::
 
-_Coming soon._
+::: {.vocab-box}
+**Genome** — the complete set of genetic instructions for an organism. The human genome contains about 3 billion base pairs.
+:::
+
+::: {.vocab-box}
+**Mutation** — a change in the DNA sequence. Mutations can be beneficial, neutral, or harmful, and they are the source of genetic variation in populations.
+:::
+
+::: {.vocab-box}
+**Replication** — the process by which DNA makes an exact copy of itself, which happens before cells divide. It's remarkably accurate because of base pairing rules.
+:::
+
+## How DNA Works: The Central Dogma
+
+DNA doesn't directly build proteins. Instead:
+
+**DNA → RNA → Protein**
+
+1. **Transcription:** DNA is transcribed into RNA (a similar molecule)
+2. **Translation:** RNA is translated into proteins by cellular machinery
+3. **Proteins:** Proteins do most of the work in cells
+
+This is why genes are so important — they're the instructions that ultimately become the proteins that keep you alive.
+
+## DNA Structure
+
+DNA looks like a twisted ladder (a **double helix**):
+
+- The sides of the ladder are made of sugar and phosphate groups
+- The rungs are made of base pairs (A-T and G-C)
+- The bases follow strict pairing rules: A always pairs with T (2 bonds), and G always pairs with C (3 bonds)
+
+This structure is crucial because it allows DNA to:
+- **Store information** reliably in the sequence of bases
+- **Replicate accurately** — when the strand separates, each side can serve as a template for a new matching strand
+- **Protect information** — the bases are tucked inside the helix, protected from damage
+
+## Scale and Packaging
+
+DNA is incredibly small yet packed with information:
+
+- A single strand is just 2 nanometers wide (0.000002 millimeters)
+- The entire human genome would stretch 2 meters if unwound
+- Yet it's compacted into the nucleus of every cell!
+
+This is achieved by wrapping DNA around proteins called **histones**, which form structures called **chromosomes**. You have 46 chromosomes (23 pairs) in each of your cells.
+
+## Key Facts About Genetic Variation
+
+- **Humans share ~99.9% of their DNA** — we are remarkably similar
+- The **0.1% difference** is what makes us individually unique
+- We share **98% of our DNA with chimpanzees**, showing common ancestry
+- We share **~50% with fruit flies** and **40–50% with plants** — evidence that all life evolved from common ancestors
+
+## The Genetic Code
+
+DNA contains about 20,000 genes, but:
+
+- Only ~1.5% of the genome codes for proteins
+- The rest is "regulatory" (controls when genes are turned on/off) or appears to have no known function (sometimes called "junk DNA," though this is misleading)
+- Gene expression (which genes are active) varies by cell type — a brain cell and a liver cell have the same DNA but express different genes
+
+## Mutations and Evolution
+
+Mutations are rare copying errors that occur during replication:
+
+- Most mutations have **no effect** on health or function
+- Some are **beneficial** — giving an advantage in survival or reproduction
+- A few are **harmful** — disrupting normal cellular function
+
+Over millions of years, beneficial mutations accumulate through natural selection, driving evolution. This is how all the diversity of life — from bacteria to humans — arose from common ancestors.
+
+## Modern Genomics: Why It Matters
+
+Thanks to the Human Genome Project and advances in sequencing technology:
+
+- **Medicine:** Doctors can identify genetic causes of disease and develop targeted treatments
+- **Ancestry:** We can trace human migration and relationships through DNA
+- **Agriculture:** We can breed crops and animals with desirable traits
+- **Evolution:** We can understand how species are related and how they evolved
+- **Forensics:** DNA is used to identify suspects and exonerate the innocent
+
+## Check Your Understanding — Live Quiz {.center}
+
+::: {.qr-block}
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="180" height="180">
+
+::: {}
+**DNA — 3 questions**
+
+1. What are the four bases in DNA and their pairing rules?
+2. What is the difference between a gene and a genome?
+3. What percentage of the human genome actually codes for proteins?
+
+[Or open the quiz directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
+:::
+:::

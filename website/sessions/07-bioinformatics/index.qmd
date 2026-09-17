@@ -2,14 +2,52 @@
 title: "Bioinformatics"
 ---
 
-::: {.callout-note}
-This session's material and slides are still being refreshed from last year's version. Placeholder page — structure only.
+## Overview
+
+Learn how computers and algorithms analyze DNA sequences and large datasets Read through the material below and then watch the presentation.
+
+[→ View the slides](slides.qmd)
+
+## Key Vocabulary
+
+
+::: {.vocab-box}
+**Sequence alignment** — Comparing DNA or protein sequences to find similarities
 :::
 
-## Material
+::: {.vocab-box}
+**Database search** — Looking through large collections of sequences to find matches
+:::
 
-_Coming soon._
+::: {.vocab-box}
+**Homology** — Similarity between sequences suggesting a common ancestor
+:::
 
-## Slides
+::: {.vocab-box}
+**BLAST** — A tool for searching biological databases
+:::
 
-_Coming soon._
+::: {.vocab-box}
+**Annotation** — Adding information and labels to genetic sequences
+:::
+
+::: {.vocab-box}
+**Phylogenetics** — Using genetic data to determine evolutionary relationships
+:::
+
+
+## Quick Check — Live Quiz {.center}
+
+::: {.qr-block}
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="180" height="180">
+
+::: {}
+**Bioinformatics — 3 questions**
+
+1. What is sequence alignment and why is it important?
+2. How do databases help in genetic research?
+3. What can we learn from comparing genetic sequences?
+
+[Or open the quiz directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
+:::
+:::

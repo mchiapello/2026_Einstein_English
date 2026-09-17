@@ -1,0 +1,87 @@
+---
+title: "DNA Extraction"
+subtitle: "Session 4 — Scientific English"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    incremental: false
+    footer: "Scientific English — Liceo Einstein"
+---
+
+## DNA Extraction {.center}
+
+Learn how to extract DNA from cells using simple household materials
+
+::: {.notes}
+Welcome to the session on DNA Extraction. This is an important topic in biology and science. Throughout this session, we'll explore key concepts, look at real-world examples, and think about why this matters.
+:::
+
+## Slide 2
+
+
+![](img/slide02_img0.png){width="70%" fig-align="center"}
+
+## Slide 3
+
+- Overview
+- The extraction solution 
+The sample preparation
+Filtering
+DNA extraction
+
+## Slide 4
+
+- The extraction solution
+- 50 ml of water
+two teaspoons of cooking salt
+a tablespoon of dishwasher
+
+## Slide 5
+
+- The extraction solution
+| What | Why |
+|---||---|
+| two teaspoons of NaCl | NaCl helps to remove proteins that are bound to the DNA
+NaCl neutralises the negative charges on the DNA helping the precipitation |
+| a tablespoon of dishwasher | Soap dissolves the phospholipids of the membranes, emulsifying the fatty substances |
+| 50 ml of water | Solvent |
+
+
+## Slide 6
+
+- The sample preparation
+- Weight ~1/3 banana
+Weight the same amount of strawberries
+Grind them in 2 mortals  
+Mix with the extraction solution
+
+## Slide 7
+
+- The sample filtration
+- Filter the 2 solutions
+Recover the flows through
+Discard the filter with the debris
+
+## Slide 8
+
+- DNA extraction
+- Transfer ~3ml of filtered solution in a new tube
+Gently add 8ml of cold ethanol (The ethanol pulls water from the DNA molecule, so it collapses and precipitate)
+DNA should slowly appear
+
+## Slide 9
+
+- Real world protocol for DNA extraction
+- https://www.qiagen.com/us/resources/resourcedetail?id=f6455f80-dc4f-4ff2-b2de-ae7a3e6c91e0&lang=en
+
+## Recap
+
+- Key concepts reviewed
+- Real-world applications explored
+- Ready for assessment
+
+## Quick Check — Live Quiz {.center}
+
+Scan the QR code on the [session material page](index.qmd) (or ask your teacher to display it) to join the live quiz on this session.

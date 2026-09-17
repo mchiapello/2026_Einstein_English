@@ -1,0 +1,683 @@
+---
+title: "Life on Earth"
+subtitle: "Session 9 — Scientific English"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    incremental: false
+    footer: "Scientific English — Liceo Einstein"
+---
+
+## Life on Earth {.center}
+
+Understand how life evolved and how we know the age of our planet
+
+::: {.notes}
+Welcome to the session on Life on Earth. This is an important topic in biology and science. Throughout this session, we'll explore key concepts, look at real-world examples, and think about why this matters.
+:::
+
+## Slide 2
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago |  |  |
+| 3.5 billion years ago |  |  |
+| 3.4 billion years ago |  |  |
+| 1.2 billion years ago |  |  |
+| 470 million years ago |  |  |
+| 420 million years ago |  |  |
+| 360 million years ago |  |  |
+| 340 million years ago |  |  |
+| 252 million years ago |  |  |
+| 251 million years ago |  |  |
+| 140 million years ago |  |  |
+| 100 million years ago |  |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 3
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago |  |  |
+| 3.4 billion years ago |  |  |
+| 1.2 billion years ago |  |  |
+| 470 million years ago |  |  |
+| 420 million years ago |  |  |
+| 360 million years ago |  |  |
+| 340 million years ago |  |  |
+| 252 million years ago |  |  |
+| 251 million years ago |  |  |
+| 140 million years ago |  |  |
+| 100 million years ago |  |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 4
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago |  |  |
+| 1.2 billion years ago |  |  |
+| 470 million years ago |  |  |
+| 420 million years ago |  |  |
+| 360 million years ago |  |  |
+| 340 million years ago |  |  |
+| 252 million years ago |  |  |
+| 251 million years ago |  |  |
+| 140 million years ago |  |  |
+| 100 million years ago |  |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 5
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago |  |  |
+| 470 million years ago |  |  |
+| 420 million years ago |  |  |
+| 360 million years ago |  |  |
+| 340 million years ago |  |  |
+| 252 million years ago |  |  |
+| 251 million years ago |  |  |
+| 140 million years ago |  |  |
+| 100 million years ago |  |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 6
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago |  |  |
+| 420 million years ago |  |  |
+| 360 million years ago |  |  |
+| 340 million years ago |  |  |
+| 252 million years ago |  |  |
+| 251 million years ago |  |  |
+| 140 million years ago |  |  |
+| 100 million years ago |  |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 7
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago |  |  |
+| 360 million years ago |  |  |
+| 340 million years ago |  |  |
+| 252 million years ago |  |  |
+| 251 million years ago |  |  |
+| 140 million years ago |  |  |
+| 100 million years ago |  |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 8
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago |  |  |
+| 340 million years ago |  |  |
+| 252 million years ago |  |  |
+| 251 million years ago |  |  |
+| 140 million years ago |  |  |
+| 100 million years ago |  |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 9
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago |  |  |
+| 252 million years ago |  |  |
+| 251 million years ago |  |  |
+| 140 million years ago |  |  |
+| 100 million years ago |  |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 10
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago |  |  |
+| 251 million years ago |  |  |
+| 140 million years ago |  |  |
+| 100 million years ago |  |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 11
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago |  |  |
+| 140 million years ago |  |  |
+| 100 million years ago |  |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 12
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago |  |  |
+| 100 million years ago |  |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 13
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago |  |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 14
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago |  |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 15
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago |  |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 16
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago |  |  |
+
+
+## Slide 17
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth |  |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 18
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms |  |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 19
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms |  |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 20
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life |  |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 21
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life | Day 23, 00:00:00 |
+| 470 million years ago | Colonization of Land by Plants |  |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 22
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life | Day 23, 00:00:00 |
+| 470 million years ago | Colonization of Land by Plants | Day 27, 20:48:00 |
+| 420 million years ago | Evolution of Vascular Plants |  |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 23
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life | Day 23, 00:00:00 |
+| 470 million years ago | Colonization of Land by Plants | Day 27, 20:48:00 |
+| 420 million years ago | Evolution of Vascular Plants | Day 28, 04:48:00 |
+| 360 million years ago | First Seed Plants |  |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 24
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life | Day 23, 00:00:00 |
+| 470 million years ago | Colonization of Land by Plants | Day 27, 20:48:00 |
+| 420 million years ago | Evolution of Vascular Plants | Day 28, 04:48:00 |
+| 360 million years ago | First Seed Plants | Day 28, 14:24:00 |
+| 340 million years ago | Dominance of Ferns and Horsetails |  |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 25
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life | Day 23, 00:00:00 |
+| 470 million years ago | Colonization of Land by Plants | Day 27, 20:48:00 |
+| 420 million years ago | Evolution of Vascular Plants | Day 28, 04:48:00 |
+| 360 million years ago | First Seed Plants | Day 28, 14:24:00 |
+| 340 million years ago | Dominance of Ferns and Horsetails | Day 28, 17:36:00 |
+| 252 million years ago | Age of Dinosaurs |  |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 26
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life | Day 23, 00:00:00 |
+| 470 million years ago | Colonization of Land by Plants | Day 27, 20:48:00 |
+| 420 million years ago | Evolution of Vascular Plants | Day 28, 04:48:00 |
+| 360 million years ago | First Seed Plants | Day 28, 14:24:00 |
+| 340 million years ago | Dominance of Ferns and Horsetails | Day 28, 17:36:00 |
+| 252 million years ago | Age of Dinosaurs | Day 29, 07:40:48 |
+| 251 million years ago | Rise of Gymnosperms |  |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 27
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life | Day 23, 00:00:00 |
+| 470 million years ago | Colonization of Land by Plants | Day 27, 20:48:00 |
+| 420 million years ago | Evolution of Vascular Plants | Day 28, 04:48:00 |
+| 360 million years ago | First Seed Plants | Day 28, 14:24:00 |
+| 340 million years ago | Dominance of Ferns and Horsetails | Day 28, 17:36:00 |
+| 252 million years ago | Age of Dinosaurs | Day 29, 07:40:48 |
+| 251 million years ago | Rise of Gymnosperms | Day 29, 07:50:24 |
+| 140 million years ago | Diversification of Angiosperms |  |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 28
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life | Day 23, 00:00:00 |
+| 470 million years ago | Colonization of Land by Plants | Day 27, 20:48:00 |
+| 420 million years ago | Evolution of Vascular Plants | Day 28, 04:48:00 |
+| 360 million years ago | First Seed Plants | Day 28, 14:24:00 |
+| 340 million years ago | Dominance of Ferns and Horsetails | Day 28, 17:36:00 |
+| 252 million years ago | Age of Dinosaurs | Day 29, 07:40:48 |
+| 251 million years ago | Rise of Gymnosperms | Day 29, 07:50:24 |
+| 140 million years ago | Diversification of Angiosperms | Day 30, 01:36:00 |
+| 100 million years ago | Evolution of Modern Trees |  |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 29
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life | Day 23, 00:00:00 |
+| 470 million years ago | Colonization of Land by Plants | Day 27, 20:48:00 |
+| 420 million years ago | Evolution of Vascular Plants | Day 28, 04:48:00 |
+| 360 million years ago | First Seed Plants | Day 28, 14:24:00 |
+| 340 million years ago | Dominance of Ferns and Horsetails | Day 28, 17:36:00 |
+| 252 million years ago | Age of Dinosaurs | Day 29, 07:40:48 |
+| 251 million years ago | Rise of Gymnosperms | Day 29, 07:50:24 |
+| 140 million years ago | Diversification of Angiosperms | Day 30, 01:36:00 |
+| 100 million years ago | Evolution of Modern Trees | Day 30, 08:00:00 |
+| 66 million years ago | The Cretaceous-Paleogene extinction event |  |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 30
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life | Day 23, 00:00:00 |
+| 470 million years ago | Colonization of Land by Plants | Day 27, 20:48:00 |
+| 420 million years ago | Evolution of Vascular Plants | Day 28, 04:48:00 |
+| 360 million years ago | First Seed Plants | Day 28, 14:24:00 |
+| 340 million years ago | Dominance of Ferns and Horsetails | Day 28, 17:36:00 |
+| 252 million years ago | Age of Dinosaurs | Day 29, 07:40:48 |
+| 251 million years ago | Rise of Gymnosperms | Day 29, 07:50:24 |
+| 140 million years ago | Diversification of Angiosperms | Day 30, 01:36:00 |
+| 100 million years ago | Evolution of Modern Trees | Day 30, 08:00:00 |
+| 66 million years ago | The Cretaceous-Paleogene extinction event | Day 30, 13:26:24 |
+| 200,000 years ago | Homo Sapiens Appearance |  |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 31
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life | Day 23, 00:00:00 |
+| 470 million years ago | Colonization of Land by Plants | Day 27, 20:48:00 |
+| 420 million years ago | Evolution of Vascular Plants | Day 28, 04:48:00 |
+| 360 million years ago | First Seed Plants | Day 28, 14:24:00 |
+| 340 million years ago | Dominance of Ferns and Horsetails | Day 28, 17:36:00 |
+| 252 million years ago | Age of Dinosaurs | Day 29, 07:40:48 |
+| 251 million years ago | Rise of Gymnosperms | Day 29, 07:50:24 |
+| 140 million years ago | Diversification of Angiosperms | Day 30, 01:36:00 |
+| 100 million years ago | Evolution of Modern Trees | Day 30, 08:00:00 |
+| 66 million years ago | The Cretaceous-Paleogene extinction event | Day 30, 13:26:24 |
+| 200,000 years ago | Homo Sapiens Appearance | Day 30, 23:58:05 |
+| 10,000 year ago | Human Impact on Plant Evolution |  |
+
+
+## Slide 32
+
+| AGE | EVENT | MONTH |
+|---||---||---|
+| 4.5 billion years ago | Earth's Birth | Day 1, 00:00:00 |
+| 3.5 billion years ago | First Living Organisms | Day 7, 16:00:00 |
+| 3.4 billion years ago | First Photosynthetic Organisms | Day 8, 08:00:00 |
+| 1.2 billion years ago | First Multicellular Life | Day 23, 00:00:00 |
+| 470 million years ago | Colonization of Land by Plants | Day 27, 20:48:00 |
+| 420 million years ago | Evolution of Vascular Plants | Day 28, 04:48:00 |
+| 360 million years ago | First Seed Plants | Day 28, 14:24:00 |
+| 340 million years ago | Dominance of Ferns and Horsetails | Day 28, 17:36:00 |
+| 252 million years ago | Age of Dinosaurs | Day 29, 07:40:48 |
+| 251 million years ago | Rise of Gymnosperms | Day 29, 07:50:24 |
+| 140 million years ago | Diversification of Angiosperms | Day 30, 01:36:00 |
+| 100 million years ago | Evolution of Modern Trees | Day 30, 08:00:00 |
+| 66 million years ago | The Cretaceous-Paleogene extinction event | Day 30, 13:26:24 |
+| 200,000 years ago | Homo Sapiens Appearance | Day 30, 23:58:05 |
+| 10,000 year ago | Human Impact on Plant Evolution | Day 30, 23:59:54 |
+
+
+## Slide 33
+
+
+## Recap
+
+- Key concepts reviewed
+- Real-world applications explored
+- Ready for assessment
+
+## Quick Check — Live Quiz {.center}
+
+Scan the QR code on the [session material page](index.qmd) (or ask your teacher to display it) to join the live quiz on this session.

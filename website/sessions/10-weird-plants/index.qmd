@@ -2,14 +2,52 @@
 title: "Weird Plants"
 ---
 
-::: {.callout-note}
-This session's material and slides are still being refreshed from last year's version. Placeholder page — structure only.
+## Overview
+
+Explore fascinating adaptations and unusual characteristics of plants around the world Read through the material below and then watch the presentation.
+
+[→ View the slides](slides.qmd)
+
+## Key Vocabulary
+
+
+::: {.vocab-box}
+**Adaptation** — A trait that helps an organism survive in its environment
 :::
 
-## Material
+::: {.vocab-box}
+**Parasitic plant** — A plant that feeds on another plant
+:::
 
-_Coming soon._
+::: {.vocab-box}
+**Carnivorous plant** — A plant that traps and digests animals for nutrients
+:::
 
-## Slides
+::: {.vocab-box}
+**Epiphyte** — A plant that grows on another plant without harming it
+:::
 
-_Coming soon._
+::: {.vocab-box}
+**Dormancy** — A state of reduced growth when conditions are unfavorable
+:::
+
+::: {.vocab-box}
+**Pollination** — The transfer of pollen from one flower to another
+:::
+
+
+## Quick Check — Live Quiz {.center}
+
+::: {.qr-block}
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="180" height="180">
+
+::: {}
+**Weird Plants — 3 questions**
+
+1. Give an example of an unusual plant adaptation
+2. How do carnivorous plants catch and digest insects?
+3. What allows some plants to survive extreme environments?
+
+[Or open the quiz directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
+:::
+:::

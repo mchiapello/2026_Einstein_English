@@ -1,0 +1,113 @@
+---
+title: "How to Study"
+subtitle: "Session 1 — Scientific English"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    incremental: false
+    footer: "Scientific English — Liceo Einstein"
+---
+
+## How to Study {.center}
+
+Learn evidence-based study techniques backed by cognitive science research
+
+::: {.notes}
+Welcome to the session on How to Study. This is an important topic in biology and science. Throughout this session, we'll explore key concepts, look at real-world examples, and think about why this matters.
+:::
+
+## Slide 2
+
+- The Learning Scientists
+learningscientists.org
+
+## Slide 3
+
+- Goals of the project
+- Improving learning for students
+Understand how we learn
+Improve education and science
+Propose strategies based on scientific evidence
+
+## Slide 4
+
+- Your brain in part of your body
+
+## Slide 5
+
+- How do you prepare your body and mind for learning?
+- Develop a sleep schedule: the more regular is your sleep schedule, the easier is to fall asleep and wake up
+Stick to a sleep routine: create a routine that you can use every day to help your body to recognize that it’s time to wind down and consider having a morning routine as well
+Put your phone away before bed: Interacting with your phone before bedtime (at least half an hour) makes it more difficult to fall asleep
+Take breaks while studying: If you are going to spend a long time studying, you can set a timer to have breaks
+
+## Slide 6
+
+- How do you prepare your body and mind for learning?
+- Exercise regularly: regular physical activity can improve your overall physical and mental health.
+Stay hydrated: dehydration can have a negative impact on your ability to think and remember.
+Eat healthy snacks: Thinking is hard work! Try to make sure you have healthy snacks of fruits and vegetables on hand while you are studying.
+
+## Slide 7
+
+- The myth of multitasking
+
+## Slide 8
+
+- What is multitasking?
+- The term multitasking is misleading
+Instead of doing multiple tasks at the same time we are switching between tasks
+We spend few minutes to study, then we switch watching TV, then back to studying, then to texting, and back again
+We are not studying AND doing other things at the same time, because our attention can only be on one task at any given time
+When we are task-switching:
+We take longer to complete tasks
+We make more mistakes
+We miss information
+We remember less later on
+
+## Slide 9
+
+- How do I avoid multitasking and focus my learning?
+- Stick to a routine: setting up a routine can help you get into a studying state of mind. Everyone has a personal routine, but some general tips are to make sure the routine is something that you find pleasant and relaxing.
+Try the pomodoro technique: breaks up your study session into smaller chunks of focus work and dedicates time for distraction
+
+## Slide 10
+
+- How do I avoid multitasking and focus my learning?
+- Use apps: There are apps for your phone and computer that can support you to reduce distractions
+Cold Turkey
+Forest
+Create accountability groups with peers: studying in pairs or group can increase accountability. Everyone can study or work on their own assignment during the session
+
+## Slide 11
+
+
+## Slide 12
+
+- Avoid strategies that don’t work
+
+## Slide 13
+
+- How can I make popular strategies more effective?
+- Make re-reading more effective: repeated reading tends to increase confidence, but not increase learning. You can make reading more effective using space practice and retrieval practice
+Make flashcards more effective: Flashcards can be highly effective when they are used to recall what you know from memory. Even once you answer correctly, keep cards in your deck to repeatedly recall the information
+Make highlight more effective: students tend to highlight too much or too little and struggle to highlight the most important things. Read the all the material without highlight, then go back to the beginning and highlight the main concepts
+
+## Slide 14
+
+- How can I make popular strategies more effective?
+- Make note-taking more effective: Try to task complete notes that represent the main concepts taught and summarise the information in your own words (Cornell method)
+Make outlining more effective: Read twice the material, the first time do not do anything, the second time you can record the main points to create the outline.
+Can I still study right before the test? Yes, but this just should not be the only time that you study. Schedule small study sessions over time and stick to a schedule.
+
+## Recap
+
+- Key concepts reviewed
+- Real-world applications explored
+- Ready for assessment
+
+## Quick Check — Live Quiz {.center}
+
+Scan the QR code on the [session material page](index.qmd) (or ask your teacher to display it) to join the live quiz on this session.
