@@ -32,3 +32,9 @@ $link-color: $primary;
 .qr-block img {
   flex-shrink: 0;
 }
+
+.session-card-locked {
+  opacity: 0.55;
+  background: #f7f7f7;
+  border-style: dashed;
+}

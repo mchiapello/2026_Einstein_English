@@ -1,0 +1,55 @@
+# Course calendar. Edit the dates freely (ISO format, YYYY-MM-DD).
+# publish.py publishes the session whose date is the latest one <= today
+# (the "current" lesson) plus the one before it. Everything else shows as
+# a placeholder on the public site.
+# Course starts Friday 6 November 2026; dates below assume one lesson per week.
+
+[[session]]
+dir = "01-how-to-study"
+title = "How to Study"
+date = 2026-11-06
+
+[[session]]
+dir = "02-scientific-method"
+title = "Introduction & Scientific Method"
+date = 2026-11-13
+
+[[session]]
+dir = "03-dna"
+title = "DNA"
+date = 2026-11-20
+
+[[session]]
+dir = "04-dna-extraction"
+title = "DNA Extraction (Lab)"
+date = 2026-11-27
+
+[[session]]
+dir = "05-central-dogma"
+title = "Biology Central Dogma"
+date = 2026-12-04
+
+[[session]]
+dir = "06-biotech-I"
+title = "Biotech I"
+date = 2026-12-11
+
+[[session]]
+dir = "07-bioinformatics"
+title = "Bioinformatics"
+date = 2026-12-18
+
+[[session]]
+dir = "08-forensic-dna"
+title = "Forensic DNA"
+date = 2027-01-08
+
+[[session]]
+dir = "09-life-on-earth"
+title = "Life on Earth"
+date = 2027-01-15
+
+[[session]]
+dir = "10-weird-plants"
+title = "Weird Plants"
+date = 2027-01-22
