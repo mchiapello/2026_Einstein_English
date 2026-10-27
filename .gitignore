@@ -28,3 +28,13 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Public build + Quarto cache
+website/_site_public/
+website/.quarto/
+
+# Exam data containing student names/scans
+EXAM/nops_eval/
+EXAM/nops_eval.csv
+EXAM/replaies/
+EXAM/output/
