@@ -7,107 +7,524 @@ format:
     slide-number: true
     transition: slide
     incremental: false
+    auto-stretch: false
     footer: "Scientific English — Liceo Einstein"
 ---
 
 ## How to Study {.center}
 
-Learn evidence-based study techniques backed by cognitive science research
+- Study strategies backed by cognitive science
+- Some habits feel productive but do not produce lasting learning
+- Today: prepare your body and mind, avoid what does not work, learn six strategies that do
 
 ::: {.notes}
-Welcome to the session on How to Study. This is an important topic in biology and science. Throughout this session, we'll explore key concepts, look at real-world examples, and think about why this matters.
+Open by asking how they currently study: highlighting, re-reading notes, cramming the night before? Ask who has used flashcards. Do not judge the answers. The goal is to find out what actually works, not what feels productive.
 :::
 
-## Slide 2
+## Goals of the Project
 
-- The Learning Scientists
-learningscientists.org
+- Improve learning for students
+- Understand how we learn
+- Improve education and science
+- Propose strategies based on scientific evidence
 
-## Slide 3
+::: {.notes}
+These materials come from the Learning Scientists, a group of cognitive psychologists (Yana Weinstein and Megan Smith, with illustrator Oliver Caviglioli), funded by the APS Fund for Teaching and Public Understanding of Psychological Science. Point out the source so students see this is research, not opinion. Full references are on the session material page.
+:::
 
-- Goals of the project
-- Improving learning for students
-Understand how we learn
-Improve education and science
-Propose strategies based on scientific evidence
+## Your Brain Is Part of Your Body {.center}
 
-## Slide 4
+::: {.notes}
+This sets up the next two slides: learning is a physical process. Sleep, exercise and food affect memory and attention, so preparing your body is part of studying. Ask: when did you last study well after a bad night of sleep?
+:::
 
-- Your brain in part of your body
+## Preparing Your Body and Mind (1/2)
 
-## Slide 5
+- **Keep a sleep schedule**: the more regular it is, the easier it is to fall asleep and wake up
+- **Build a wind-down routine** so your body learns that it is time to rest
+- **Put your phone away before bed**: interacting with it keeps your mind active when it should be winding down
 
-- How do you prepare your body and mind for learning?
-- Develop a sleep schedule: the more regular is your sleep schedule, the easier is to fall asleep and wake up
-Stick to a sleep routine: create a routine that you can use every day to help your body to recognize that it’s time to wind down and consider having a morning routine as well
-Put your phone away before bed: Interacting with your phone before bedtime (at least half an hour) makes it more difficult to fall asleep
-Take breaks while studying: If you are going to spend a long time studying, you can set a timer to have breaks
+::: {.notes}
+Ask students to estimate how many hours they sleep and when they put the phone away. Keep it non-judgmental. Connect to memory: memories are consolidated during sleep, so an all-nighter before an exam weakens recall the next day.
+:::
 
-## Slide 6
+## Preparing Your Body and Mind (2/2)
 
-- How do you prepare your body and mind for learning?
-- Exercise regularly: regular physical activity can improve your overall physical and mental health.
-Stay hydrated: dehydration can have a negative impact on your ability to think and remember.
-Eat healthy snacks: Thinking is hard work! Try to make sure you have healthy snacks of fruits and vegetables on hand while you are studying.
+- **Exercise regularly**: good for physical and mental health
+- **Stay hydrated**: dehydration hurts your ability to think and remember
+- **Eat healthy snacks**: fruit and vegetables while you study, because thinking is hard work
 
-## Slide 7
+::: {.notes}
+Quick poll: how many of you drank water during the last lesson? Make the point that studying is physically demanding, so it is worth looking after yourself. Do not go beyond the claims on the slide.
+:::
 
-- The myth of multitasking
+## The Myth of Multitasking {.center}
 
-## Slide 8
+::: {.notes}
+This is the most important correction in the session. Name the myth and ask what students think it means before showing the next slide.
+:::
 
-- What is multitasking?
-- The term multitasking is misleading
-Instead of doing multiple tasks at the same time we are switching between tasks
-We spend few minutes to study, then we switch watching TV, then back to studying, then to texting, and back again
-We are not studying AND doing other things at the same time, because our attention can only be on one task at any given time
-When we are task-switching:
-We take longer to complete tasks
-We make more mistakes
-We miss information
-We remember less later on
+## What Is Multitasking?
 
-## Slide 9
+- The term is misleading
+- We do not do several tasks at once: we **switch** between them
+- A few minutes of study, then TV, then texting, then back to study
+- Our attention can only be on one task at any given time
 
-- How do I avoid multitasking and focus my learning?
-- Stick to a routine: setting up a routine can help you get into a studying state of mind. Everyone has a personal routine, but some general tips are to make sure the routine is something that you find pleasant and relaxing.
-Try the pomodoro technique: breaks up your study session into smaller chunks of focus work and dedicates time for distraction
+::: {.notes}
+Ask: when you say you are studying while listening to music, what happens when a notification arrives? Each switch costs time and attention, so the study time is split and less is learned. Ask students to name their own switching habits.
+:::
 
-## Slide 10
+## Focusing Your Learning (1/2)
 
-- How do I avoid multitasking and focus my learning?
-- Use apps: There are apps for your phone and computer that can support you to reduce distractions
-Cold Turkey
-Forest
-Create accountability groups with peers: studying in pairs or group can increase accountability. Everyone can study or work on their own assignment during the session
+- **Stick to a routine**: it puts you in a studying state of mind. Choose something you find pleasant and relaxing
+- **Try the Pomodoro technique**: focused work in short blocks of about 25 minutes, with a short break in between
 
-## Slide 11
+::: {.notes}
+Pomodoro means "tomato" in Italian: the original timer was a tomato-shaped kitchen timer. Ask students to try one 25-minute block this week and report back at the next session.
+:::
 
+## Focusing Your Learning (2/2)
 
-## Slide 12
+- **Use apps** to reduce distractions on your phone and computer (for example Cold Turkey or Forest)
+- **Create accountability groups** with peers: studying in pairs or groups makes it easier to stay on task
 
-- Avoid strategies that don’t work
+::: {.notes}
+Cold Turkey blocks distracting websites; Forest grows a virtual tree while you stay off your phone. For accountability: everyone works on their own assignment, but in the same room, so you are less tempted to drift.
+:::
 
-## Slide 13
+## Avoid Strategies That Don't Work {.center}
 
-- How can I make popular strategies more effective?
-- Make re-reading more effective: repeated reading tends to increase confidence, but not increase learning. You can make reading more effective using space practice and retrieval practice
-Make flashcards more effective: Flashcards can be highly effective when they are used to recall what you know from memory. Even once you answer correctly, keep cards in your deck to repeatedly recall the information
-Make highlight more effective: students tend to highlight too much or too little and struggle to highlight the most important things. Read the all the material without highlight, then go back to the beginning and highlight the main concepts
+::: {.notes}
+Students often rely on methods that feel productive but produce weak long-term learning. The next slides show which ones, and how to make them more effective.
+:::
 
-## Slide 14
+## Popular Strategies: How to Make Them Work (1/2)
 
-- How can I make popular strategies more effective?
-- Make note-taking more effective: Try to task complete notes that represent the main concepts taught and summarise the information in your own words (Cornell method)
-Make outlining more effective: Read twice the material, the first time do not do anything, the second time you can record the main points to create the outline.
-Can I still study right before the test? Yes, but this just should not be the only time that you study. Schedule small study sessions over time and stick to a schedule.
+- **Re-reading** builds confidence but not much learning. Combine it with spaced and retrieval practice
+- **Flashcards** are powerful when you use them to recall from memory, not just to read. Keep testing yourself even after a correct answer
+
+::: {.notes}
+Re-reading feels fluent, so students mistake fluency for learning. Demonstrate the difference: read a paragraph, close the book and write what you remember, then compare. The gap is where the learning happens.
+:::
+
+## Popular Strategies: How to Make Them Work (2/2)
+
+- **Note-taking**: complete notes that capture the main concepts, summarised in your own words (the Cornell method)
+- **Outlining**: read the material twice. The first time, do nothing else. The second time, record the main points
+
+::: {.notes}
+The Cornell method: a notes column, a cue column with questions, and a summary at the bottom. The outlining trick separates understanding from extracting. Connect back to the six strategies: these are variants of retrieval practice and elaboration.
+:::
+
+## Six Strategies for Effective Learning
+
+![Learning Scientists: Six Strategies for Effective Learning](img/strat-11.png){width="65%" fig-align="center"}
+
+::: {.notes}
+This is the overview of the six strategies we will study: elaboration, retrieval practice, spaced practice, interleaving, dual coding and concrete examples. Each strategy has a "How to do it" part and "Hold on" warnings. The highlighted hexagon in each section shows which strategy you are looking at.
+:::
+
+## Elaboration {.center}
+
+![](img/elab-2.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Elaboration means explaining and describing ideas with many details. Ask a question about why something works, then find the answer and explain it to a classmate.
+:::
+
+## Elaboration: Ask Why and How
+
+![](img/elab-3.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Ask yourself "how" and "why" questions while studying, then find the answers in the class materials and discuss them with classmates.
+:::
+
+## Elaboration: Connect Ideas
+
+![](img/elab-4.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Take two ideas and ask how they are similar and different. This forces you to explain how they work together.
+:::
+
+## Elaboration: Use Your Own Experience
+
+![](img/elab-5.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Link new ideas to your own experiences. Ask for a personal example from the class.
+:::
+
+## Elaboration: Hold On! (accuracy)
+
+![](img/elab-6.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Elaborations must be accurate, so check them against the class materials or ask the teacher.
+:::
+
+## Elaboration: Hold On! (explain without notes)
+
+![](img/elab-7.png){width="65%" fig-align="center"}
+
+::: {.notes}
+You should be able to explain without looking at your notes. That is what turns elaboration into retrieval practice.
+:::
+
+## Retrieval Practice {.center}
+
+![](img/retrieval-02.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Retrieval practice means bringing information to mind, not just looking at it. It is the strategy with the strongest support in the research, so give it time in the session.
+:::
+
+## Retrieval Practice: Write or Sketch
+
+![](img/retrieval-03.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Put away your class materials, write or sketch everything you know, then check the materials for what you missed.
+:::
+
+## Retrieval Practice: Trade Tests
+
+![](img/retrieval-04.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Take as many practice tests as you can. If there are none, make your own and trade with a friend.
+:::
+
+## Retrieval Practice: Flashcards
+
+![](img/retrieval-05.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Flashcards work when you practise recalling the answer, and go beyond definitions to links between ideas. Ask students to try a three-minute blank-page recall of today's lesson now, then compare with the slides.
+:::
+
+## Retrieval Practice: Hold On! (check your materials)
+
+![](img/retrieval-06.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Retrieval works best when you check your materials afterwards.
+:::
+
+## Retrieval Practice: Hold On! (retrieval is hard)
+
+![](img/retrieval-07.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Retrieval is supposed to feel hard. Stress that struggling is evidence the strategy is working.
+:::
+
+## Retrieval Practice: Hold On! (more than definitions)
+
+![](img/retrieval-08.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Warn against recalling only definitions: students should also recall main ideas, relationships and new examples.
+:::
+
+## Spaced Practice {.center}
+
+![](img/spaced-02.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Spaced practice means spreading study over time instead of cramming. Start with the slide's example: five hours spread over two weeks works better than five hours in one go.
+:::
+
+## Spaced Practice: Plan Early
+
+![](img/spaced-03.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Start planning early for exams and set aside a little time every day. Ask students how they could spread their revision this week.
+:::
+
+## Spaced Practice: Review After a Delay
+
+![](img/spaced-04.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Review each lesson after a delay, not right after class.
+:::
+
+## Spaced Practice: Revisit Older Material
+
+![](img/spaced-05.png){width="65%" fig-align="center"}
+
+::: {.notes}
+After reviewing the most recent class, go back to important older material from a week or a month ago. Ask students when they last reviewed the lesson from the previous session.
+:::
+
+## Spaced Practice: Hold On! (sit down with strategies)
+
+![](img/spaced-06.png){width="65%" fig-align="center"}
+
+::: {.notes}
+When you sit down to study, use effective strategies rather than just re-reading your notes.
+:::
+
+## Spaced Practice: Hold On! (forgetting is useful)
+
+![](img/spaced-07.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Feeling that you forget things from day to day is normal and useful: having to retrieve the memory is what strengthens it.
+:::
+
+## Spaced Practice: Hold On! (small spaces add up)
+
+![](img/spaced-08.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Small spaced sessions of a few days each add up to much more than one long session.
+:::
+
+## Interleaving {.center}
+
+![](img/interleave-2.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Interleaving means switching between different topics during a study session, instead of studying one topic until it is finished.
+:::
+
+## Interleaving: Switch Between Topics
+
+![](img/interleave-3.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Study topic A, then B, then C. Do not study one idea for too long.
+:::
+
+## Interleaving: Mix the Order
+
+![](img/interleave-4.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Go back over the ideas in different orders in later study sessions to strengthen understanding.
+:::
+
+## Interleaving: Link the Ideas
+
+![](img/interleave-5.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Make links between different ideas as you switch between them.
+:::
+
+## Interleaving: Hold On! (do not switch too often)
+
+![](img/interleave-6.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Switching is good, but not so often that you spend too little time on any one idea. You need to understand each one.
+:::
+
+## Interleaving: Hold On! (it feels harder)
+
+![](img/interleave-7.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Interleaving will feel harder than blocking, and that is the point. Ask students to suggest how they could interleave their revision for two subjects this week.
+:::
+
+## Dual Coding {.center}
+
+![](img/dual-02.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Dual coding means combining words and visuals. Using both gives you two ways to retrieve the same idea.
+:::
+
+## Dual Coding: Find the Visuals
+
+![](img/dual-03.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Look at your class materials and find the visuals. Compare them with the words.
+:::
+
+## Dual Coding: Explain the Visual
+
+![](img/dual-04.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Look at a visual and explain in your own words what it means.
+:::
+
+## Dual Coding: Draw Your Own
+
+![](img/dual-05.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Take information you are trying to learn and draw visuals to go along with it.
+:::
+
+## Dual Coding: Hold On! (many formats)
+
+![](img/dual-06.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Try different ways to represent the information visually: an infographic, a timeline, a cartoon strip, a diagram or a graphic organizer. You can skip the next examples if you are short on time.
+:::
+
+## Dual Coding: Infographic
+
+![](img/dual-07.png){width="65%" fig-align="center"}
+
+::: {.notes}
+An infographic combines a few numbers, short labels and simple shapes.
+:::
+
+## Dual Coding: Timeline
+
+![](img/dual-08.png){width="65%" fig-align="center"}
+
+::: {.notes}
+A timeline is useful for history: events in order, with dates.
+:::
+
+## Dual Coding: Cartoon Strip
+
+![](img/dual-09.png){width="65%" fig-align="center"}
+
+::: {.notes}
+A cartoon strip works well for a sequence of steps, such as a process.
+:::
+
+## Dual Coding: Diagram
+
+![](img/dual-10.png){width="65%" fig-align="center"}
+
+::: {.notes}
+A diagram shows parts that work together, for example the organs of the body in biology.
+:::
+
+## Dual Coding: Graphic Organizer
+
+![](img/dual-11.png){width="65%" fig-align="center"}
+
+::: {.notes}
+A graphic organizer shows how ideas are linked. Ask which format suits each subject best.
+:::
+
+## Dual Coding: Hold On! (draw from memory)
+
+![](img/dual-12.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Work up to drawing from memory. Start with the class material open, then close it and draw what you remember.
+:::
+
+## Concrete Examples {.center}
+
+![](img/concrete-2.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Concrete examples means using specific cases to understand abstract ideas. Ask students for a concrete example of a concept from this course.
+:::
+
+## Concrete Examples: Collect Them
+
+![](img/concrete-3.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Collect the examples your teacher uses, and look in your class materials for more.
+:::
+
+## Concrete Examples: Link Each One
+
+![](img/concrete-4.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Make the link between the idea and each example, so you understand how the example applies.
+:::
+
+## Concrete Examples: Share Them
+
+![](img/concrete-5.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Share examples with friends and explain them to each other.
+:::
+
+## Concrete Examples: Hold On! (check examples)
+
+![](img/concrete-6.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Not every example you find online is used correctly. Check examples with the teacher.
+:::
+
+## Concrete Examples: Hold On! (make your own)
+
+![](img/concrete-7.png){width="65%" fig-align="center"}
+
+::: {.notes}
+The strongest examples are the ones you create yourself.
+:::
+
+## Bonus: NotebookLM {.center}
+
+A Google AI tool that is a great study partner
+
+::: {.notes}
+Introduce the last tool of the session. The question to ask students: is this AI helping me learn, or doing the learning for me? Everything in this section is about the first.
+:::
+
+## What Is NotebookLM?
+
+- Made by Google, free with a Google account
+- **You upload your own sources**: class slides, PDFs, notes, web pages
+- Answers come from **your** documents, with citations you can check
+
+::: {.notes}
+Check the current features and any school restrictions before the lesson at notebooklm.google.com, since Google updates the tool often. For students under 18, confirm the school's policy on Google accounts and AI tools. Show the interface live if possible.
+:::
+
+## Two Ways to Use an AI
+
+| AI writes for you | AI helps you learn |
+|---|---|
+| "Write my essay on DNA" | "Quiz me on DNA, one question at a time" |
+| You copy, and learn nothing | You answer, and the AI checks |
+| The thinking happens in the AI | The thinking happens in your head |
+| Weak retention | Retrieval practice, elaboration, spacing |
+
+::: {.notes}
+Ask: which of these two columns is the homework? The left column produces a text you do not understand. The right column produces understanding you can use in the exam. The AI should be the study partner, not the author.
+:::
+
+## NotebookLM for Learning: Four Prompts
+
+1. "Quiz me on this chapter, one question at a time. Wait for my answer before you continue."
+2. "I will explain photosynthesis in my own words. Point out what I missed, using only my sources."
+3. "Make flashcards from my notes. I will recall first, then check."
+4. "Give me a concept map with blanks, and ask me to fill in the links."
+
+::: {.notes}
+Each prompt turns the tool into retrieval practice or elaboration. Model one prompt live with a passage from the class materials, then ask a student to try another. Stress: "using only my sources" keeps the answers accurate.
+:::
+
+## NotebookLM: Rules of Use
+
+- **Your brain does the work**: answer before you look at the AI's answer
+- **Check against the sources**: citations let you verify every claim
+- **Never hand in AI text as your own writing**: use it to understand, then write yourself
+
+::: {.notes}
+Connect back to the myth of multitasking and to retrieval practice: the best prompt is one that makes you recall, not one that gives you the answer. Ask students for an example of a prompt they would use this week.
+:::
 
 ## Recap
 
-- Key concepts reviewed
-- Real-world applications explored
-- Ready for assessment
-
-## Quick Check — Live Quiz {.center}
-
-Scan the QR code on the [session material page](index.qmd) (or ask your teacher to display it) to join the live quiz on this session.
+- Prepare your body and mind: sleep, exercise, water, healthy snacks
+- Multitasking is switching; attention can only be on one thing at a time
+- Re-reading and cramming feel productive but work poorly
+- Six strategies: elaboration, retrieval practice, spaced practice, interleaving, dual coding, concrete examples
+- NotebookLM can be a study partner, as long as you do the thinking

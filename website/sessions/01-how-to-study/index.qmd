@@ -4,50 +4,51 @@ title: "How to Study"
 
 ## Overview
 
-Learn evidence-based study techniques backed by cognitive science research Read through the material below and then watch the presentation.
+Most study habits feel productive, but only some of them lead to lasting learning. This session covers how to prepare your body and mind, which common strategies to avoid, and six evidence-based strategies that work. Read through the material below, then watch the presentation.
 
 [→ View the slides](slides.qmd)
 
 ## Key Vocabulary
 
-
 ::: {.vocab-box}
-**Spaced practice** — Revisiting material over time with gaps between reviews
-:::
-
-::: {.vocab-box}
-**Interleaving** — Mixing up different types of problems or topics during study
+**Spaced practice** — spreading study over time, with gaps between sessions, instead of cramming.
 :::
 
 ::: {.vocab-box}
-**Retrieval practice** — Testing yourself on material you've learned
+**Retrieval practice** — bringing information to mind from memory (closing the book and writing or sketching what you know), rather than re-reading it.
 :::
 
 ::: {.vocab-box}
-**Elaboration** — Explaining concepts and connecting them to existing knowledge
+**Interleaving** — switching between different topics or types of problems during a study session, instead of studying one topic until it is finished.
 :::
 
 ::: {.vocab-box}
-**Concrete examples** — Specific instances that illustrate an abstract concept
+**Elaboration** — explaining an idea in detail, asking how and why it works, and connecting it to what you already know.
 :::
 
 ::: {.vocab-box}
-**Dual coding** — Using both words and images to understand material
+**Concrete examples** — specific cases that illustrate an abstract idea.
 :::
 
-
-## Quick Check — Live Quiz {.center}
-
-::: {.qr-block}
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="180" height="180">
-
-::: {}
-**How to Study — 3 questions**
-
-1. Which study technique is most effective: cramming or spaced practice?
-2. What is interleaving and how does it differ from blocking?
-3. How does elaboration improve learning?
-
-[Or open the quiz directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
+::: {.vocab-box}
+**Dual coding** — combining words and visuals (diagrams, timelines, drawings) to represent the same information.
 :::
+
+::: {.vocab-box}
+**Multitasking** — the myth of doing several tasks at once. In practice we switch rapidly between tasks, and attention can only be on one task at a time.
 :::
+
+::: {.vocab-box}
+**Pomodoro technique** — studying in focused blocks (about 25 minutes) separated by short breaks.
+:::
+
+## Further Reading
+
+These are the sources cited in the original presentations, from the Learning Scientists (learningscientists.org):
+
+- Spaced practice: Benjamin, A. S., & Tullis, J. (2010). What makes distributed practice effective? *Cognitive Psychology*, 61, 228–247.
+- Retrieval practice: Roediger, H. L., Putnam, A. L., & Smith, M. A. (2011). Ten benefits of testing and their applications to educational practice.
+- Interleaving: Rohrer, D. (2012). Interleaving helps students distinguish among similar concepts. *Educational Psychology Review*, 24, 355–367.
+- Elaboration: McDaniel, M. A., & Donnelly, C. M. (1996). Learning with analogy and elaborative interrogation. *Journal of Educational Psychology*, 88, 508–519.
+- Dual coding: Mayer, R. E., & Anderson, R. B. (1992). The instructive animation: Helping students build connections between words and pictures in multimedia learning. *Journal of Educational Psychology*, 4 (as printed in the original slide; please verify the volume), 444–452.
+- Concrete examples: Rawson, K. A., Thomas, R. C., & Jacoby, L. L. (2014). The power of examples: Illustrative examples enhance conceptual learning of declarative concepts. *Educational Psychology Review*, 27, 483–504.
