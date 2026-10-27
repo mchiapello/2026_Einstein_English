@@ -10,6 +10,14 @@ format:
     footer: "Scientific English — Liceo Einstein"
 ---
 
+## Warm-up: Review of Session 4 — Live Quiz {.center}
+
+Start of class: scan the QR code on the [session 4 material page](../04-dna-extraction/index.qmd) to join the live quiz on the previous lesson.
+
+::: {.notes}
+Every lesson starts with an assessment of the previous class. Display the QR code, run the quiz, then discuss the answers before moving on.
+:::
+
 ## Central Dogma {.center}
 
 Understand how genetic information flows from DNA through RNA to create proteins
@@ -161,7 +169,3 @@ Start of RNA Synthesis: Once the DNA is unwound, the RNA polymerase begins synth
 - Key concepts reviewed
 - Real-world applications explored
 - Ready for assessment
-
-## Quick Check — Live Quiz {.center}
-
-Scan the QR code on the [session material page](index.qmd) (or ask your teacher to display it) to join the live quiz on this session.

@@ -2,6 +2,28 @@
 title: "Understanding DNA"
 ---
 
+## Start of Class: Review of Session 2 — Live Quiz {.center}
+
+Scan the QR code below with your phone to join the live quiz on the previous session. We start every lesson with this review.
+
+::: {.qr-block}
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="180" height="180">
+
+::: {}
+**Scientific Method — quick check (3 questions)**
+
+1. What is the difference between precision and accuracy?
+2. What is the purpose of a control group in an experiment?
+3. What is the first step of the scientific method?
+
+[Or open the quiz directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
+:::
+:::
+
+::: {.callout-important}
+**Before class:** replace `REPLACE_WITH_YOUR_GOOGLE_FORM_LINK` above with your actual quiz link (see the [Live Quizzes](../../quizzes.qmd) page for how to set this up — it only takes a few minutes and only needs to be done once per session).
+:::
+
 ## Overview
 
 DNA is the molecule that carries genetic instructions for all living things. In this session, you'll learn about DNA's structure, how it works, and why it's so important to life. Read through the material below and then watch the presentation.
@@ -107,19 +129,3 @@ Thanks to the Human Genome Project and advances in sequencing technology:
 - **Agriculture:** We can breed crops and animals with desirable traits
 - **Evolution:** We can understand how species are related and how they evolved
 - **Forensics:** DNA is used to identify suspects and exonerate the innocent
-
-## Check Your Understanding — Live Quiz {.center}
-
-::: {.qr-block}
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="180" height="180">
-
-::: {}
-**DNA — 3 questions**
-
-1. What are the four bases in DNA and their pairing rules?
-2. What is the difference between a gene and a genome?
-3. What percentage of the human genome actually codes for proteins?
-
-[Or open the quiz directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
-:::
-:::

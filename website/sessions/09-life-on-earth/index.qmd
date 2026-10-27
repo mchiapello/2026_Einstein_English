@@ -2,6 +2,22 @@
 title: "Life on Earth"
 ---
 
+## Start of Class: Review of Session 8 — Live Quiz {.center}
+
+::: {.qr-block}
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="180" height="180">
+
+::: {}
+**Forensic DNA — 3 questions**
+
+1. How is DNA used to identify criminals?
+2. What are STRs and why are they useful in forensics?
+3. Why is chain of custody important in forensic investigations?
+
+[Or open the quiz directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
+:::
+:::
+
 ## Overview
 
 Understand how life evolved and how we know the age of our planet Read through the material below and then watch the presentation.
@@ -33,21 +49,4 @@ Understand how life evolved and how we know the age of our planet Read through t
 
 ::: {.vocab-box}
 **Ancestor** — An organism from which other organisms descend
-:::
-
-
-## Quick Check — Live Quiz {.center}
-
-::: {.qr-block}
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="180" height="180">
-
-::: {}
-**Life on Earth — 3 questions**
-
-1. What evidence supports the theory of evolution?
-2. How do scientists determine the age of fossils?
-3. What is natural selection and how does it drive evolution?
-
-[Or open the quiz directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
-:::
 :::

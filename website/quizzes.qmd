@@ -2,7 +2,7 @@
 title: "Live Quizzes"
 ---
 
-Students answer these quizzes **on their own phones** during class, after scanning a QR code. This page explains how it works and how to set one up for a new session.
+Students answer these quizzes **on their own phones** during class, after scanning a QR code. Every lesson **starts** with the quiz on the *previous* session, so the quiz for session N lives on the page and slides of session N+1. This page explains how it works and how to set one up for a new session.
 
 ## Why not build a custom quiz app?
 
@@ -23,7 +23,7 @@ A live, whole-class quiz needs a server that collects everyone's answers in real
 1. Go to [Google Forms](https://forms.google.com) → new form → click the **Settings gear → Quizzes** → turn on "Make this a quiz".
 2. Add your multiple-choice questions and mark the correct answer for each (so students get instant feedback).
 3. Click **Send** → the **link (🔗) icon** → copy the short link.
-4. Open the session's `index.qmd` file and replace `REPLACE_WITH_YOUR_GOOGLE_FORM_LINK` (it appears **twice**: once in the image `src`, once in the "Or open the quiz directly" link) with that link.
+4. Open the `index.qmd` file of the *following* session (where the review quiz sits) and replace `REPLACE_WITH_YOUR_GOOGLE_FORM_LINK` (it appears **twice**: once in the image `src`, once in the "Or open the quiz directly" link) with that link.
 5. Re-render the site (`quarto render` or `quarto preview`) — the QR code image updates automatically, because it's generated on the fly from the link you pasted (via [api.qrserver.com](https://api.qrserver.com), a free public QR-code service — no software to install).
 
 That's the whole reusable pattern — the block below is what's in each session page:
@@ -49,6 +49,6 @@ If you'd rather not depend on an external QR image service, you can generate a Q
 
 ## Reusing your existing exam questions
 
-Your `EXAM/exercises/*.Rmd` files (written for the R/exams package, used for the paper exam) are a ready-made question bank. Each file has the question text and a `TRUE`/`FALSE` solution vector for the answers — that maps directly onto a Google Forms multiple-choice question. For example, `Einstein_L1_Q1.Rmd`, `Q2` and `Q3` became the three questions used in the [Scientific Method quiz](sessions/02-scientific-method/index.qmd).
+Your `EXAM/exercises/*.Rmd` files (written for the R/exams package, used for the paper exam) are a ready-made question bank. Each file has the question text and a `TRUE`/`FALSE` solution vector for the answers — that maps directly onto a Google Forms multiple-choice question. For example, `Einstein_L1_Q1.Rmd`, `Q2` and `Q3` became the three questions of the Scientific Method quiz (now at the start of [session 3](sessions/03-dna/index.qmd)).
 
 When building out the remaining sessions, pull 2–4 questions per session from the matching `Einstein_L*_Q*.Rmd` files as a starting point for that session's live quiz.

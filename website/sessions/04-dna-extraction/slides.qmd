@@ -10,6 +10,14 @@ format:
     footer: "Scientific English — Liceo Einstein"
 ---
 
+## Warm-up: Review of Session 3 — Live Quiz {.center}
+
+Start of class: scan the QR code on the [session 3 material page](../03-dna/index.qmd) to join the live quiz on the previous lesson.
+
+::: {.notes}
+Every lesson starts with an assessment of the previous class. Display the QR code, run the quiz, then discuss the answers before moving on.
+:::
+
 ## DNA Extraction {.center}
 
 Learn how to extract DNA from cells using simple household materials
@@ -81,7 +89,3 @@ DNA should slowly appear
 - Key concepts reviewed
 - Real-world applications explored
 - Ready for assessment
-
-## Quick Check — Live Quiz {.center}
-
-Scan the QR code on the [session material page](index.qmd) (or ask your teacher to display it) to join the live quiz on this session.

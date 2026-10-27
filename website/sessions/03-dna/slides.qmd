@@ -10,6 +10,14 @@ format:
     footer: "Scientific English — Liceo Einstein"
 ---
 
+## Warm-up: Review of Session 2 — Live Quiz {.center}
+
+Start of class: scan the QR code on the [session 2 material page](../02-scientific-method/index.qmd) to join the live quiz on the previous lesson.
+
+::: {.notes}
+Every lesson starts with an assessment of the previous class. Display the QR code, run the quiz, then discuss the answers before moving on.
+:::
+
 ## DNA: The Molecule of Life {.center}
 
 - The blueprint of life
@@ -210,7 +218,3 @@ Genomics is transforming medicine. In the future, doctors might sequence a patie
 - The human genome has ~3 billion base pairs and ~20,000 genes
 - We share significant DNA with all living organisms
 - Genomic technology is revolutionizing medicine and biology
-
-## Quick Check — Live Quiz {.center}
-
-Scan the QR code on the [session material page](index.qmd) (or ask your teacher to display it) to join the live quiz on this session.

@@ -10,6 +10,14 @@ format:
     footer: "Scientific English — Liceo Einstein"
 ---
 
+## Warm-up: Review of Session 1 — Live Quiz {.center}
+
+Start of class: scan the QR code on the [session 1 material page](../01-how-to-study/index.qmd) to join the live quiz on the previous lesson.
+
+::: {.notes}
+Every lesson starts with an assessment of the previous class. Display the QR code, run the quiz, then discuss the answers before moving on.
+:::
+
 ## What is the Scientific Method? {.center}
 
 - A way to investigate the world and answer questions using **observation** and **experiment**
@@ -277,10 +285,6 @@ Show them the actual historical 1929 publication photo. This is real data from a
 ::: {.fragment}
 **Estimated lives saved to date: over 200 million**
 :::
-
-## Quick Check — Live Quiz {.center}
-
-Scan the QR code on the [session material page](index.qmd) (or ask your teacher to display it) to join the live quiz on this session.
 
 ## Recap
 

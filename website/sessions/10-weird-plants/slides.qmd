@@ -10,6 +10,14 @@ format:
     footer: "Scientific English — Liceo Einstein"
 ---
 
+## Warm-up: Review of Session 9 — Live Quiz {.center}
+
+Start of class: scan the QR code on the [session 9 material page](../09-life-on-earth/index.qmd) to join the live quiz on the previous lesson.
+
+::: {.notes}
+Every lesson starts with an assessment of the previous class. Display the QR code, run the quiz, then discuss the answers before moving on.
+:::
+
 ## Weird Plants {.center}
 
 Explore fascinating adaptations and unusual characteristics of plants around the world
