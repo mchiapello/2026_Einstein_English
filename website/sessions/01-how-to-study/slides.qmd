@@ -114,7 +114,70 @@ Re-reading feels fluent, so students mistake fluency for learning. Demonstrate t
 - **Outlining**: read the material twice. The first time, do nothing else. The second time, record the main points
 
 ::: {.notes}
-The Cornell method: a notes column, a cue column with questions, and a summary at the bottom. The outlining trick separates understanding from extracting. Connect back to the six strategies: these are variants of retrieval practice and elaboration.
+The Cornell method: a notes column, a cue column with questions, and a summary at the bottom. The outlining trick separates understanding from extracting. The next few slides show how to set up Cornell notes. Connect back to the six strategies: these are variants of retrieval practice and elaboration.
+:::
+
+## Cornell Note-Taking {.center}
+
+A simple page layout that turns your notes into a study tool
+
+::: {.notes}
+Introduce the Cornell method as the concrete version of the note-taking tip from the previous slide. It was developed at Cornell University in the 1950s. The goal of this short section is that students can set up a Cornell page in their notebook this week.
+:::
+
+## Cornell Notes: The Page Layout
+
+::: {style="display:grid; grid-template-columns: 30% 70%; grid-template-rows: 3fr 1fr; width:75%; height:16em; margin:0 auto; border:3px solid #1d5c9c; font-size:0.7em; text-align:center;"}
+::: {style="border-right:3px solid #1d5c9c; border-bottom:3px solid #1d5c9c; background:#fdf3e3; display:flex; align-items:center; justify-content:center; padding:0.3em;"}
+**Cue column**<br>keywords and questions
+:::
+::: {style="border-bottom:3px solid #1d5c9c; background:#eaf3fb; display:flex; align-items:center; justify-content:center; padding:0.3em;"}
+**Notes column**<br>main ideas, facts, examples, drawings
+:::
+::: {style="grid-column: 1 / span 2; background:#eef7ea; display:flex; align-items:center; justify-content:center; padding:0.3em;"}
+**Summary**: the whole page in 2-3 sentences, in your own words
+:::
+:::
+
+::: {.notes}
+Draw this on the board or show a real notebook page. Left column about one third of the width, notes on the right, summary in a strip at the bottom. Leave the cue column and summary empty during the lesson: they are filled in afterwards.
+:::
+
+## Cornell Notes: Five Steps
+
+1. **Record**: take notes in the right column during the lesson, in your own words
+2. **Question**: after class, write questions and keywords in the cue column
+3. **Recite**: cover the notes column and answer each cue from memory
+4. **Summarize**: write the main idea of the page in the bottom box
+5. **Review**: come back to the page after a few days and again after a few weeks
+
+::: {.notes}
+Steps 1 and 4 are note-taking and elaboration. Step 3 is retrieval practice and step 5 is spaced practice, so the Cornell method already combines several of the six strategies we are about to see. Ask students which step they think is the most useful, and which they are most likely to skip (usually step 3).
+:::
+
+## Cornell Notes: Example {.smaller}
+
+| Cue column | Notes column |
+|---|---|
+| What is a hypothesis? | A testable, falsifiable explanation for an observation |
+| Why a control group? | Baseline for comparison, shows the effect of the treatment |
+| Precision vs. accuracy? | Precision: repeated results agree. Accuracy: close to the true value |
+
+**Summary:** A good experiment changes one variable and compares it with a control.
+
+::: {.notes}
+Use content from the next lesson so students see it is practical. Stress that the cues are real questions that you could answer out loud, not single words.
+:::
+
+## Cornell Notes: Hold On!
+
+- Do not copy the teacher or the book word for word: **rewrite in your own words**
+- Write cues that are **questions**, not just titles
+- Do not skip step 3: reading the notes again is not retrieval, **covering them and answering** is
+- Fill in the cue column and summary the **same day**, while you still remember the lesson
+
+::: {.notes}
+Link to the "Hold on" warnings of retrieval practice and elaboration that come later. Homework suggestion: use the Cornell layout for the notes of the next lesson.
 :::
 
 ## Six Strategies for Effective Learning
@@ -122,55 +185,7 @@ The Cornell method: a notes column, a cue column with questions, and a summary a
 ![Learning Scientists: Six Strategies for Effective Learning](img/strat-11.png){width="65%" fig-align="center"}
 
 ::: {.notes}
-This is the overview of the six strategies we will study: elaboration, retrieval practice, spaced practice, interleaving, dual coding and concrete examples. Each strategy has a "How to do it" part and "Hold on" warnings. The highlighted hexagon in each section shows which strategy you are looking at.
-:::
-
-## Elaboration {.center}
-
-![](img/elab-2.png){width="65%" fig-align="center"}
-
-::: {.notes}
-Elaboration means explaining and describing ideas with many details. Ask a question about why something works, then find the answer and explain it to a classmate.
-:::
-
-## Elaboration: Ask Why and How
-
-![](img/elab-3.png){width="65%" fig-align="center"}
-
-::: {.notes}
-Ask yourself "how" and "why" questions while studying, then find the answers in the class materials and discuss them with classmates.
-:::
-
-## Elaboration: Connect Ideas
-
-![](img/elab-4.png){width="65%" fig-align="center"}
-
-::: {.notes}
-Take two ideas and ask how they are similar and different. This forces you to explain how they work together.
-:::
-
-## Elaboration: Use Your Own Experience
-
-![](img/elab-5.png){width="65%" fig-align="center"}
-
-::: {.notes}
-Link new ideas to your own experiences. Ask for a personal example from the class.
-:::
-
-## Elaboration: Hold On! (accuracy)
-
-![](img/elab-6.png){width="65%" fig-align="center"}
-
-::: {.notes}
-Elaborations must be accurate, so check them against the class materials or ask the teacher.
-:::
-
-## Elaboration: Hold On! (explain without notes)
-
-![](img/elab-7.png){width="65%" fig-align="center"}
-
-::: {.notes}
-You should be able to explain without looking at your notes. That is what turns elaboration into retrieval practice.
+This is the overview of the six strategies we will study: retrieval practice, spaced practice, dual coding, interleaving, concrete examples and elaboration. Each strategy has a "How to do it" part and "Hold on" warnings. The highlighted hexagon in each section shows which strategy you are looking at.
 :::
 
 ## Retrieval Practice {.center}
@@ -179,6 +194,14 @@ You should be able to explain without looking at your notes. That is what turns 
 
 ::: {.notes}
 Retrieval practice means bringing information to mind, not just looking at it. It is the strategy with the strongest support in the research, so give it time in the session.
+:::
+
+## Retrieval Practice: Video
+
+{{< video https://www.youtube.com/watch?v=jfREWvtd_DM >}}
+
+::: {.notes}
+The Learning Scientists, "Retrieval Practice: A video for Students". Play it in class, then ask students to name one way they could use the strategy this week.
 :::
 
 ## Retrieval Practice: Write or Sketch
@@ -237,6 +260,14 @@ Warn against recalling only definitions: students should also recall main ideas,
 Spaced practice means spreading study over time instead of cramming. Start with the slide's example: five hours spread over two weeks works better than five hours in one go.
 :::
 
+## Spaced Practice: Video
+
+{{< video https://www.youtube.com/watch?v=3WJYp98eys8 >}}
+
+::: {.notes}
+The Learning Scientists, "Study Strategies: Spaced Practice". Play it in class, then ask students to name one way they could use the strategy this week.
+:::
+
 ## Spaced Practice: Plan Early
 
 ![](img/spaced-03.png){width="65%" fig-align="center"}
@@ -285,60 +316,20 @@ Feeling that you forget things from day to day is normal and useful: having to r
 Small spaced sessions of a few days each add up to much more than one long session.
 :::
 
-## Interleaving {.center}
-
-![](img/interleave-2.png){width="65%" fig-align="center"}
-
-::: {.notes}
-Interleaving means switching between different topics during a study session, instead of studying one topic until it is finished.
-:::
-
-## Interleaving: Switch Between Topics
-
-![](img/interleave-3.png){width="65%" fig-align="center"}
-
-::: {.notes}
-Study topic A, then B, then C. Do not study one idea for too long.
-:::
-
-## Interleaving: Mix the Order
-
-![](img/interleave-4.png){width="65%" fig-align="center"}
-
-::: {.notes}
-Go back over the ideas in different orders in later study sessions to strengthen understanding.
-:::
-
-## Interleaving: Link the Ideas
-
-![](img/interleave-5.png){width="65%" fig-align="center"}
-
-::: {.notes}
-Make links between different ideas as you switch between them.
-:::
-
-## Interleaving: Hold On! (do not switch too often)
-
-![](img/interleave-6.png){width="65%" fig-align="center"}
-
-::: {.notes}
-Switching is good, but not so often that you spend too little time on any one idea. You need to understand each one.
-:::
-
-## Interleaving: Hold On! (it feels harder)
-
-![](img/interleave-7.png){width="65%" fig-align="center"}
-
-::: {.notes}
-Interleaving will feel harder than blocking, and that is the point. Ask students to suggest how they could interleave their revision for two subjects this week.
-:::
-
 ## Dual Coding {.center}
 
 ![](img/dual-02.png){width="65%" fig-align="center"}
 
 ::: {.notes}
 Dual coding means combining words and visuals. Using both gives you two ways to retrieve the same idea.
+:::
+
+## Dual Coding: Video
+
+{{< video https://www.youtube.com/watch?v=91SqSp2Ljqc >}}
+
+::: {.notes}
+The Learning Scientists, "Dual Coding: A Video For Students". Play it in class, then ask students to name one way they could use the strategy this week.
 :::
 
 ## Dual Coding: Find the Visuals
@@ -421,12 +412,76 @@ A graphic organizer shows how ideas are linked. Ask which format suits each subj
 Work up to drawing from memory. Start with the class material open, then close it and draw what you remember.
 :::
 
+## Interleaving {.center}
+
+![](img/interleave-2.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Interleaving means switching between different topics during a study session, instead of studying one topic until it is finished.
+:::
+
+## Interleaving: Video
+
+{{< video https://www.youtube.com/watch?v=fIv_5-ODuow >}}
+
+::: {.notes}
+The Learning Scientists, "Interleaving: A Video for Students". Play it in class, then ask students to name one way they could use the strategy this week.
+:::
+
+## Interleaving: Switch Between Topics
+
+![](img/interleave-3.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Study topic A, then B, then C. Do not study one idea for too long.
+:::
+
+## Interleaving: Mix the Order
+
+![](img/interleave-4.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Go back over the ideas in different orders in later study sessions to strengthen understanding.
+:::
+
+## Interleaving: Link the Ideas
+
+![](img/interleave-5.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Make links between different ideas as you switch between them.
+:::
+
+## Interleaving: Hold On! (do not switch too often)
+
+![](img/interleave-6.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Switching is good, but not so often that you spend too little time on any one idea. You need to understand each one.
+:::
+
+## Interleaving: Hold On! (it feels harder)
+
+![](img/interleave-7.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Interleaving will feel harder than blocking, and that is the point. Ask students to suggest how they could interleave their revision for two subjects this week.
+:::
+
 ## Concrete Examples {.center}
 
 ![](img/concrete-2.png){width="65%" fig-align="center"}
 
 ::: {.notes}
 Concrete examples means using specific cases to understand abstract ideas. Ask students for a concrete example of a concept from this course.
+:::
+
+## Concrete Examples: Video
+
+{{< video https://www.youtube.com/watch?v=XZ-CK0abJy8 >}}
+
+::: {.notes}
+The Learning Scientists, "Concrete Examples: A Video for Students". Play it in class, then ask students to name one way they could use the strategy this week.
 :::
 
 ## Concrete Examples: Collect Them
@@ -467,6 +522,62 @@ Not every example you find online is used correctly. Check examples with the tea
 
 ::: {.notes}
 The strongest examples are the ones you create yourself.
+:::
+
+## Elaboration {.center}
+
+![](img/elab-2.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Elaboration means explaining and describing ideas with many details. Ask a question about why something works, then find the answer and explain it to a classmate.
+:::
+
+## Elaboration: Video
+
+{{< video https://www.youtube.com/watch?v=0Fjoe44rsMI >}}
+
+::: {.notes}
+The Learning Scientists, "Elaboration: A Video for Students". Play it in class, then ask students to name one way they could use the strategy this week.
+:::
+
+## Elaboration: Ask Why and How
+
+![](img/elab-3.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Ask yourself "how" and "why" questions while studying, then find the answers in the class materials and discuss them with classmates.
+:::
+
+## Elaboration: Connect Ideas
+
+![](img/elab-4.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Take two ideas and ask how they are similar and different. This forces you to explain how they work together.
+:::
+
+## Elaboration: Use Your Own Experience
+
+![](img/elab-5.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Link new ideas to your own experiences. Ask for a personal example from the class.
+:::
+
+## Elaboration: Hold On! (accuracy)
+
+![](img/elab-6.png){width="65%" fig-align="center"}
+
+::: {.notes}
+Elaborations must be accurate, so check them against the class materials or ask the teacher.
+:::
+
+## Elaboration: Hold On! (explain without notes)
+
+![](img/elab-7.png){width="65%" fig-align="center"}
+
+::: {.notes}
+You should be able to explain without looking at your notes. That is what turns elaboration into retrieval practice.
 :::
 
 ## Bonus: NotebookLM {.center}
@@ -526,5 +637,5 @@ Connect back to the myth of multitasking and to retrieval practice: the best pro
 - Prepare your body and mind: sleep, exercise, water, healthy snacks
 - Multitasking is switching; attention can only be on one thing at a time
 - Re-reading and cramming feel productive but work poorly
-- Six strategies: elaboration, retrieval practice, spaced practice, interleaving, dual coding, concrete examples
+- Six strategies: retrieval practice, spaced practice, dual coding, interleaving, concrete examples, elaboration
 - NotebookLM can be a study partner, as long as you do the thinking
