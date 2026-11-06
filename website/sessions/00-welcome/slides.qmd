@@ -98,7 +98,7 @@ Give 5 minutes. Rule: they can only ask in English ("Have you ever...?", "Do you
 | 5. Central Dogma | 6. Biotech I |
 | 7. Bioinformatics (Lab) | 8. Forensic DNA |
 | 9. Life on Earth | 10. Weird Plants |
-| 11. Final exam
+| 11. Final exam | |
 
 ::: {.notes}
 Ask: which topic looks most interesting to you? Which one is a mystery? Point out the lab session (4) and the forensic session (8), which students usually look forward to.

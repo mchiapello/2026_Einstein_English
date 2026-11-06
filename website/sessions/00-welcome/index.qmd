@@ -5,10 +5,6 @@ subtitle: "Session 0 — The course, your teacher, and you"
 
 [Open the slides →](slides.qmd)
 
-::: {.callout-important}
-**Before class:** fill in the placeholders in square brackets (your name, background, contact, assessment details) on this page and in `slides.qmd`, and replace `REPLACE_WITH_YOUR_GOOGLE_FORM_LINK` with the link to the "Getting to know you" form. This box is removed from the public site automatically.
-:::
-
 ## What is this course?
 
 **Scientific English** is a science course taught entirely in English. We look at real biology (the scientific method, DNA, biotechnology, bioinformatics, evolution and plants) and, at the same time, we learn the English that scientists use to describe it.
@@ -17,10 +13,9 @@ You do not need perfect English to take part. Mistakes are part of learning a la
 
 ## Your teacher
 
-**[Your name]** — [one or two sentences on your background: what you studied, where you work, what kind of research you do].
+**Marco Chiapello** — I studied biology at the University of Turin, and have a PhD in Fungal Biology and Biotechnology. I worked in research and teaching in Italy, the UK, and Switzerland. I currently work at Agilent Technologies, a life sciences, diagnostics, and analytical laboratory technology company that helps scientists and laboratories measure, analyze, diagnose, and understand chemical and biological samples.
 
-- Why I teach this course: [a short personal reason]
-- Contact: [email address or how to reach you]
+- Contact: chiapello.m@gmail.com
 
 ## The course map
 
@@ -48,7 +43,8 @@ Use the study strategies from Session 1 with this material: test yourself, space
 
 ## Assessment
 
-- [How the course is assessed, e.g. a final multiple-choice test on the sessions, and when it takes place]
+- The final exam is **multiple choice** plus a **short answer** section
+- It will be in 2027
 - The live quizzes are for practice: they show you and the teacher what to review.
 
 ## Class agreements
@@ -89,7 +85,7 @@ Use the study strategies from Session 1 with this material: test yourself, space
 Please fill in this short form, so I can adapt the course to the class.
 
 ::: {.qr-block}
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to open the getting-to-know-you form" width="180" height="180">
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://docs.google.com/forms/d/e/1FAIpQLSc5shRl2aSKhkPkoUykfnfIBQLflujU8UlyJenxNzK9KQJhZw/viewform?usp=publish-editor" alt="QR code to open the getting-to-know-you form" width="180" height="180">
 
 ::: {}
 **Getting to know you — 5 questions**
@@ -100,6 +96,6 @@ Please fill in this short form, so I can adapt the course to the class.
 4. What do you want to do after school?
 5. One thing you would like to learn in this course
 
-[Or open the form directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
+[Or open the form directly →](https://docs.google.com/forms/d/e/1FAIpQLSc5shRl2aSKhkPkoUykfnfIBQLflujU8UlyJenxNzK9KQJhZw/viewform?usp=publish-editor)
 :::
 :::
