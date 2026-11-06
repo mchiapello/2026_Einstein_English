@@ -25,13 +25,17 @@ Plan about 20-25 minutes for this session, then move on to How to Study. Speak s
 
 :::: {.columns}
 ::: {.column width="60%"}
-- **[Your name]**
-- [What you studied]
-- [Where you work and what you do]
-- [One fun fact about you]
+::: {.smaller style="font-size: 25pt"}
+- **Marco Chiapello**
+- I studied biology at the University of Turin, and have a PhD in Fungal Biology and Biotechnology.
+- I worked in research and teaching in Italy, the UK, and the Switzerland.
+- Currently I work at Agilent Technologies, a life sciences, diagnostics, and analytical laboratory technology company. It helps scientists and laboratories measure, analyze, diagnose, and understand chemical and biological samples.
+:::
 :::
 ::: {.column width="40%"}
-[Photo of you, or of your lab or workplace]
+![](img/MarcoChiapello.jpg){width="45%" fig-align="center"}
+
+![](img/agilent.png){width="45%" fig-align="center"}
 :::
 ::::
 
@@ -43,9 +47,9 @@ Keep it short and personal: a photo of your lab, your field work, or an object f
 
 Two of these are true, one is false. Which one is the lie?
 
-1. [True fact about you]
-2. [True fact about you]
-3. [False fact about you]
+1. My English grade in high school was 4/10.
+2. I am currently working only in English.
+3. I am working in a biology laboratory.
 
 ::: {.notes}
 Students vote with their hands (1, 2 or 3) before you reveal the answer. Ask a few students to explain their choice in English: "I think number 2 is false, because...". This models the game they will play next.
@@ -59,11 +63,12 @@ Move from the teacher to the students. The goal is that everyone says at least o
 
 ## Introduce Yourself
 
-Say these three things, in English:
+Say these three things:
 
 - My name is ...
 - One thing I like is ...
 - One word that describes me is ...
+- What I want to be when I grow up is ...
 
 ::: {.notes}
 Go around the room quickly, about 20 seconds per student. Write the sentence frames on the board. If the class is large, do it in groups of four and then ask one student per group to introduce someone else ("This is Marco, he likes...").
@@ -71,13 +76,11 @@ Go around the room quickly, about 20 seconds per student. Write the sentence fra
 
 ## Find Someone Who ...
 
-Walk around and find a classmate who ... (write their name)
 
-| | Name |
+| | |
 |---|---|
 | has been to an English-speaking country | |
 | wants to study medicine or biology | |
-| has a pet that is not a cat or a dog | |
 | has watched a science documentary this month | |
 | can name a famous scientist (not Einstein!) | |
 | knows what DNA stands for | |
@@ -88,11 +91,14 @@ Give 5 minutes. Rule: they can only ask in English ("Have you ever...?", "Do you
 
 ## The Course Map
 
-| | | | |
-|---|---|---|---|
-| 1. How to Study | 2. Scientific Method | 3. DNA | 4. DNA Extraction (Lab) |
-| 5. Central Dogma | 6. Biotech I | 7. Bioinformatics | 8. Forensic DNA |
-| 9. Life on Earth | 10. Weird Plants | | |
+| | |
+|---|---|
+| 1. How to Study | 2. Scientific Method |
+| 3. DNA | 4. DNA Extraction (Lab) |
+| 5. Central Dogma | 6. Biotech I |
+| 7. Bioinformatics (Lab) | 8. Forensic DNA |
+| 9. Life on Earth | 10. Weird Plants |
+| 11. Final exam
 
 ::: {.notes}
 Ask: which topic looks most interesting to you? Which one is a mystery? Point out the lab session (4) and the forensic session (8), which students usually look forward to.
@@ -110,8 +116,8 @@ Show the course website on the projector and where to find the sessions. Explain
 
 ## Assessment
 
-- [How the course is assessed]
-- [When]
+- The final exam is **multiple choice** plus a **short answer** section
+- It will be in 2027
 - Live quizzes are **practice**: they show what to review
 
 ::: {.notes}
@@ -129,23 +135,11 @@ Fill in according to the school's arrangement. Be clear and concrete: students w
 Ask the class if they want to add an agreement. Mistakes in English are normal and welcome, just like failed experiments in science.
 :::
 
-## Useful Classroom English
-
-- Could you repeat that, please?
-- How do you say ... in English?
-- What does ... mean?
-- Can you speak more slowly, please?
-- I'm not sure, but I think ...
-
-::: {.notes}
-Practise one or two of these immediately: say a sentence too fast on purpose and wait for someone to ask you to speak more slowly. These phrases are also on the session material page.
-:::
-
 ## Getting to Know You
 
 :::: {.columns}
 ::: {.column width="40%"}
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to open the getting-to-know-you form" width="300" height="300">
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://docs.google.com/forms/d/e/1FAIpQLSc5shRl2aSKhkPkoUykfnfIBQLflujU8UlyJenxNzK9KQJhZw/viewform?usp=publish-editor" alt="QR code to open the getting-to-know-you form" width="300" height="300">
 :::
 ::: {.column width="60%"}
 Scan and answer 5 short questions:
