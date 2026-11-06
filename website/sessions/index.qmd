@@ -3,6 +3,13 @@ title: "Sessions"
 ---
 
 ::: {.session-card}
+### 0. Welcome
+The course, the teacher and the class: introductions, course map, how lessons work, class agreements.
+
+[Material →](00-welcome/index.qmd) · [Slides →](00-welcome/slides.qmd)
+:::
+
+::: {.session-card}
 ### 1. How to Study
 Evidence-based study strategies: spaced practice, retrieval practice, interleaving, elaboration, concrete examples, dual coding.
 

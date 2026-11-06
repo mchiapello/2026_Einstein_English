@@ -34,15 +34,24 @@ These materials come from the Learning Scientists, a group of cognitive psycholo
 
 ## Your Brain Is Part of Your Body {.center}
 
+![](img/brain-body.svg){width="45%" fig-align="center"}
+
 ::: {.notes}
 This sets up the next two slides: learning is a physical process. Sleep, exercise and food affect memory and attention, so preparing your body is part of studying. Ask: when did you last study well after a bad night of sleep?
 :::
 
 ## Preparing Your Body and Mind (1/2)
 
+:::: {.columns}
+::: {.column width="55%"}
 - **Keep a sleep schedule**: the more regular it is, the easier it is to fall asleep and wake up
 - **Build a wind-down routine** so your body learns that it is time to rest
 - **Put your phone away before bed**: interacting with it keeps your mind active when it should be winding down
+:::
+::: {.column width="45%"}
+![](img/sleep-phone.svg){fig-alt=""}
+:::
+::::
 
 ::: {.notes}
 Ask students to estimate how many hours they sleep and when they put the phone away. Keep it non-judgmental. Connect to memory: memories are consolidated during sleep, so an all-nighter before an exam weakens recall the next day.
@@ -50,9 +59,16 @@ Ask students to estimate how many hours they sleep and when they put the phone a
 
 ## Preparing Your Body and Mind (2/2)
 
+:::: {.columns}
+::: {.column width="55%"}
 - **Exercise regularly**: good for physical and mental health
 - **Stay hydrated**: dehydration hurts your ability to think and remember
 - **Eat healthy snacks**: fruit and vegetables while you study, because thinking is hard work
+:::
+::: {.column width="45%"}
+![](img/body-care.svg){fig-alt=""}
+:::
+::::
 
 ::: {.notes}
 Quick poll: how many of you drank water during the last lesson? Make the point that studying is physically demanding, so it is worth looking after yourself. Do not go beyond the claims on the slide.
@@ -66,10 +82,17 @@ This is the most important correction in the session. Name the myth and ask what
 
 ## What Is Multitasking?
 
+:::: {.columns}
+::: {.column width="55%"}
 - The term is misleading
 - We do not do several tasks at once: we **switch** between them
 - A few minutes of study, then TV, then texting, then back to study
 - Our attention can only be on one task at any given time
+:::
+::: {.column width="45%"}
+![](img/multitasking.svg){fig-alt=""}
+:::
+::::
 
 ::: {.notes}
 Ask: when you say you are studying while listening to music, what happens when a notification arrives? Each switch costs time and attention, so the study time is split and less is learned. Ask students to name their own switching habits.
@@ -77,8 +100,15 @@ Ask: when you say you are studying while listening to music, what happens when a
 
 ## Focusing Your Learning (1/2)
 
+:::: {.columns}
+::: {.column width="55%"}
 - **Stick to a routine**: it puts you in a studying state of mind. Choose something you find pleasant and relaxing
 - **Try the Pomodoro technique**: focused work in short blocks of about 25 minutes, with a short break in between
+:::
+::: {.column width="45%"}
+![](img/pomodoro.svg){fig-alt=""}
+:::
+::::
 
 ::: {.notes}
 Pomodoro means "tomato" in Italian: the original timer was a tomato-shaped kitchen timer. Ask students to try one 25-minute block this week and report back at the next session.
@@ -101,8 +131,15 @@ Students often rely on methods that feel productive but produce weak long-term l
 
 ## Popular Strategies: How to Make Them Work (1/2)
 
+:::: {.columns}
+::: {.column width="55%"}
 - **Re-reading** builds confidence but not much learning. Combine it with spaced and retrieval practice
 - **Flashcards** are powerful when you use them to recall from memory, not just to read. Keep testing yourself even after a correct answer
+:::
+::: {.column width="45%"}
+![](img/reread-vs-recall.svg){fig-alt=""}
+:::
+::::
 
 ::: {.notes}
 Re-reading feels fluent, so students mistake fluency for learning. Demonstrate the difference: read a paragraph, close the book and write what you remember, then compare. The gap is where the learning happens.
@@ -127,7 +164,9 @@ Introduce the Cornell method as the concrete version of the note-taking tip from
 
 ## Cornell Notes: The Page Layout
 
-::: {style="display:grid; grid-template-columns: 30% 70%; grid-template-rows: 3fr 1fr; width:75%; height:16em; margin:0 auto; border:3px solid #1d5c9c; font-size:0.7em; text-align:center;"}
+:::: {.columns}
+::: {.column width="55%"}
+::: {style="display:grid; grid-template-columns: 30% 70%; grid-template-rows: 3fr 1fr; width:100%; height:15em; margin:0 auto; border:3px solid #1d5c9c; font-size:0.55em; text-align:center;"}
 ::: {style="border-right:3px solid #1d5c9c; border-bottom:3px solid #1d5c9c; background:#fdf3e3; display:flex; align-items:center; justify-content:center; padding:0.3em;"}
 **Cue column**<br>keywords and questions
 :::
@@ -138,6 +177,11 @@ Introduce the Cornell method as the concrete version of the note-taking tip from
 **Summary**: the whole page in 2-3 sentences, in your own words
 :::
 :::
+:::
+::: {.column width="45%"}
+![A Cornell page, filled in](img/cornell-page-layout.png){fig-alt="A notebook page divided into a cue column, a notes column and a summary box"}
+:::
+::::
 
 ::: {.notes}
 Draw this on the board or show a real notebook page. Left column about one third of the width, notes on the right, summary in a strip at the bottom. Leave the cue column and summary empty during the lesson: they are filled in afterwards.
@@ -178,6 +222,14 @@ Use content from the next lesson so students see it is practical. Stress that th
 
 ::: {.notes}
 Link to the "Hold on" warnings of retrieval practice and elaboration that come later. Homework suggestion: use the Cornell layout for the notes of the next lesson.
+:::
+
+## Cornell Notes: A Full Example
+
+![Cornell notes on this lesson: How to Study](img/cornell-page-example.png){fig-alt="A filled-in Cornell page with questions, notes and a summary" fig-align="center" height="520"}
+
+::: {.notes}
+This page shows what a student's Cornell notes on today's lesson could look like. Point out the three zones: the questions on the left are written after class, the notes on the right during class, and the summary at the bottom last. Challenge: cover the right column and answer each question from memory.
 :::
 
 ## Six Strategies for Effective Learning
@@ -590,9 +642,16 @@ Introduce the last tool of the session. The question to ask students: is this AI
 
 ## What Is NotebookLM?
 
+:::: {.columns}
+::: {.column width="55%"}
 - Made by Google, free with a Google account
 - **You upload your own sources**: class slides, PDFs, notes, web pages
 - Answers come from **your** documents, with citations you can check
+:::
+::: {.column width="45%"}
+![](img/notebooklm.svg){fig-alt=""}
+:::
+::::
 
 ::: {.notes}
 Check the current features and any school restrictions before the lesson at notebooklm.google.com, since Google updates the tool often. For students under 18, confirm the school's policy on Google accounts and AI tools. Show the interface live if possible.

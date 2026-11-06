@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10z" fill="#e76f51"/></marker></defs>
+  <circle cx="210" cy="150" r="30" fill="#fde8d8" stroke="#1d5c9c" stroke-width="5"/>
+  <circle cx="200" cy="146" r="3" fill="#1d5c9c"/><circle cx="220" cy="146" r="3" fill="#1d5c9c"/><path d="M198 160q12 8 24 0" fill="none" stroke="#1d5c9c" stroke-width="3" stroke-linecap="round"/>
+  <g stroke="#e76f51" stroke-width="4" fill="none" marker-end="url(#a)">
+    <path d="M190 124C170 90 150 80 120 76"/><path d="M232 122C255 92 280 80 305 76"/><path d="M196 182C180 215 160 235 122 244"/><path d="M226 182C240 215 262 235 302 244"/>
+  </g>
+  <g>
+    <rect x="30" y="40" width="90" height="70" rx="10" fill="#e3f0fb" stroke="#1d5c9c" stroke-width="4"/><path d="M75 52v46M52 56h46v38H52z" fill="#fff" stroke="#1d5c9c" stroke-width="3"/><text x="75" y="130" font-size="17" font-weight="700" fill="#1d5c9c">study</text>
+    <rect x="305" y="40" width="90" height="70" rx="10" fill="#e3f0fb" stroke="#1d5c9c" stroke-width="4"/><rect x="335" y="52" width="30" height="46" rx="5" fill="#2b2b2b"/><rect x="339" y="58" width="22" height="30" fill="#4b8bd8"/><text x="350" y="130" font-size="17" font-weight="700" fill="#1d5c9c">texting</text>
+    <rect x="30" y="215" width="90" height="70" rx="10" fill="#e3f0fb" stroke="#1d5c9c" stroke-width="4"/><rect x="48" y="230" width="54" height="36" rx="4" fill="#2b2b2b"/><rect x="53" y="235" width="44" height="26" fill="#6cc3a8"/><text x="75" y="304" font-size="17" font-weight="700" fill="#1d5c9c">TV</text>
+    <rect x="305" y="215" width="90" height="70" rx="10" fill="#e3f0fb" stroke="#1d5c9c" stroke-width="4"/><circle cx="350" cy="250" r="18" fill="#fff" stroke="#1d5c9c" stroke-width="3"/><path d="M350 238v12l8 6" fill="none" stroke="#1d5c9c" stroke-width="3"/><text x="350" y="304" font-size="17" font-weight="700" fill="#1d5c9c">music / games</text>
+  </g>
+  <text x="210" y="212" font-size="15" fill="#e76f51" font-weight="700">switching!</text>
+</svg>

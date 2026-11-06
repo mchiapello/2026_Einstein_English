@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 280" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <rect x="10" y="10" width="200" height="260" rx="16" fill="#fdecea" stroke="#e76f51" stroke-width="4"/>
+  <text x="110" y="42" font-size="20" font-weight="700" fill="#b5442b">Re-reading</text>
+  <rect x="62" y="70" width="96" height="70" rx="6" fill="#fff" stroke="#b5442b" stroke-width="4"/><path d="M110 70v70M72 88h28M72 102h28M72 116h28M120 88h28M120 102h28M120 116h28" stroke="#b5442b" stroke-width="3"/>
+  <ellipse cx="110" cy="182" rx="38" ry="22" fill="#fff" stroke="#b5442b" stroke-width="4"/><circle cx="110" cy="182" r="11" fill="#b5442b"/>
+  <text x="110" y="244" font-size="16" fill="#555">feels easy,</text><text x="110" y="262" font-size="16" fill="#555">little learning</text>
+  <rect x="230" y="10" width="200" height="260" rx="16" fill="#e8f6f3" stroke="#2a9d8f" stroke-width="4"/>
+  <text x="330" y="42" font-size="20" font-weight="700" fill="#1c6f64">Recalling</text>
+  <path d="M290 150c-14-30 14-62 40-48 18-16 52-4 52 24 14 16 6 46-18 50-14 18-44 14-54-6-12-2-18-10-20-20z" fill="#f4a5b8" stroke="#c2415f" stroke-width="4"/>
+  <text x="332" y="148" font-size="44" font-weight="700" fill="#c2415f">?</text>
+  <text x="330" y="244" font-size="16" fill="#555">feels hard,</text><text x="330" y="262" font-size="16" fill="#555">strong learning</text>
+</svg>

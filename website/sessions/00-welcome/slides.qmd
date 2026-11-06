@@ -1,0 +1,169 @@
+---
+title: "Welcome to Scientific English"
+subtitle: "Session 0 — The course, your teacher, and you"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    incremental: false
+    auto-stretch: false
+    footer: "Scientific English — Liceo Einstein"
+---
+
+## Welcome! {.center}
+
+- A science course, **taught in English**
+- Real biology, and the English that scientists use to talk about it
+- Today: the course, your teacher, and **you**
+
+::: {.notes}
+Plan about 20-25 minutes for this session, then move on to How to Study. Speak slowly and clearly, and use gestures and the board: for many students this is the first lesson fully in English. Reassure them that they are not expected to understand every word.
+:::
+
+## Who Am I?
+
+:::: {.columns}
+::: {.column width="60%"}
+- **[Your name]**
+- [What you studied]
+- [Where you work and what you do]
+- [One fun fact about you]
+:::
+::: {.column width="40%"}
+[Photo of you, or of your lab or workplace]
+:::
+::::
+
+::: {.notes}
+Keep it short and personal: a photo of your lab, your field work, or an object from your work makes it concrete. Students are curious about what a scientist actually does all day.
+:::
+
+## Guess the Fact
+
+Two of these are true, one is false. Which one is the lie?
+
+1. [True fact about you]
+2. [True fact about you]
+3. [False fact about you]
+
+::: {.notes}
+Students vote with their hands (1, 2 or 3) before you reveal the answer. Ask a few students to explain their choice in English: "I think number 2 is false, because...". This models the game they will play next.
+:::
+
+## Now It's Your Turn {.center}
+
+::: {.notes}
+Move from the teacher to the students. The goal is that everyone says at least one sentence in English today.
+:::
+
+## Introduce Yourself
+
+Say these three things, in English:
+
+- My name is ...
+- One thing I like is ...
+- One word that describes me is ...
+
+::: {.notes}
+Go around the room quickly, about 20 seconds per student. Write the sentence frames on the board. If the class is large, do it in groups of four and then ask one student per group to introduce someone else ("This is Marco, he likes...").
+:::
+
+## Find Someone Who ...
+
+Walk around and find a classmate who ... (write their name)
+
+| | Name |
+|---|---|
+| has been to an English-speaking country | |
+| wants to study medicine or biology | |
+| has a pet that is not a cat or a dog | |
+| has watched a science documentary this month | |
+| can name a famous scientist (not Einstein!) | |
+| knows what DNA stands for | |
+
+::: {.notes}
+Give 5 minutes. Rule: they can only ask in English ("Have you ever...?", "Do you want to...?"). At the end, ask who completed the most rows and check a few answers with the class. The DNA question is a nice bridge to the course content: deoxyribonucleic acid.
+:::
+
+## The Course Map
+
+| | | | |
+|---|---|---|---|
+| 1. How to Study | 2. Scientific Method | 3. DNA | 4. DNA Extraction (Lab) |
+| 5. Central Dogma | 6. Biotech I | 7. Bioinformatics | 8. Forensic DNA |
+| 9. Life on Earth | 10. Weird Plants | | |
+
+::: {.notes}
+Ask: which topic looks most interesting to you? Which one is a mystery? Point out the lab session (4) and the forensic session (8), which students usually look forward to.
+:::
+
+## How Each Lesson Works
+
+1. **Live quiz** on the previous lesson (scan the QR code)
+2. **New topic**: slides, videos, activities
+3. **Material page** on the website: vocabulary and reading to review at home
+
+::: {.notes}
+Show the course website on the projector and where to find the sessions. Explain that the quiz is practice, not a grade: it tells them and you what to review. The first quiz will be at the start of the next lesson, on How to Study.
+:::
+
+## Assessment
+
+- [How the course is assessed]
+- [When]
+- Live quizzes are **practice**: they show what to review
+
+::: {.notes}
+Fill in according to the school's arrangement. Be clear and concrete: students want to know what counts.
+:::
+
+## Class Agreements
+
+- **English first**: try in English, then ask for help
+- **Questions are welcome**: there are no stupid questions in science
+- **Phones** for quizzes and activities only
+- **Respect**: listen and help each other
+
+::: {.notes}
+Ask the class if they want to add an agreement. Mistakes in English are normal and welcome, just like failed experiments in science.
+:::
+
+## Useful Classroom English
+
+- Could you repeat that, please?
+- How do you say ... in English?
+- What does ... mean?
+- Can you speak more slowly, please?
+- I'm not sure, but I think ...
+
+::: {.notes}
+Practise one or two of these immediately: say a sentence too fast on purpose and wait for someone to ask you to speak more slowly. These phrases are also on the session material page.
+:::
+
+## Getting to Know You
+
+:::: {.columns}
+::: {.column width="40%"}
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to open the getting-to-know-you form" width="300" height="300">
+:::
+::: {.column width="60%"}
+Scan and answer 5 short questions:
+
+- Your English confidence (1–5)
+- Your favourite science topic
+- What you want to learn
+:::
+::::
+
+::: {.notes}
+Give 3 minutes. The answers help you adapt the level of English and the examples to this class. This is also a test run of the QR code system used for the quizzes, so any phone or connection problem shows up now instead of during the first quiz.
+:::
+
+## Let's Start! {.center}
+
+Next: **How to Study**
+
+::: {.notes}
+Transition to Session 1. A natural bridge: "In this course you will learn a lot of new things. So, first of all: how do we learn?"
+:::

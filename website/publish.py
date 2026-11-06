@@ -21,9 +21,14 @@ OUT = SITE / "_site_public"
 SKIP = {"_site", "_site_public", ".quarto", "__pycache__", "schedule.toml", "publish.py", "quizzes.qmd"}
 
 
+def num(s):
+    """Session number shown to students, taken from the folder prefix (00-welcome -> 0)."""
+    return int(s["dir"].split("-")[0])
+
+
 def pick(sessions, today, forced):
-    if forced:
-        return forced - 1
+    if forced is not None:
+        return next(i for i, s in enumerate(sessions) if num(s) == forced)
     cur = -1
     for i, s in enumerate(sessions):
         if s["date"] <= today:
@@ -32,7 +37,7 @@ def pick(sessions, today, forced):
 
 
 def card(i, s, state, summary=""):
-    n, when = i + 1, s["date"].strftime("%d %B %Y").lstrip("0")
+    n, when = num(s), s["date"].strftime("%d %B %Y").lstrip("0")
     if state == "live":
         d = s["dir"]
         links = f"[Material →]({d}/index.qmd)" + (f" · [Slides →]({d}/slides.qmd)" if (SITE / "sessions" / d / "slides.qmd").exists() else "")
@@ -61,7 +66,7 @@ def build(sessions, cur):
     # navigation: plain text (no link) for placeholders; drop the teacher-only quizzes page
     cfg = (SITE / "_quarto.yml").read_text()
     items = "\n".join(
-        f"          - sessions/{s['dir']}/index.qmd" if i in live else f"          - text: \"{i + 1}. {s['title']}\""
+        f"          - sessions/{s['dir']}/index.qmd" if i in live else f"          - text: \"{num(s)}. {s['title']}\""
         for i, s in enumerate(sessions)
     )
     cfg = re.sub(r"(          - sessions/index\.qmd\n)(?:          - .*\n)+", lambda m: m.group(1) + items + "\n", cfg)

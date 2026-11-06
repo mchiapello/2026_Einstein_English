@@ -15,7 +15,7 @@ website:
       - href: quizzes.qmd
         text: Live Quizzes
     right:
-      - text: "A.Y. 2025/26"
+      - text: "A.Y. 2026/27"
   sidebar:
     style: docked
     contents:
@@ -23,6 +23,7 @@ website:
       - section: "Sessions"
         contents:
           - sessions/index.qmd
+          - sessions/00-welcome/index.qmd
           - sessions/01-how-to-study/index.qmd
           - sessions/02-scientific-method/index.qmd
           - sessions/03-dna/index.qmd

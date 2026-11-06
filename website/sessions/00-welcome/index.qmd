@@ -1,0 +1,105 @@
+---
+title: "Welcome to Scientific English"
+subtitle: "Session 0 — The course, your teacher, and you"
+---
+
+[Open the slides →](slides.qmd)
+
+::: {.callout-important}
+**Before class:** fill in the placeholders in square brackets (your name, background, contact, assessment details) on this page and in `slides.qmd`, and replace `REPLACE_WITH_YOUR_GOOGLE_FORM_LINK` with the link to the "Getting to know you" form. This box is removed from the public site automatically.
+:::
+
+## What is this course?
+
+**Scientific English** is a science course taught entirely in English. We look at real biology (the scientific method, DNA, biotechnology, bioinformatics, evolution and plants) and, at the same time, we learn the English that scientists use to describe it.
+
+You do not need perfect English to take part. Mistakes are part of learning a language, just as failed experiments are part of science. What matters is that you **try to speak, read and write in English** every lesson.
+
+## Your teacher
+
+**[Your name]** — [one or two sentences on your background: what you studied, where you work, what kind of research you do].
+
+- Why I teach this course: [a short personal reason]
+- Contact: [email address or how to reach you]
+
+## The course map
+
+| # | Session | What it is about |
+|---|---|---|
+| 0 | Welcome | The course, the teacher, the class |
+| 1 | How to Study | Evidence-based study strategies |
+| 2 | Introduction & Scientific Method | Observation, hypothesis, experiment, conclusion |
+| 3 | DNA | Structure and function of DNA |
+| 4 | DNA Extraction (Lab) | Extract DNA with your own hands |
+| 5 | Biology Central Dogma | From DNA to RNA to protein |
+| 6 | Biotech I | DNA technologies |
+| 7 | Bioinformatics | Reading and comparing DNA sequences |
+| 8 | Forensic DNA | DNA fingerprinting |
+| 9 | Life on Earth | Evolution and the age of the Earth |
+| 10 | Weird Plants | Plant biology beyond the obvious |
+
+## How each lesson works
+
+1. **Live quiz** on the previous lesson: scan the QR code with your phone and answer.
+2. **New topic**, with slides, videos and activities in English.
+3. **Material page** on this website: key vocabulary and reading to review at home.
+
+Use the study strategies from Session 1 with this material: test yourself, space your review, and write notes in your own words.
+
+## Assessment
+
+- [How the course is assessed, e.g. a final multiple-choice test on the sessions, and when it takes place]
+- The live quizzes are for practice: they show you and the teacher what to review.
+
+## Class agreements
+
+- **English first**: try in English, then ask for help if you are stuck
+- **Questions are welcome**, at any time: there are no stupid questions in science
+- **Phones** are for the quizzes and activities, not for social media
+- **Respect**: listen when someone is speaking and help each other
+
+## Useful classroom English
+
+::: {.vocab-box}
+**Could you repeat that, please?** — when you did not hear or understand.
+:::
+
+::: {.vocab-box}
+**How do you say ... in English?** — when you know the word in Italian but not in English.
+:::
+
+::: {.vocab-box}
+**What does ... mean?** — when you do not know a word.
+:::
+
+::: {.vocab-box}
+**Can you speak more slowly, please?** — when the speaker is too fast.
+:::
+
+::: {.vocab-box}
+**I agree / I disagree, because ...** — to give your opinion in a discussion.
+:::
+
+::: {.vocab-box}
+**I'm not sure, but I think ...** — to answer even when you are not certain.
+:::
+
+## Getting to know you
+
+Please fill in this short form, so I can adapt the course to the class.
+
+::: {.qr-block}
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to open the getting-to-know-you form" width="180" height="180">
+
+::: {}
+**Getting to know you — 5 questions**
+
+1. Your name and class
+2. How confident do you feel in English? (1–5)
+3. Which science topic interests you most?
+4. What do you want to do after school?
+5. One thing you would like to learn in this course
+
+[Or open the form directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
+:::
+:::

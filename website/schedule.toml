@@ -4,6 +4,12 @@
 # a placeholder on the public site.
 # Course starts Friday 6 November 2026; dates below assume one lesson per week.
 
+# Session 0 shares the first day with session 1 (welcome first, then How to Study).
+[[session]]
+dir = "00-welcome"
+title = "Welcome"
+date = 2026-11-06
+
 [[session]]
 dir = "01-how-to-study"
 title = "How to Study"
