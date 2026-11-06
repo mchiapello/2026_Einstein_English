@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <defs><marker id="b" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10z" fill="#1d5c9c"/></marker></defs>
+  <g fill="#fff" stroke="#1d5c9c" stroke-width="4"><rect x="20" y="30" width="70" height="90" rx="6"/><rect x="34" y="46" width="70" height="90" rx="6"/><rect x="48" y="62" width="70" height="90" rx="6"/></g>
+  <g stroke="#1d5c9c" stroke-width="4"><path d="M62 86h40M62 102h40M62 118h28"/></g>
+  <text x="80" y="184" font-size="17" font-weight="700" fill="#1d5c9c">your sources</text><text x="80" y="204" font-size="14" fill="#555">notes, slides, PDFs</text>
+  <path d="M135 105h60" stroke="#1d5c9c" stroke-width="5" marker-end="url(#b)"/>
+  <rect x="205" y="45" width="100" height="120" rx="10" fill="#e3f0fb" stroke="#1d5c9c" stroke-width="5"/>
+  <circle cx="255" cy="92" r="22" fill="#fff" stroke="#1d5c9c" stroke-width="4"/><path d="M247 92h16M255 84v16" stroke="#1d5c9c" stroke-width="4"/>
+  <text x="255" y="140" font-size="16" font-weight="700" fill="#1d5c9c">NotebookLM</text>
+  <path d="M320 105h50" stroke="#1d5c9c" stroke-width="5" marker-end="url(#b)"/>
+  <rect x="380" y="40" width="90" height="100" rx="14" fill="#e8f6f3" stroke="#2a9d8f" stroke-width="4"/><path d="M400 140l-6 22 24-22z" fill="#e8f6f3" stroke="#2a9d8f" stroke-width="4"/>
+  <path d="M394 66h62M394 82h62M394 98h40" stroke="#2a9d8f" stroke-width="4"/><text x="446" y="124" font-size="14" font-weight="700" fill="#1c6f64">[1][2]</text>
+  <text x="425" y="190" font-size="17" font-weight="700" fill="#1c6f64">answers with</text><text x="425" y="210" font-size="17" font-weight="700" fill="#1c6f64">citations</text>
+</svg>

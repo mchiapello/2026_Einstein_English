@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <ellipse cx="130" cy="150" rx="100" ry="90" fill="#e63946" stroke="#9d1f2c" stroke-width="5"/>
+  <path d="M130 62l-26-22 22 6 4-24 8 22 24-10-16 20 22 8-24 4z" fill="#2a9d8f" stroke="#1c6f64" stroke-width="3"/>
+  <circle cx="130" cy="150" r="58" fill="#fff" stroke="#9d1f2c" stroke-width="4"/>
+  <path d="M130 150V108M130 150l28 16" stroke="#222" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="130" cy="150" r="5" fill="#222"/>
+  <rect x="260" y="62" width="150" height="60" rx="10" fill="#2a9d8f"/><text x="335" y="102" font-size="24" font-weight="700" fill="#fff">25 min focus</text>
+  <rect x="260" y="134" width="150" height="40" rx="10" fill="#f4c95d"/><text x="335" y="162" font-size="19" font-weight="700" fill="#5a4300">5 min break</text>
+  <text x="335" y="214" font-size="16" fill="#555">repeat 4 times,</text><text x="335" y="236" font-size="16" fill="#555">then a longer break</text>
+</svg>
