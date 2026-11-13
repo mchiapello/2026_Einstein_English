@@ -1,6 +1,6 @@
 # Course calendar. Edit the dates freely (ISO format, YYYY-MM-DD).
-# publish.py publishes the session whose date is the latest one <= today
-# (the "current" lesson) plus the one before it. Everything else shows as
+# publish.py publishes every session whose date is <= today;
+# everything after today shows as
 # a placeholder on the public site.
 # Course starts Friday 6 November 2026; dates below assume one lesson per week.
 

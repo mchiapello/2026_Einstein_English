@@ -2,9 +2,9 @@
 """Build (and optionally deploy) the PUBLIC version of the course website.
 
 The full site (all lessons) is what you work on locally with `quarto preview`.
-This script builds a reduced copy that contains only the current and the
-previous lesson; every other lesson becomes a placeholder with no page behind
-it. Future lessons never leave your computer.
+This script builds a reduced copy that contains every lesson up to today
+(all sessions whose date is today or earlier); future lessons become
+placeholders with no page behind them and never leave your computer.
 
 Usage (run from anywhere):
   python3 website/publish.py                 # build into website/_site_public
@@ -47,7 +47,8 @@ def card(i, s, state, summary=""):
 
 
 def build(sessions, cur):
-    live = {i for i in (cur - 1, cur) if 0 <= i < len(sessions)}
+    live = set(range(0, cur + 1))  # every session up to and including the current one
+    shutil.rmtree(OUT, ignore_errors=True)  # start clean so no stale pages get published
     tmp = Path(tempfile.mkdtemp(prefix="einstein-public-"))
     for p in SITE.iterdir():
         if p.name in SKIP or p.name == "sessions":
