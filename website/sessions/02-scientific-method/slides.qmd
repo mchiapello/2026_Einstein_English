@@ -333,3 +333,22 @@ Show them the actual historical 1929 publication photo. This is real data from a
 - Distinguish **precision** from **accuracy**
 - Control groups, randomization and replication make experiments trustworthy
 - Fleming's discovery of penicillin is a real-world example of this whole process
+
+## Classroom Exercise: Exploring the Scientific Method {.smaller}
+
+:::: {.columns}
+::: {.column width="40%"}
+![](img/worksheet-preview.png){width="100%" fig-align="center"}
+:::
+::: {.column width="60%"}
+Worksheet handed out on paper in class. It covers:
+
+- **True or False** — correct 5 statements about the scientific method
+- **Matching** — match 8 terms (hypothesis, control group, independent/dependent variable…) to their definitions
+- **Identifying** — read 3 real scenarios and identify the independent variable, dependent variable, experimental group and control group in each
+:::
+::::
+
+::: {.notes}
+Hand out the paper worksheet now and give students time to work through it individually or in pairs. This is a good formative check: the True/False section tests vocabulary, Matching tests definitions, and the three scenarios (dog food, sunscreen, plant growth) test whether students can actually identify variables and groups in a new context, not just recite definitions. Walk around and help, then go through the answers together before the end of class.
+:::
