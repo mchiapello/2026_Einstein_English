@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <path d="M30 80Q100 20 170 80Q100 140 30 80z" fill="#fff" stroke="#1d5c9c" stroke-width="6"/>
+  <circle cx="100" cy="80" r="28" fill="#2a9d8f"/><circle cx="100" cy="80" r="12" fill="#222"/><circle cx="108" cy="72" r="5" fill="#fff"/>
+  <text x="100" y="175" font-size="19" fill="#222">Direct experience</text>
+  <path d="M300 50Q260 35 225 45v75q35-10 75 5z" fill="#f4c95d" stroke="#8d6e63" stroke-width="4"/>
+  <path d="M300 50Q340 35 375 45v75q-35-10-75 5z" fill="#f4c95d" stroke="#8d6e63" stroke-width="4"/>
+  <g stroke="#8d6e63" stroke-width="3"><line x1="240" y1="65" x2="285" y2="70"/><line x1="240" y1="80" x2="285" y2="85"/><line x1="240" y1="95" x2="285" y2="100"/><line x1="315" y1="70" x2="360" y2="65"/><line x1="315" y1="85" x2="360" y2="80"/><line x1="315" y1="100" x2="360" y2="95"/></g>
+  <text x="300" y="175" font-size="19" fill="#222">Literature</text>
+  <rect x="445" y="25" width="110" height="115" rx="8" fill="#fff" stroke="#1d5c9c" stroke-width="5"/>
+  <rect x="462" y="95" width="16" height="30" fill="#2a9d8f"/><rect x="484" y="75" width="16" height="50" fill="#e63946"/><rect x="506" y="60" width="16" height="65" fill="#e9a23b"/><rect x="528" y="85" width="16" height="40" fill="#1d5c9c"/>
+  <line x1="460" y1="42" x2="540" y2="42" stroke="#aaa" stroke-width="4" stroke-linecap="round"/>
+  <text x="500" y="175" font-size="19" fill="#222">Previous studies</text>
+</svg>

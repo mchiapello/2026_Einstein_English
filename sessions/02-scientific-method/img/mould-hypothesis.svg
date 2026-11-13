@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 250" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <g fill="#6a994e"><circle cx="90" cy="120" r="38"/><circle cx="62" cy="100" r="22"/><circle cx="118" cy="98" r="22"/><circle cx="66" cy="145" r="20"/><circle cx="116" cy="146" r="20"/></g>
+  <g fill="#a7c957"><circle cx="80" cy="110" r="7"/><circle cx="102" cy="128" r="6"/><circle cx="76" cy="134" r="5"/></g>
+  <text x="90" y="200" font-size="18" font-weight="700" fill="#6a994e">Penicillium</text>
+  <text x="90" y="222" font-size="16" fill="#555">(mould)</text>
+  <g fill="#f4c95d" stroke="#c99a1e" stroke-width="2"><circle cx="160" cy="95" r="7"/><circle cx="190" cy="85" r="6"/><circle cx="165" cy="125" r="7"/><circle cx="200" cy="122" r="6"/><circle cx="160" cy="155" r="7"/><circle cx="192" cy="162" r="6"/></g>
+  <text x="185" y="55" font-size="20" font-weight="700" fill="#c99a1e">substance?</text>
+  <g fill="#8e5ea2"><rect x="-24" y="-10" width="48" height="20" rx="10" transform="translate(300 80) rotate(20)"/><rect x="-24" y="-10" width="48" height="20" rx="10" transform="translate(320 135) rotate(-15)"/><rect x="-24" y="-10" width="48" height="20" rx="10" transform="translate(295 185) rotate(35)"/></g>
+  <g stroke="#e63946" stroke-width="6" stroke-linecap="round"><path d="M282 62l36 36M318 62l-36 36"/><path d="M302 117l36 36M338 117l-36 36"/><path d="M277 167l36 36M313 167l-36 36"/></g>
+  <text x="370" y="240" font-size="18" font-weight="700" fill="#8e5ea2">bacteria</text>
+</svg>

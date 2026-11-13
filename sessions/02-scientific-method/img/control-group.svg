@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 270" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <text x="150" y="26" font-size="20" font-weight="700" fill="#e63946">Experimental group</text>
+  <text x="150" y="50" font-size="16" fill="#555">+ new fertilizer</text>
+  <line x1="150" y1="175" x2="150" y2="65" stroke="#6a994e" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#6a994e"><ellipse cx="128" cy="140" rx="24" ry="10" transform="rotate(-30 128 140)"/><ellipse cx="172" cy="122" rx="24" ry="10" transform="rotate(30 172 122)"/><ellipse cx="130" cy="100" rx="22" ry="9" transform="rotate(-30 130 100)"/><ellipse cx="170" cy="82" rx="20" ry="9" transform="rotate(30 170 82)"/></g>
+  <path d="M110 172h80l-12 45h-56z" fill="#c97c4a"/>
+  <text x="450" y="26" font-size="20" font-weight="700" fill="#1d5c9c">Control group</text>
+  <text x="450" y="50" font-size="16" fill="#555">no fertilizer</text>
+  <line x1="450" y1="175" x2="450" y2="118" stroke="#6a994e" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#6a994e"><ellipse cx="430" cy="150" rx="22" ry="9" transform="rotate(-30 430 150)"/><ellipse cx="470" cy="135" rx="20" ry="9" transform="rotate(30 470 135)"/></g>
+  <path d="M410 172h80l-12 45h-56z" fill="#c97c4a"/>
+  <rect x="40" y="232" width="520" height="32" rx="16" fill="#eaf3fb"/>
+  <text x="300" y="254" font-size="17" fill="#1d5c9c">Everything else the same: light, water, soil, pot</text>
+</svg>

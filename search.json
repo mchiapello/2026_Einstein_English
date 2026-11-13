@@ -1,99 +1,87 @@
 [
   {
+    "objectID": "sessions/02-scientific-method/index.html",
+    "href": "sessions/02-scientific-method/index.html",
+    "title": "Introduction & Scientific Method",
+    "section": "",
+    "text": "Open the slides →",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Introduction & Scientific Method"
+    ]
+  },
+  {
+    "objectID": "sessions/02-scientific-method/index.html#start-of-class-review-of-session-1-live-quiz",
+    "href": "sessions/02-scientific-method/index.html#start-of-class-review-of-session-1-live-quiz",
+    "title": "Introduction & Scientific Method",
+    "section": "Start of Class: Review of Session 1 — Live Quiz",
+    "text": "Start of Class: Review of Session 1 — Live Quiz\n\n\n\nHow to Study — 10 questions\n\nWhy is five hours of study spread over two weeks better than five hours in one night?\nWhy does re-reading your notes give weaker learning than retrieval practice?\nWhat does interleaving mean, and why should you not switch topics too often?\n\nOr open the quiz directly →",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Introduction & Scientific Method"
+    ]
+  },
+  {
+    "objectID": "sessions/02-scientific-method/index.html#overview",
+    "href": "sessions/02-scientific-method/index.html#overview",
+    "title": "Introduction & Scientific Method",
+    "section": "Overview",
+    "text": "Overview\nThe scientific method is a step-by-step process for exploring how the world works: observation → question → hypothesis → experiment → data collection → data analysis → conclusion. It isn’t a straight line — scientists loop back and revise as they learn more.",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Introduction & Scientific Method"
+    ]
+  },
+  {
+    "objectID": "sessions/02-scientific-method/index.html#key-vocabulary",
+    "href": "sessions/02-scientific-method/index.html#key-vocabulary",
+    "title": "Introduction & Scientific Method",
+    "section": "Key Vocabulary",
+    "text": "Key Vocabulary\n\n\nhypothesis — a testable, falsifiable proposed explanation\nfalsifiable — capable of being proven wrong by evidence\nindependent variable — the factor the experimenter deliberately changes\ndependent variable — the factor that is measured\ncontrol group — the baseline group that does not receive the treatment, used for comparison\nconfounding variable — an outside factor that could distort the result\nprecision — how closely repeated measurements agree with each other\naccuracy — how close a measurement is to the true value",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Introduction & Scientific Method"
+    ]
+  },
+  {
+    "objectID": "sessions/02-scientific-method/index.html#precision-vs.-accuracy",
+    "href": "sessions/02-scientific-method/index.html#precision-vs.-accuracy",
+    "title": "Introduction & Scientific Method",
+    "section": "Precision vs. Accuracy",
+    "text": "Precision vs. Accuracy\nIt’s easy to confuse these two. A measurement can be precise but not accurate (consistent, but consistently wrong due to a systematic error), or accurate but not precise (right on average, but scattered).",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Introduction & Scientific Method"
+    ]
+  },
+  {
+    "objectID": "sessions/02-scientific-method/index.html#case-study-penicillin",
+    "href": "sessions/02-scientific-method/index.html#case-study-penicillin",
+    "title": "Introduction & Scientific Method",
+    "section": "Case Study: Penicillin",
+    "text": "Case Study: Penicillin\nAlexander Fleming’s 1928 discovery of penicillin is a real example of the full scientific method in action — from an accidental observation (mould killing bacteria on a forgotten petri dish) to a hypothesis, experiments, and a conclusion that changed medicine. See the slides for the full walkthrough.",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Introduction & Scientific Method"
+    ]
+  },
+  {
     "objectID": "sessions/index.html",
     "href": "sessions/index.html",
     "title": "Sessions",
     "section": "",
-    "text": "0. Welcome\n6 November 2026\nMaterial → · Slides →\n\n\n1. How to Study\n6 November 2026\nMaterial → · Slides →\n\n\n2. Introduction & Scientific Method\nComing soon — 13 November 2026\n\n\n3. DNA\nComing soon — 20 November 2026\n\n\n4. DNA Extraction (Lab)\nComing soon — 27 November 2026\n\n\n5. Biology Central Dogma\nComing soon — 4 December 2026\n\n\n6. Biotech I\nComing soon — 11 December 2026\n\n\n7. Bioinformatics\nComing soon — 18 December 2026\n\n\n8. Forensic DNA\nComing soon — 8 January 2027\n\n\n9. Life on Earth\nComing soon — 15 January 2027\n\n\n10. Weird Plants\nComing soon — 22 January 2027",
+    "text": "0. Welcome\nNo longer online — 6 November 2026\n\n\n1. How to Study\n6 November 2026\nMaterial → · Slides →\n\n\n2. Introduction & Scientific Method\n13 November 2026\nMaterial → · Slides →\n\n\n3. DNA\nComing soon — 20 November 2026\n\n\n4. DNA Extraction (Lab)\nComing soon — 27 November 2026\n\n\n5. Biology Central Dogma\nComing soon — 4 December 2026\n\n\n6. Biotech I\nComing soon — 11 December 2026\n\n\n7. Bioinformatics\nComing soon — 18 December 2026\n\n\n8. Forensic DNA\nComing soon — 8 January 2027\n\n\n9. Life on Earth\nComing soon — 15 January 2027\n\n\n10. Weird Plants\nComing soon — 22 January 2027",
     "crumbs": [
       "Home",
       "Sessions",
       "Sessions"
     ]
-  },
-  {
-    "objectID": "sessions/00-welcome/slides.html#welcome",
-    "href": "sessions/00-welcome/slides.html#welcome",
-    "title": "Welcome to Scientific English",
-    "section": "Welcome!",
-    "text": "Welcome!\n\nA science course, taught in English\nReal biology, and the English that scientists use to talk about it\nToday: the course, your teacher, and you\n\n\nPlan about 20-25 minutes for this session, then move on to How to Study. Speak slowly and clearly, and use gestures and the board: for many students this is the first lesson fully in English. Reassure them that they are not expected to understand every word."
-  },
-  {
-    "objectID": "sessions/00-welcome/slides.html#who-am-i",
-    "href": "sessions/00-welcome/slides.html#who-am-i",
-    "title": "Welcome to Scientific English",
-    "section": "Who Am I?",
-    "text": "Who Am I?\n\n\n\n\nMarco Chiapello\nI studied biology at the University of Turin, and have a PhD in Fungal Biology and Biotechnology.\nI worked in research and teaching in Italy, the UK, and the Switzerland.\nCurrently I work at Agilent Technologies, a life sciences, diagnostics, and analytical laboratory technology company. It helps scientists and laboratories measure, analyze, diagnose, and understand chemical and biological samples.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKeep it short and personal: a photo of your lab, your field work, or an object from your work makes it concrete. Students are curious about what a scientist actually does all day."
-  },
-  {
-    "objectID": "sessions/00-welcome/slides.html#guess-the-fact",
-    "href": "sessions/00-welcome/slides.html#guess-the-fact",
-    "title": "Welcome to Scientific English",
-    "section": "Guess the Fact",
-    "text": "Guess the Fact\nTwo of these are true, one is false. Which one is the lie?\n\nMy English grade in high school was 4/10.\nI am currently working only in English.\nI am working in a biology laboratory.\n\n\nStudents vote with their hands (1, 2 or 3) before you reveal the answer. Ask a few students to explain their choice in English: “I think number 2 is false, because…”. This models the game they will play next."
-  },
-  {
-    "objectID": "sessions/00-welcome/slides.html#now-its-your-turn",
-    "href": "sessions/00-welcome/slides.html#now-its-your-turn",
-    "title": "Welcome to Scientific English",
-    "section": "Now It’s Your Turn",
-    "text": "Now It’s Your Turn\n\nMove from the teacher to the students. The goal is that everyone says at least one sentence in English today."
-  },
-  {
-    "objectID": "sessions/00-welcome/slides.html#introduce-yourself",
-    "href": "sessions/00-welcome/slides.html#introduce-yourself",
-    "title": "Welcome to Scientific English",
-    "section": "Introduce Yourself",
-    "text": "Introduce Yourself\nSay these three things:\n\nMy name is …\nOne thing I like is …\nOne word that describes me is …\nWhat I want to be when I grow up is …\n\n\nGo around the room quickly, about 20 seconds per student. Write the sentence frames on the board. If the class is large, do it in groups of four and then ask one student per group to introduce someone else (“This is Marco, he likes…”)."
-  },
-  {
-    "objectID": "sessions/00-welcome/slides.html#find-someone-who",
-    "href": "sessions/00-welcome/slides.html#find-someone-who",
-    "title": "Welcome to Scientific English",
-    "section": "Find Someone Who …",
-    "text": "Find Someone Who …\n\n\n\nhas been to an English-speaking country\n\n\n\nwants to study medicine or biology\n\n\n\nhas watched a science documentary this month\n\n\n\ncan name a famous scientist (not Einstein!)\n\n\n\nknows what DNA stands for\n\n\n\n\n\nGive 5 minutes. Rule: they can only ask in English (“Have you ever…?”, “Do you want to…?”). At the end, ask who completed the most rows and check a few answers with the class. The DNA question is a nice bridge to the course content: deoxyribonucleic acid."
-  },
-  {
-    "objectID": "sessions/00-welcome/slides.html#the-course-map",
-    "href": "sessions/00-welcome/slides.html#the-course-map",
-    "title": "Welcome to Scientific English",
-    "section": "The Course Map",
-    "text": "The Course Map\n\n\n\n1. How to Study\n2. Scientific Method\n\n\n3. DNA\n4. DNA Extraction (Lab)\n\n\n5. Central Dogma\n6. Biotech I\n\n\n7. Bioinformatics (Lab)\n8. Forensic DNA\n\n\n9. Life on Earth\n10. Weird Plants\n\n\n11. Final exam\n\n\n\n\n\nAsk: which topic looks most interesting to you? Which one is a mystery? Point out the lab session (4) and the forensic session (8), which students usually look forward to."
-  },
-  {
-    "objectID": "sessions/00-welcome/slides.html#how-each-lesson-works",
-    "href": "sessions/00-welcome/slides.html#how-each-lesson-works",
-    "title": "Welcome to Scientific English",
-    "section": "How Each Lesson Works",
-    "text": "How Each Lesson Works\n\nLive quiz on the previous lesson (scan the QR code)\nNew topic: slides, videos, activities\nMaterial page on the website: vocabulary and reading to review at home\n\n\nShow the course website on the projector and where to find the sessions. Explain that the quiz is practice, not a grade: it tells them and you what to review. The first quiz will be at the start of the next lesson, on How to Study."
-  },
-  {
-    "objectID": "sessions/00-welcome/slides.html#assessment",
-    "href": "sessions/00-welcome/slides.html#assessment",
-    "title": "Welcome to Scientific English",
-    "section": "Assessment",
-    "text": "Assessment\n\nThe final exam is multiple choice plus a short answer section\nIt will be in 2027\nLive quizzes are practice: they show what to review\n\n\nFill in according to the school’s arrangement. Be clear and concrete: students want to know what counts."
-  },
-  {
-    "objectID": "sessions/00-welcome/slides.html#class-agreements",
-    "href": "sessions/00-welcome/slides.html#class-agreements",
-    "title": "Welcome to Scientific English",
-    "section": "Class Agreements",
-    "text": "Class Agreements\n\nEnglish first: try in English, then ask for help\nQuestions are welcome: there are no stupid questions in science\nPhones for quizzes and activities only\nRespect: listen and help each other\n\n\nAsk the class if they want to add an agreement. Mistakes in English are normal and welcome, just like failed experiments in science."
-  },
-  {
-    "objectID": "sessions/00-welcome/slides.html#getting-to-know-you",
-    "href": "sessions/00-welcome/slides.html#getting-to-know-you",
-    "title": "Welcome to Scientific English",
-    "section": "Getting to Know You",
-    "text": "Getting to Know You\n\n\n\n\nScan and answer 5 short questions:\n\nYour English confidence (1–5)\nYour favourite science topic\nWhat you want to learn\n\n\n\nGive 3 minutes. The answers help you adapt the level of English and the examples to this class. This is also a test run of the QR code system used for the quizzes, so any phone or connection problem shows up now instead of during the first quiz."
-  },
-  {
-    "objectID": "sessions/00-welcome/slides.html#lets-start",
-    "href": "sessions/00-welcome/slides.html#lets-start",
-    "title": "Welcome to Scientific English",
-    "section": "Let’s Start!",
-    "text": "Let’s Start!\nNext: How to Study\n\nTransition to Session 1. A natural bridge: “In this course you will learn a lot of new things. So, first of all: how do we learn?”"
   },
   {
     "objectID": "sessions/01-how-to-study/slides.html#how-to-study",
@@ -673,111 +661,213 @@
     ]
   },
   {
-    "objectID": "sessions/00-welcome/index.html",
-    "href": "sessions/00-welcome/index.html",
-    "title": "Welcome to Scientific English",
-    "section": "",
-    "text": "Open the slides →",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Welcome to Scientific English"
-    ]
+    "objectID": "sessions/02-scientific-method/slides.html#warm-up-review-of-session-1-live-quiz",
+    "href": "sessions/02-scientific-method/slides.html#warm-up-review-of-session-1-live-quiz",
+    "title": "Understanding the Scientific Method",
+    "section": "Warm-up: Review of Session 1 — Live Quiz",
+    "text": "Warm-up: Review of Session 1 — Live Quiz\n\n\n\n\nScan the QR code to join the live quiz on How to Study (10 questions).\nforms.gle/ykpqo3aYWRHh9vYU7\n\n\nEvery lesson starts with an assessment of the previous class. Display the QR code, run the quiz, then discuss the answers before moving on."
   },
   {
-    "objectID": "sessions/00-welcome/index.html#what-is-this-course",
-    "href": "sessions/00-welcome/index.html#what-is-this-course",
-    "title": "Welcome to Scientific English",
-    "section": "What is this course?",
-    "text": "What is this course?\nScientific English is a science course taught entirely in English. We look at real biology (the scientific method, DNA, biotechnology, bioinformatics, evolution and plants) and, at the same time, we learn the English that scientists use to describe it.\nYou do not need perfect English to take part. Mistakes are part of learning a language, just as failed experiments are part of science. What matters is that you try to speak, read and write in English every lesson.",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Welcome to Scientific English"
-    ]
+    "objectID": "sessions/02-scientific-method/slides.html#what-is-the-scientific-method",
+    "href": "sessions/02-scientific-method/slides.html#what-is-the-scientific-method",
+    "title": "Understanding the Scientific Method",
+    "section": "What is the Scientific Method?",
+    "text": "What is the Scientific Method?\n\n\n\nA way to investigate the world and answer questions using observation and experiment\nA step-by-step process for exploring how things work and why\nThink of it as a detective’s toolkit for solving mysteries about the world\n\n\n\n\n\nThis slide sets the tone. The scientific method is not just a boring recipe — it’s a practical problem-solving tool that they use every day, even if they don’t call it that. The detective analogy works well because it emphasizes curiosity and investigation."
   },
   {
-    "objectID": "sessions/00-welcome/index.html#your-teacher",
-    "href": "sessions/00-welcome/index.html#your-teacher",
-    "title": "Welcome to Scientific English",
-    "section": "Your teacher",
-    "text": "Your teacher\nMarco Chiapello — I studied biology at the University of Turin, and have a PhD in Fungal Biology and Biotechnology. I worked in research and teaching in Italy, the UK, and Switzerland. I currently work at Agilent Technologies, a life sciences, diagnostics, and analytical laboratory technology company that helps scientists and laboratories measure, analyze, diagnose, and understand chemical and biological samples.\n\nContact: chiapello.m@gmail.com",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Welcome to Scientific English"
-    ]
+    "objectID": "sessions/02-scientific-method/slides.html#curiosity-drives-discovery",
+    "href": "sessions/02-scientific-method/slides.html#curiosity-drives-discovery",
+    "title": "Understanding the Scientific Method",
+    "section": "Curiosity Drives Discovery",
+    "text": "Curiosity Drives Discovery\nScience starts with asking questions about the world around us:\n\n\nAsk students for their own “why” questions about the world before moving on. Any of them could start a scientific investigation."
   },
   {
-    "objectID": "sessions/00-welcome/index.html#the-course-map",
-    "href": "sessions/00-welcome/index.html#the-course-map",
-    "title": "Welcome to Scientific English",
-    "section": "The course map",
-    "text": "The course map\n\n\n\n\n\n\n\n\n#\nSession\nWhat it is about\n\n\n\n\n0\nWelcome\nThe course, the teacher, the class\n\n\n1\nHow to Study\nEvidence-based study strategies\n\n\n2\nIntroduction & Scientific Method\nObservation, hypothesis, experiment, conclusion\n\n\n3\nDNA\nStructure and function of DNA\n\n\n4\nDNA Extraction (Lab)\nExtract DNA with your own hands\n\n\n5\nBiology Central Dogma\nFrom DNA to RNA to protein\n\n\n6\nBiotech I\nDNA technologies\n\n\n7\nBioinformatics\nReading and comparing DNA sequences\n\n\n8\nForensic DNA\nDNA fingerprinting\n\n\n9\nLife on Earth\nEvolution and the age of the Earth\n\n\n10\nWeird Plants\nPlant biology beyond the obvious",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Welcome to Scientific English"
-    ]
+    "objectID": "sessions/02-scientific-method/slides.html#the-seven-steps",
+    "href": "sessions/02-scientific-method/slides.html#the-seven-steps",
+    "title": "Understanding the Scientific Method",
+    "section": "The Seven Steps",
+    "text": "The Seven Steps\n\n\nThe seven steps: 1. Observation, 2. Question, 3. Hypothesis, 4. Experiment, 5. Data collection, 6. Data analysis, 7. Conclusion. Emphasize that this is a cycle, not a straight line — scientists often go back and revise."
   },
   {
-    "objectID": "sessions/00-welcome/index.html#how-each-lesson-works",
-    "href": "sessions/00-welcome/index.html#how-each-lesson-works",
-    "title": "Welcome to Scientific English",
-    "section": "How each lesson works",
-    "text": "How each lesson works\n\nLive quiz on the previous lesson: scan the QR code with your phone and answer.\nNew topic, with slides, videos and activities in English.\nMaterial page on this website: key vocabulary and reading to review at home.\n\nUse the study strategies from Session 1 with this material: test yourself, space your review, and write notes in your own words.",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Welcome to Scientific English"
-    ]
+    "objectID": "sessions/02-scientific-method/slides.html#an-everyday-example-the-toaster",
+    "href": "sessions/02-scientific-method/slides.html#an-everyday-example-the-toaster",
+    "title": "Understanding the Scientific Method",
+    "section": "An Everyday Example: The Toaster",
+    "text": "An Everyday Example: The Toaster\n\n\n\n\n\n\n\n\n\nThis toaster sequence walks through steps 1–4 concretely: observation (toaster won’t toast), question (why?), hypothesis (maybe the outlet), and prediction (if we try a different outlet it will work). Use this to show that the scientific method isn’t just for labs — students do this at home."
   },
   {
-    "objectID": "sessions/00-welcome/index.html#assessment",
-    "href": "sessions/00-welcome/index.html#assessment",
-    "title": "Welcome to Scientific English",
-    "section": "Assessment",
-    "text": "Assessment\n\nThe final exam is multiple choice plus a short answer section\nIt will be in 2027\nThe live quizzes are for practice: they show you and the teacher what to review.",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Welcome to Scientific English"
-    ]
+    "objectID": "sessions/02-scientific-method/slides.html#testing-the-prediction",
+    "href": "sessions/02-scientific-method/slides.html#testing-the-prediction",
+    "title": "Understanding the Scientific Method",
+    "section": "Testing the Prediction",
+    "text": "Testing the Prediction\n\nIf the toaster still doesn’t work in the new outlet, the hypothesis is rejected — time to try another one (maybe it’s the toaster itself, not the outlet).\n\nIf the prediction fails, we don’t give up — we form a new hypothesis and test again. This is why the scientific method is a cycle. Ask students: what other hypotheses could explain the toaster not working?"
   },
   {
-    "objectID": "sessions/00-welcome/index.html#class-agreements",
-    "href": "sessions/00-welcome/index.html#class-agreements",
-    "title": "Welcome to Scientific English",
-    "section": "Class agreements",
-    "text": "Class agreements\n\nEnglish first: try in English, then ask for help if you are stuck\nQuestions are welcome, at any time: there are no stupid questions in science\nPhones are for the quizzes and activities, not for social media\nRespect: listen when someone is speaking and help each other",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Welcome to Scientific English"
-    ]
+    "objectID": "sessions/02-scientific-method/slides.html#science-is-a-cycle-not-a-line",
+    "href": "sessions/02-scientific-method/slides.html#science-is-a-cycle-not-a-line",
+    "title": "Understanding the Scientific Method",
+    "section": "Science is a Cycle, Not a Line",
+    "text": "Science is a Cycle, Not a Line\n\n\n\nWe often go back, revise our ideas, and try again\nFindings are shared so others can learn and build on them\nThe scientific method isn’t only for labs — we use it every day"
   },
   {
-    "objectID": "sessions/00-welcome/index.html#useful-classroom-english",
-    "href": "sessions/00-welcome/index.html#useful-classroom-english",
-    "title": "Welcome to Scientific English",
-    "section": "Useful classroom English",
-    "text": "Useful classroom English\n\nCould you repeat that, please? — when you did not hear or understand.\n\n\nHow do you say … in English? — when you know the word in Italian but not in English.\n\n\nWhat does … mean? — when you do not know a word.\n\n\nCan you speak more slowly, please? — when the speaker is too fast.\n\n\nI agree / I disagree, because … — to give your opinion in a discussion.\n\n\nI’m not sure, but I think … — to answer even when you are not certain.",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Welcome to Scientific English"
-    ]
+    "objectID": "sessions/02-scientific-method/slides.html#step-1-observation",
+    "href": "sessions/02-scientific-method/slides.html#step-1-observation",
+    "title": "Understanding the Scientific Method",
+    "section": "Step 1 — Observation",
+    "text": "Step 1 — Observation\nCareful, systematic scrutiny of the world.\nSources of observations:\n\n\nSources of observations: direct sensory experience (what you see, hear, measure yourself), literature review (books and scientific articles), and findings from previous studies."
   },
   {
-    "objectID": "sessions/00-welcome/index.html#getting-to-know-you",
-    "href": "sessions/00-welcome/index.html#getting-to-know-you",
-    "title": "Welcome to Scientific English",
-    "section": "Getting to know you",
-    "text": "Getting to know you\nPlease fill in this short form, so I can adapt the course to the class.\n\n\n\nGetting to know you — 5 questions\n\nYour name and class\nHow confident do you feel in English? (1–5)\nWhich science topic interests you most?\nWhat do you want to do after school?\nOne thing you would like to learn in this course\n\nOr open the form directly →",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Welcome to Scientific English"
-    ]
+    "objectID": "sessions/02-scientific-method/slides.html#step-2-question",
+    "href": "sessions/02-scientific-method/slides.html#step-2-question",
+    "title": "Understanding the Scientific Method",
+    "section": "Step 2 — Question",
+    "text": "Step 2 — Question\nA clear, focused inquiry based on the observation.\n\nVocabulary: ambiguous — unclear or open to more than one interpretation.\n\n\n\nVague questions lead to vague hypotheses, and those lead to experiments that are hard to design. “Do plants like light?” cannot be tested directly: what does “like” mean? The focused version says what we change (amount of light), on what (bean plants), what we measure (height) and when (2 weeks). Ask students to make another vague question focused."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#step-3-hypothesis",
+    "href": "sessions/02-scientific-method/slides.html#step-3-hypothesis",
+    "title": "Understanding the Scientific Method",
+    "section": "Step 3 — Hypothesis",
+    "text": "Step 3 — Hypothesis\n\n\nA testable and falsifiable statement proposing an answer to the question.\n\nExpresses a cause-and-effect relationship\nFalsifiability: it must be possible to prove it wrong\n\nExample: If I plug the toaster into another outlet, then it will work.\n\n\n\n\nA useful pattern for students: “If … then …”. Researchers may also compare several alternative hypotheses for the same question (for the toaster: the outlet, the fuse, the toaster itself)."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#correlation-is-not-causation",
+    "href": "sessions/02-scientific-method/slides.html#correlation-is-not-causation",
+    "title": "Understanding the Scientific Method",
+    "section": "Correlation Is Not Causation",
+    "text": "Correlation Is Not Causation\n\n\n\n\n\n\n\nWarning\n\n\nWatch out for spurious correlations — two things changing together doesn’t mean one causes the other. https://www.tylervigen.com/spurious-correlations\n\n\n\n\nIce cream sales and shark attacks rise and fall together, but ice cream does not cause shark attacks. A third factor, hot weather, causes both: more people buy ice cream and more people swim in the sea. Ask: what is the hidden cause? Then open the Tyler Vigen site for funny real examples."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#the-null-hypothesis",
+    "href": "sessions/02-scientific-method/slides.html#the-null-hypothesis",
+    "title": "Understanding the Scientific Method",
+    "section": "The Null Hypothesis",
+    "text": "The Null Hypothesis\n\nNull hypothesis (H₀) — the claim of no effect: any change we observe is just due to chance.\n\n\nH₁: Studying with flashcards improves exam scores\nH₀: Studying with flashcards has no effect on exam scores\nAn experiment gathers evidence to reject H₀ — it doesn’t prove H₁\n\n\n\n\n\n\n\nImportant\n\n\nA scientist’s job is not to prove they are right. You design the experiment to try to prove your own hypothesis wrong — if it survives that attempt, it gets stronger.\n\n\n\n\nThis is a subtle but important idea: scientists don’t set out to prove their hypothesis directly. They test whether the data make the “nothing is happening” explanation (H₀) unlikely. If exam scores are clearly higher with flashcards, we reject H₀ in favour of H₁. If scores are about the same, we fail to reject H₀ — that doesn’t mean H₀ is true, only that we don’t have enough evidence against it. This connects back to falsifiability: H₀ is the default, skeptical position you need evidence to overturn. Philosophy of science point (Popper): good science is not about confirming what you already believe — hunting only for evidence that agrees with you is confirmation bias. A real test is one that COULD have proven you wrong and didn’t. Ask students: what would the null hypothesis be for the toaster example, or for Fleming’s penicillin observation? And how could Fleming have been wrong?"
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#step-4-experiment",
+    "href": "sessions/02-scientific-method/slides.html#step-4-experiment",
+    "title": "Understanding the Scientific Method",
+    "section": "Step 4 — Experiment",
+    "text": "Step 4 — Experiment\nPlanning and organizing the procedure that will test the hypothesis.\n\nIndependent variable — the one we deliberately change\nDependent variable — the one we measure"
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#identifying-variables-try-it",
+    "href": "sessions/02-scientific-method/slides.html#identifying-variables-try-it",
+    "title": "Understanding the Scientific Method",
+    "section": "Identifying Variables — Try It",
+    "text": "Identifying Variables — Try It\n\n\n\nScenario\nIndependent variable\nDependent variable\n\n\n\n\nPlant growth\nAmount of sunlight\nHeight of plants\n\n\nDrug dosage\nDosage of a drug\nHeart rate\n\n\nExam scores\n?\nExam scores\n\n\n\n\nWhat could the independent variable be in the exam scores example? (hours studied? sleep? something else?)\n\n\nPause here and get answers from students. Common ones: hours studied, amount of sleep, caffeine intake, test anxiety. This is where you can tie back to their real lives — they’re all doing experiments (studying vs not studying, sleeping vs staying up) and observing the outcome (exam score). Ask: which variable would YOU want to test?"
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#step-5-data-collection-two-types-of-data",
+    "href": "sessions/02-scientific-method/slides.html#step-5-data-collection-two-types-of-data",
+    "title": "Understanding the Scientific Method",
+    "section": "Step 5 — Data Collection: Two Types of Data",
+    "text": "Step 5 — Data Collection: Two Types of Data\n\n\n\n\n\n\n\n\n\nQualitative\nQuantitative\n\n\n\n\nNature\nDescriptive, not easily measured\nNumerical, measurable\n\n\nExample\nColour of a flower, texture\nHeight (cm), temperature (°C)\n\n\n\n\n\nForm: qualitative data are observations and categories; quantitative data are numbers from measurements or counts. Analysis: qualitative data are analysed by themes and content; quantitative data with statistical methods. Both types are valuable. Qualitative data captures nuance and description — “the plant looks healthier, has more vibrant green.” Quantitative data is precise and analyzable — “the plant is 25.3 cm tall.” In Fleming’s penicillin experiment, qualitative observation (the clear zone around the mould) led him to the discovery, but quantitative data (how much bacterial growth was inhibited, concentration of the substance needed) was crucial for developing it as a medicine."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#precision-vs.-accuracy",
+    "href": "sessions/02-scientific-method/slides.html#precision-vs.-accuracy",
+    "title": "Understanding the Scientific Method",
+    "section": "Precision vs. Accuracy",
+    "text": "Precision vs. Accuracy\n\n\n\n\n\n\n\n\n\n\nPrecision\nAccuracy\n\n\n\n\nDefinition\nHow closely repeated measurements agree with each other\nHow close a measurement is to the true value\n\n\nAssociated with\nConsistency, reliability\nCorrectness, no systematic error\n\n\nExample\nWeighing something 5× and always getting 12.3 g\nWeighing something and getting the true 12.5 g\n\n\n\n\n\n\n\n\n\nTip\n\n\nIt’s possible to be precise but not accurate — consistent measurements can still all be wrong if there’s a systematic error."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#precision-vs.-accuracy-try-it",
+    "href": "sessions/02-scientific-method/slides.html#precision-vs.-accuracy-try-it",
+    "title": "Understanding the Scientific Method",
+    "section": "Precision vs. Accuracy — Try It",
+    "text": "Precision vs. Accuracy — Try It\n\nFor each target: is it precise? Is it accurate?\n\nShow the unlabeled targets and ask students to call out, for each quadrant, whether it shows high/low precision and high/low accuracy, before revealing the labeled version on the next slide."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#precision-vs.-accuracy-visualized",
+    "href": "sessions/02-scientific-method/slides.html#precision-vs.-accuracy-visualized",
+    "title": "Understanding the Scientific Method",
+    "section": "Precision vs. Accuracy — Visualized",
+    "text": "Precision vs. Accuracy — Visualized\n\n\nWalk through each quadrant. Top-left (scattered, off-center): neither precise nor accurate — measurements are all over the place and far from the bullseye. Top-right (clustered, off-center): precise but NOT accurate — they’re consistent with each other, but they’re clustered in the wrong place. Bottom-left (scattered, centered): accurate but not precise — they’re scattered, but on average they hit the target. Bottom-right (clustered, centered): both precise AND accurate — the gold standard. Real-world example: a broken scale that always reads 2 kg too high is precise (consistent) but not accurate (wrong value)."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#the-control-group",
+    "href": "sessions/02-scientific-method/slides.html#the-control-group",
+    "title": "Understanding the Scientific Method",
+    "section": "The Control Group",
+    "text": "The Control Group\n\n\nBaseline comparison (no treatment) — keep everything else constant\n\n\nVocabulary: confounding variable — an outside factor that could distort the result.\n\n\nPurpose of a control group: a baseline comparison (the normal state, without treatment); minimizing confounding variables by keeping everything else constant; establishing cause and effect; a standard for comparison against the experimental group. Without a control group, you can’t tell if the outcome was caused by your variable or something else. Example: testing a new study technique on one class but not another. But if the class getting the technique is also more motivated, how do you know which caused the better grades? A control group that differs ONLY in the treatment lets you isolate the effect. This is the most common reason experiments fail — they don’t properly control confounding variables."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#randomization-replication",
+    "href": "sessions/02-scientific-method/slides.html#randomization-replication",
+    "title": "Understanding the Scientific Method",
+    "section": "Randomization & Replication",
+    "text": "Randomization & Replication\n\n\n\nRandomization helps eliminate bias: assign subjects to groups by chance (e.g. a coin flip), not by choice — otherwise, say, the most motivated students could all end up in the same group\nReplication (repeating the trial) helps ensure results are reliable\n\n\n\n\n\nThe image shows the same treatment (star, square, circle shapes) randomly assigned to different groups across multiple repetitions. Randomization prevents you from accidentally biasing which subjects get which treatment — maybe without randomization, the most motivated students would all end up in the experimental group by chance. Replication (repeating the experiment 4 times here) shows that results are not a fluke. If you get similar results every time, you’re confident in your finding."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#step-6-data-analysis",
+    "href": "sessions/02-scientific-method/slides.html#step-6-data-analysis",
+    "title": "Understanding the Scientific Method",
+    "section": "Step 6 — Data Analysis",
+    "text": "Step 6 — Data Analysis\n\nOrganizing data (data cleaning): tables, graphs, charts\nDescriptive statistics: mean, median, standard deviation\nGraphical representations: scatter plots, bar graphs, histograms, line graphs"
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#step-7-conclusion",
+    "href": "sessions/02-scientific-method/slides.html#step-7-conclusion",
+    "title": "Understanding the Scientific Method",
+    "section": "Step 7 — Conclusion",
+    "text": "Step 7 — Conclusion\n\n\n\nCompare results with the hypothesis: supported, or contradicted?\nAssess validity and look for alternative explanations\nCommunicate findings — papers undergo peer review before publication\n\n\n\n\n\nValidity means: reliability of the data, rigor of the design, possible confounders. Scientists also consider statistical significance (could the result be due to chance?), generalizability (does it apply to other cases?) and the broader implications. A good conclusion doesn’t just say “we were right” or “we were wrong.” It evaluates HOW CONFIDENT we should be in the result. Did we test enough subjects? Enough times? Could something else have caused the outcome? What’s next? For Fleming, the conclusion was: this substance looks promising for medical use — but more research (which took 12 years and multiple scientists) was needed to develop it into a usable drug. This is why peer review matters: other experts check your logic and methods before your work becomes trusted."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#observation",
+    "href": "sessions/02-scientific-method/slides.html#observation",
+    "title": "Understanding the Scientific Method",
+    "section": "Observation",
+    "text": "Observation\n\n\nIn September 1928, Alexander Fleming was studying Staphylococcus bacteria at St. Mary’s Hospital, London.\nHe left petri dishes on his workbench while on vacation."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#observation-continued",
+    "href": "sessions/02-scientific-method/slides.html#observation-continued",
+    "title": "Understanding the Scientific Method",
+    "section": "Observation (continued)",
+    "text": "Observation (continued)\n\n\nUpon returning, he noticed one dish had mould growing on it — with a clear area around the mould where bacteria seemed to be killed.\n\n\n\n\nThis is the key observation — most scientists would have cursed and thrown away contaminated plates. But Fleming was curious enough to wonder WHY the bacteria died. This is the foundation of every great scientific discovery: curiosity about an unexpected result. Without that curiosity, penicillin would still be sitting in dirty lab dishes unnoticed."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#question-hypothesis",
+    "href": "sessions/02-scientific-method/slides.html#question-hypothesis",
+    "title": "Understanding the Scientific Method",
+    "section": "Question & Hypothesis",
+    "text": "Question & Hypothesis\n\n\nQuestion: What killed the bacteria near the mould?\nHypothesis: The mould (later identified as Penicillium) releases a substance that inhibits bacterial growth."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#experiment",
+    "href": "sessions/02-scientific-method/slides.html#experiment",
+    "title": "Understanding the Scientific Method",
+    "section": "Experiment",
+    "text": "Experiment\nFleming:\n\nIsolated the mould\nExtracted its secretions\nTested the secretions against various bacteria, including Staphylococcus"
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#data-analysis",
+    "href": "sessions/02-scientific-method/slides.html#data-analysis",
+    "title": "Understanding the Scientific Method",
+    "section": "Data & Analysis",
+    "text": "Data & Analysis\n\n\nThe substance killed a wide range of bacteria — but was not toxic to human cells.\nThis substance was later named penicillin.\n\n\n\n\nFleming’s original 1929 figure, British Journal of Experimental Pathology\n\n\n\n\nShow them the actual historical 1929 publication photo. This is real data from a real experiment over 90 years ago. The key finding: the mould secretion killed bacteria in a test tube without harming human tissue. This was the data that mattered — not just that bacteria died, but that it could be used safely. The three labels in the photo show: the Penicillium colony (the source), the zone where Staphylococcus is undergoing lysis (dying), and normal Staphylococcus colony far away. This figure was published in the British Journal of Experimental Pathology — Fleming communicated his findings to the scientific community."
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#conclusion-impact",
+    "href": "sessions/02-scientific-method/slides.html#conclusion-impact",
+    "title": "Understanding the Scientific Method",
+    "section": "Conclusion & Impact",
+    "text": "Conclusion & Impact\n\n\n\nPenicillin was recognized as a potential antibiotic\nIn the 1940s, Howard Florey and Ernst Boris Chain scaled up production\nThis marked the beginning of the antibiotic era in medicine\n1945: Fleming, Florey and Chain shared the Nobel Prize in Physiology or Medicine\n\n\n\n\nLives saved to date: over 200 million"
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#recap",
+    "href": "sessions/02-scientific-method/slides.html#recap",
+    "title": "Understanding the Scientific Method",
+    "section": "Recap",
+    "text": "Recap\n\nScience moves through observation → question → hypothesis → experiment → data → analysis → conclusion — as a cycle\nA good hypothesis is testable and falsifiable\nDistinguish precision from accuracy\nControl groups, randomization and replication make experiments trustworthy\nFleming’s discovery of penicillin is a real-world example of this whole process"
+  },
+  {
+    "objectID": "sessions/02-scientific-method/slides.html#classroom-exercise-exploring-the-scientific-method",
+    "href": "sessions/02-scientific-method/slides.html#classroom-exercise-exploring-the-scientific-method",
+    "title": "Understanding the Scientific Method",
+    "section": "Classroom Exercise: Exploring the Scientific Method",
+    "text": "Classroom Exercise: Exploring the Scientific Method\n\n\n\n\n\n\n\n\nWorksheet handed out on paper in class. It covers:\n\nTrue or False — correct 5 statements about the scientific method\nMatching — match 8 terms (hypothesis, control group, independent/dependent variable…) to their definitions\nIdentifying — read 3 real scenarios and identify the independent variable, dependent variable, experimental group and control group in each\n\n\n\nHand out the paper worksheet now and give students time to work through it individually or in pairs. This is a good formative check: the True/False section tests vocabulary, Matching tests definitions, and the three scenarios (dog food, sunscreen, plant growth) test whether students can actually identify variables and groups in a new context, not just recite definitions. Walk around and help, then go through the answers together before the end of class."
   }
 ]

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 210" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <circle cx="100" cy="95" r="62" fill="#f7f3e3" stroke="#555" stroke-width="4"/>
+  <g fill="#6a994e"><circle cx="100" cy="95" r="20"/><circle cx="86" cy="84" r="12"/><circle cx="114" cy="84" r="12"/><circle cx="100" cy="112" r="12"/></g>
+  <path d="M290 30h40v40l40 75q5 15-10 15H260q-15 0-10-15l40-75z" fill="#fff" stroke="#555" stroke-width="4"/>
+  <path d="M268.7 110h82.6l18.7 35q5 15-10 15H260q-15 0-10-15z" fill="#f4c95d"/>
+  <g fill="#f7f3e3" stroke="#555" stroke-width="3"><circle cx="478" cy="70" r="32"/><circle cx="550" cy="70" r="32"/><circle cx="514" cy="135" r="32"/></g>
+  <g fill="#8e5ea2"><circle cx="460" cy="58" r="4"/><circle cx="495" cy="85" r="4"/><circle cx="462" cy="86" r="4"/><circle cx="568" cy="55" r="4"/><circle cx="533" cy="86" r="4"/><circle cx="566" cy="88" r="4"/><circle cx="496" cy="122" r="4"/><circle cx="532" cy="150" r="4"/><circle cx="497" cy="150" r="4"/></g>
+  <g fill="#fff"><circle cx="478" cy="70" r="15"/><circle cx="550" cy="70" r="15"/><circle cx="514" cy="135" r="15"/></g>
+  <g fill="#f4c95d"><circle cx="478" cy="70" r="7"/><circle cx="550" cy="70" r="7"/><circle cx="514" cy="135" r="7"/></g>
+  <g font-weight="700" fill="#fff"><circle cx="35" cy="28" r="20" fill="#1d5c9c"/><text x="35" y="36" font-size="22">1</text><circle cx="235" cy="28" r="20" fill="#1d5c9c"/><text x="235" y="36" font-size="22">2</text><circle cx="435" cy="22" r="20" fill="#1d5c9c"/><text x="435" y="30" font-size="22">3</text></g>
+  <g font-size="19" fill="#222"><text x="100" y="196">Isolate the mould</text><text x="310" y="196">Extract its juice</text><text x="514" y="196">Test on bacteria</text></g>
+</svg>

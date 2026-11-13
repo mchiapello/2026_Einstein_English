@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 210" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <text x="160" y="24" font-size="19" font-weight="700" fill="#8e5ea2">QUALITATIVE: words</text>
+  <line x1="80" y1="125" x2="80" y2="195" stroke="#6a994e" stroke-width="5"/>
+  <g fill="#e63946"><circle cx="80" cy="81" r="18"/><circle cx="101" cy="96" r="18"/><circle cx="93" cy="121" r="18"/><circle cx="67" cy="121" r="18"/><circle cx="59" cy="96" r="18"/></g>
+  <circle cx="80" cy="103" r="12" fill="#f4c95d"/>
+  <g fill="#f3e8f7"><rect x="150" y="50" width="130" height="32" rx="16"/><rect x="150" y="95" width="130" height="32" rx="16"/><rect x="150" y="140" width="130" height="32" rx="16"/></g>
+  <g font-size="17" fill="#8e5ea2"><text x="215" y="72">red</text><text x="215" y="117">soft</text><text x="215" y="162">sweet smell</text></g>
+  <line x1="320" y1="15" x2="320" y2="200" stroke="#ccc" stroke-width="3" stroke-dasharray="8 6"/>
+  <text x="480" y="24" font-size="19" font-weight="700" fill="#1d5c9c">QUANTITATIVE: numbers</text>
+  <rect x="345" y="70" width="160" height="30" fill="#f4c95d" stroke="#c99a1e" stroke-width="3"/>
+  <g stroke="#7a5a00" stroke-width="2"><line x1="360" y1="70" x2="360" y2="84"/><line x1="375" y1="70" x2="375" y2="80"/><line x1="390" y1="70" x2="390" y2="84"/><line x1="405" y1="70" x2="405" y2="80"/><line x1="420" y1="70" x2="420" y2="84"/><line x1="435" y1="70" x2="435" y2="80"/><line x1="450" y1="70" x2="450" y2="84"/><line x1="465" y1="70" x2="465" y2="80"/><line x1="480" y1="70" x2="480" y2="84"/><line x1="495" y1="70" x2="495" y2="80"/></g>
+  <text x="425" y="145" font-size="28" font-weight="700" fill="#1d5c9c">25.3 cm</text>
+  <rect x="573" y="45" width="16" height="105" rx="8" fill="#fff" stroke="#555" stroke-width="3"/>
+  <rect x="578" y="85" width="6" height="70" fill="#e63946"/>
+  <circle cx="581" cy="160" r="14" fill="#e63946"/>
+  <text x="581" y="200" font-size="22" font-weight="700" fill="#1d5c9c">22 °C</text>
+</svg>
