@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 200" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <g stroke="#555" stroke-width="3" fill="none"><path d="M30 30v130h160"/><path d="M240 30v130h160"/><path d="M450 30v130h160"/></g>
+  <g fill="#2a9d8f"><rect x="45" y="100" width="25" height="60"/><rect x="85" y="60" width="25" height="100"/><rect x="125" y="80" width="25" height="80"/><rect x="165" y="40" width="20" height="120"/></g>
+  <g fill="#1d5c9c"><circle cx="260" cy="140" r="6"/><circle cx="275" cy="128" r="6"/><circle cx="292" cy="132" r="6"/><circle cx="305" cy="110" r="6"/><circle cx="322" cy="106" r="6"/><circle cx="337" cy="88" r="6"/><circle cx="352" cy="92" r="6"/><circle cx="367" cy="68" r="6"/><circle cx="384" cy="58" r="6"/></g>
+  <polyline points="460,140 490,118 520,126 550,90 580,72 605,48" fill="none" stroke="#e63946" stroke-width="5" stroke-linejoin="round"/>
+  <g fill="#e63946"><circle cx="460" cy="140" r="6"/><circle cx="490" cy="118" r="6"/><circle cx="520" cy="126" r="6"/><circle cx="550" cy="90" r="6"/><circle cx="580" cy="72" r="6"/><circle cx="605" cy="48" r="6"/></g>
+  <g font-size="19" fill="#222"><text x="110" y="192">Bar graph</text><text x="320" y="192">Scatter plot</text><text x="530" y="192">Line graph</text></g>
+</svg>

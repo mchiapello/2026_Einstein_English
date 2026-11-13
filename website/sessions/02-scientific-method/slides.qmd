@@ -29,9 +29,16 @@ Every lesson starts with an assessment of the previous class. Display the QR cod
 
 ## What is the Scientific Method? {.center}
 
+:::: {.columns}
+::: {.column width="60%"}
 - A way to investigate the world and answer questions using **observation** and **experiment**
 - A step-by-step process for exploring *how* things work and *why*
 - Think of it as a detective's toolkit for solving mysteries about the world
+:::
+::: {.column width="40%"}
+![](img/detective.svg){width="100%" fig-alt="A magnifying glass over a question mark, next to a lab flask"}
+:::
+::::
 
 ::: {.notes}
 This slide sets the tone. The scientific method is not just a boring recipe — it's a practical problem-solving tool that they use every day, even if they don't call it that. The detective analogy works well because it emphasizes curiosity and investigation.
@@ -41,22 +48,18 @@ This slide sets the tone. The scientific method is not just a boring recipe — 
 
 Science starts with **asking questions** about the world around us:
 
-- Why is the sky blue?
-- How do plants grow?
-- What are stars made of?
+![](img/curiosity.svg){width="90%" fig-align="center" fig-alt="Three pictures: a blue sky with the sun, a growing plant, a star at night, each with its question"}
+
+::: {.notes}
+Ask students for their own "why" questions about the world before moving on. Any of them could start a scientific investigation.
+:::
 
 ## The Seven Steps
 
-1. Observation
-2. Question
-3. Hypothesis
-4. Experiment
-5. Data collection
-6. Data analysis
-7. Conclusion
+![](img/cycle.svg){width="48%" fig-align="center" fig-alt="The seven steps arranged in a circle: observation, question, hypothesis, experiment, collect data, analyse data, conclusion"}
 
 ::: {.notes}
-Emphasize that this is a cycle, not a straight line — scientists often go back and revise.
+The seven steps: 1. Observation, 2. Question, 3. Hypothesis, 4. Experiment, 5. Data collection, 6. Data analysis, 7. Conclusion. Emphasize that this is a cycle, not a straight line — scientists often go back and revise.
 :::
 
 ## An Everyday Example: The Toaster {.smaller}
@@ -90,9 +93,16 @@ If the prediction fails, we don't give up — we form a new hypothesis and test 
 
 ## Science is a Cycle, Not a Line
 
+:::: {.columns}
+::: {.column width="58%"}
 - We often go back, revise our ideas, and try again
 - Findings are **shared** so others can learn and build on them
 - The scientific method isn't only for labs — we use it every day
+:::
+::: {.column width="42%"}
+![](img/share.svg){width="100%" fig-alt="A results sheet shared with three people"}
+:::
+::::
 
 ## Step 1 — Observation
 
@@ -100,9 +110,11 @@ Careful, systematic scrutiny of the world.
 
 Sources of observations:
 
-- Direct sensory experience
-- Literature review
-- Findings from previous studies
+![](img/observation-sources.svg){width="85%" fig-align="center" fig-alt="An eye for direct experience, an open book for literature, a chart for previous studies"}
+
+::: {.notes}
+Sources of observations: direct sensory experience (what you see, hear, measure yourself), literature review (books and scientific articles), and findings from previous studies.
+:::
 
 ## Step 2 — Question
 
@@ -112,19 +124,43 @@ A clear, focused inquiry based on the observation.
 **Vocabulary:** *ambiguous* — unclear or open to more than one interpretation.
 :::
 
-Vague questions → vague hypotheses → hard-to-design experiments.
+![](img/question-focus.svg){width="70%" fig-align="center" fig-alt="A blurry vague question compared with a sharp focused question"}
+
+::: {.notes}
+Vague questions lead to vague hypotheses, and those lead to experiments that are hard to design. "Do plants like light?" cannot be tested directly: what does "like" mean? The focused version says what we change (amount of light), on what (bean plants), what we measure (height) and when (2 weeks). Ask students to make another vague question focused.
+:::
 
 ## Step 3 — Hypothesis
 
+:::: {.columns}
+::: {.column width="65%"}
 A **testable and falsifiable** statement proposing an answer to the question.
 
 - Expresses a cause-and-effect relationship
 - **Falsifiability**: it must be possible to prove it wrong
-- Researchers may compare several *alternative hypotheses*
+
+*Example:* **If** I plug the toaster into another outlet, **then** it will work.
+:::
+::: {.column width="35%"}
+![](img/lightbulb.svg){width="100%" fig-alt="A light bulb with the words If… then…"}
+:::
+::::
+
+::: {.notes}
+A useful pattern for students: "If … then …". Researchers may also compare several alternative hypotheses for the same question (for the toaster: the outlet, the fuse, the toaster itself).
+:::
+
+## Correlation Is Not Causation
+
+![](img/correlation.svg){width="70%" fig-align="center" fig-alt="Ice cream sales and shark attacks both rise in summer; the hidden cause is hot weather"}
 
 ::: {.callout-warning}
 Watch out for **spurious correlations** — two things changing together doesn't mean one causes the other.
 https://www.tylervigen.com/spurious-correlations
+:::
+
+::: {.notes}
+Ice cream sales and shark attacks rise and fall together, but ice cream does not cause shark attacks. A third factor, hot weather, causes both: more people buy ice cream and more people swim in the sea. Ask: what is the hidden cause? Then open the Tyler Vigen site for funny real examples.
 :::
 
 ## The Null Hypothesis
@@ -152,6 +188,8 @@ Planning and organizing the procedure that will test the hypothesis.
 - **Independent variable** — the one *we* deliberately change
 - **Dependent variable** — the one we *measure*
 
+![](img/variables.svg){width="70%" fig-align="center" fig-alt="A dial for the amount of water leads to a plant measured with a ruler"}
+
 ## Identifying Variables — Try It
 
 | Scenario | Independent variable | Dependent variable |
@@ -173,16 +211,17 @@ Pause here and get answers from students. Common ones: hours studied, amount of 
 | | Qualitative | Quantitative |
 |---|---|---|
 | **Nature** | Descriptive, not easily measured | Numerical, measurable |
-| **Form** | Observations, categories | Numbers from measurement/counts |
 | **Example** | Colour of a flower, texture | Height (cm), temperature (°C) |
-| **Analysis** | Thematic / content analysis | Statistical methods |
+
+![](img/data-types.svg){width="75%" fig-align="center" fig-alt="Qualitative data: a flower described with words; quantitative data: a ruler reading 25.3 cm and a thermometer reading 22 °C"}
 
 ::: {.notes}
-Both types are valuable. Qualitative data captures nuance and description — "the plant looks healthier, has more vibrant green." Quantitative data is precise and analyzable — "the plant is 25.3 cm tall." In Fleming's penicillin experiment, qualitative observation (the clear zone around the mould) led him to the discovery, but quantitative data (how much bacterial growth was inhibited, concentration of the substance needed) was crucial for developing it as a medicine.
+Form: qualitative data are observations and categories; quantitative data are numbers from measurements or counts. Analysis: qualitative data are analysed by themes and content; quantitative data with statistical methods. Both types are valuable. Qualitative data captures nuance and description — "the plant looks healthier, has more vibrant green." Quantitative data is precise and analyzable — "the plant is 25.3 cm tall." In Fleming's penicillin experiment, qualitative observation (the clear zone around the mould) led him to the discovery, but quantitative data (how much bacterial growth was inhibited, concentration of the substance needed) was crucial for developing it as a medicine.
 :::
 
-## Precision vs. Accuracy {.smaller}
+## Precision vs. Accuracy
 
+::: {style="font-size: 0.78em;"}
 | | Precision | Accuracy |
 |---|---|---|
 | **Definition** | How closely repeated measurements agree with *each other* | How close a measurement is to the *true value* |
@@ -191,6 +230,7 @@ Both types are valuable. Qualitative data captures nuance and description — "t
 
 ::: {.callout-tip}
 It's possible to be precise but *not* accurate — consistent measurements can still all be wrong if there's a systematic error.
+:::
 :::
 
 ## Precision vs. Accuracy — Try It {.smaller}
@@ -213,19 +253,16 @@ Walk through each quadrant. Top-left (scattered, off-center): neither precise no
 
 ## The Control Group
 
-Purpose of a control group:
+![](img/control-group.svg){width="62%" fig-align="center" fig-alt="Two plants: the experimental group gets fertilizer, the control group does not; everything else is the same"}
 
-- **Baseline comparison** — the normal state, without treatment
-- **Minimizing confounding variables** — keep everything else constant
-- **Establishing cause and effect**
-- **Standard for comparison** against the experimental group
+- **Baseline comparison** (no treatment) — **keep everything else constant**
 
 ::: {.vocab-box}
 **Vocabulary:** *confounding variable* — an outside factor that could distort the result.
 :::
 
 ::: {.notes}
-Without a control group, you can't tell if the outcome was caused by your variable or something else. Example: testing a new study technique on one class but not another. But if the class getting the technique is also more motivated, how do you know which caused the better grades? A control group that differs ONLY in the treatment lets you isolate the effect. This is the most common reason experiments fail — they don't properly control confounding variables.
+Purpose of a control group: a baseline comparison (the normal state, without treatment); minimizing confounding variables by keeping everything else constant; establishing cause and effect; a standard for comparison against the experimental group. Without a control group, you can't tell if the outcome was caused by your variable or something else. Example: testing a new study technique on one class but not another. But if the class getting the technique is also more motivated, how do you know which caused the better grades? A control group that differs ONLY in the treatment lets you isolate the effect. This is the most common reason experiments fail — they don't properly control confounding variables.
 :::
 
 ## Randomization & Replication
@@ -250,25 +287,39 @@ The image shows the same treatment (star, square, circle shapes) randomly assign
 - **Descriptive statistics**: mean, median, standard deviation
 - **Graphical representations**: scatter plots, bar graphs, histograms, line graphs
 
+![](img/data-analysis.svg){width="75%" fig-align="center" fig-alt="Three small charts: a bar graph, a scatter plot and a line graph"}
+
 ## Step 7 — Conclusion
 
+:::: {.columns}
+::: {.column width="62%"}
 - Compare results **with the hypothesis**: supported, or contradicted?
-- Assess **validity**: reliability of data, rigor of design, confounders
-- Consider **statistical significance** and **alternative explanations**
-- Discuss **generalizability** and broader **implications**
+- Assess **validity** and look for **alternative explanations**
 - **Communicate findings** — papers undergo peer review before publication
+:::
+::: {.column width="38%"}
+![](img/conclusion.svg){width="100%" fig-alt="Two stamps, supported and contradicted, and a paper under a magnifying glass for peer review"}
+:::
+::::
 
 ::: {.notes}
-A good conclusion doesn't just say "we were right" or "we were wrong." It evaluates HOW CONFIDENT we should be in the result. Did we test enough subjects? Enough times? Could something else have caused the outcome? What's next? For Fleming, the conclusion was: this substance looks promising for medical use — but more research (which took 12 years and multiple scientists) was needed to develop it into a usable drug. This is why peer review matters: other experts check your logic and methods before your work becomes trusted.
+Validity means: reliability of the data, rigor of the design, possible confounders. Scientists also consider statistical significance (could the result be due to chance?), generalizability (does it apply to other cases?) and the broader implications. A good conclusion doesn't just say "we were right" or "we were wrong." It evaluates HOW CONFIDENT we should be in the result. Did we test enough subjects? Enough times? Could something else have caused the outcome? What's next? For Fleming, the conclusion was: this substance looks promising for medical use — but more research (which took 12 years and multiple scientists) was needed to develop it into a usable drug. This is why peer review matters: other experts check your logic and methods before your work becomes trusted.
 :::
 
 # Case Study: Penicillin {background-color="#1d5c9c"}
 
 ## Observation
 
+:::: {.columns}
+::: {.column width="50%"}
 In September 1928, Alexander Fleming was studying *Staphylococcus* bacteria at St. Mary's Hospital, London.
 
 He left petri dishes on his workbench while on vacation.
+:::
+::: {.column width="50%"}
+![](img/fleming-vacation.svg){width="100%" fig-alt="A calendar showing September 1928, a suitcase, and a stack of petri dishes left on a bench"}
+:::
+::::
 
 ## Observation (continued)
 
@@ -287,9 +338,16 @@ This is the key observation — most scientists would have cursed and thrown awa
 
 ## Question & Hypothesis
 
+:::: {.columns}
+::: {.column width="55%"}
 **Question:** What killed the bacteria near the mould?
 
 **Hypothesis:** The mould (later identified as *Penicillium*) releases a substance that inhibits bacterial growth.
+:::
+::: {.column width="45%"}
+![](img/mould-hypothesis.svg){width="100%" fig-alt="A green mould releasing a substance that kills nearby bacteria"}
+:::
+::::
 
 ## Experiment
 
@@ -298,6 +356,8 @@ Fleming:
 1. Isolated the mould
 2. Extracted its secretions
 3. Tested the secretions against various bacteria, including *Staphylococcus*
+
+![](img/fleming-experiment.svg){width="70%" fig-align="center" fig-alt="Three steps: a dish with mould, a flask with the extract, three dishes of bacteria tested with drops of extract"}
 
 ## Data & Analysis
 
@@ -318,13 +378,21 @@ Show them the actual historical 1929 publication photo. This is real data from a
 
 ## Conclusion & Impact
 
+:::: {.columns}
+::: {.column width="62%"}
 - Penicillin was recognized as a potential **antibiotic**
-- In the 1940s, Howard Florey and Ernst Boris Chain scaled up isolation and production
+- In the 1940s, Howard Florey and Ernst Boris Chain scaled up production
 - This marked the beginning of the **antibiotic era** in medicine
-
-::: {.fragment}
-**Estimated lives saved to date: over 200 million**
+- 1945: Fleming, Florey and Chain shared the **Nobel Prize** in Physiology or Medicine
 :::
+::: {.column width="38%"}
+![](img/impact.svg){width="100%" fig-alt="An antibiotic capsule above a row of people"}
+
+::: {.fragment style="text-align:center;"}
+**Lives saved to date: over 200 million**
+:::
+:::
+::::
 
 ## Recap
 

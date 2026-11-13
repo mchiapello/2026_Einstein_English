@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <line x1="60" y1="260" x2="415" y2="260" stroke="#555" stroke-width="3"/><line x1="60" y1="260" x2="60" y2="35" stroke="#555" stroke-width="3"/>
+  <g font-size="14" fill="#555"><text x="70" y="282">J</text><text x="100" y="282">F</text><text x="130" y="282">M</text><text x="160" y="282">A</text><text x="190" y="282">M</text><text x="220" y="282">J</text><text x="250" y="282">J</text><text x="280" y="282">A</text><text x="310" y="282">S</text><text x="340" y="282">O</text><text x="370" y="282">N</text><text x="400" y="282">D</text></g>
+  <polyline points="70,218 100,213.8 130,197 160,165.5 190,129.8 220,92 250,60.5 280,66.8 310,113 340,165.5 370,201.2 400,213.8" fill="none" stroke="#e76f9a" stroke-width="5" stroke-linejoin="round"/>
+  <polyline points="70,239 100,234.8 130,222.2 160,197 190,159.2 220,113 250,75.2 280,81.5 310,134 340,186.5 370,222.2 400,234.8" fill="none" stroke="#1d5c9c" stroke-width="5" stroke-linejoin="round" stroke-dasharray="12 6"/>
+  <line x1="435" y1="50" x2="470" y2="50" stroke="#e76f9a" stroke-width="5"/><text x="530" y="56" font-size="17" fill="#222">Ice cream</text>
+  <line x1="435" y1="85" x2="470" y2="85" stroke="#1d5c9c" stroke-width="5" stroke-dasharray="12 6"/><text x="530" y="91" font-size="17" fill="#222">Shark attacks</text>
+  <g stroke="#e9a23b" stroke-width="5" stroke-linecap="round"><line x1="510" y1="128" x2="510" y2="140"/><line x1="510" y1="216" x2="510" y2="228"/><line x1="460" y1="178" x2="472" y2="178"/><line x1="548" y1="178" x2="560" y2="178"/></g>
+  <circle cx="510" cy="178" r="30" fill="#f4c95d"/>
+  <text x="510" y="258" font-size="16" font-weight="700" fill="#e9a23b">hidden cause:</text><text x="510" y="280" font-size="16" font-weight="700" fill="#e9a23b">hot weather</text>
+</svg>

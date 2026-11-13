@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <circle cx="250" cy="250" r="170" fill="none" stroke="#ccc" stroke-width="6"/>
+  <g fill="#999">
+    <path d="M-11-10L11 0-11 10z" transform="translate(323.8 96.8) rotate(25.7)"/>
+    <path d="M-11-10L11 0-11 10z" transform="translate(415.7 212.2) rotate(77.1)"/>
+    <path d="M-11-10L11 0-11 10z" transform="translate(382.9 356) rotate(128.6)"/>
+    <path d="M-11-10L11 0-11 10z" transform="translate(250 420) rotate(180)"/>
+    <path d="M-11-10L11 0-11 10z" transform="translate(117.1 356) rotate(231.4)"/>
+    <path d="M-11-10L11 0-11 10z" transform="translate(84.3 212.2) rotate(282.9)"/>
+    <path d="M-11-10L11 0-11 10z" transform="translate(176.2 96.8) rotate(334.3)"/>
+  </g>
+  <g font-weight="700" fill="#fff">
+    <circle cx="250" cy="80" r="50" fill="#1d5c9c"/><text x="250" y="72" font-size="22">1</text><text x="250" y="96" font-size="14">Observation</text>
+    <circle cx="382.9" cy="144" r="50" fill="#2a9d8f"/><text x="382.9" y="136" font-size="22">2</text><text x="382.9" y="160" font-size="14">Question</text>
+    <circle cx="415.7" cy="287.8" r="50" fill="#e9a23b"/><text x="415.7" y="279.8" font-size="22">3</text><text x="415.7" y="303.8" font-size="14">Hypothesis</text>
+    <circle cx="323.8" cy="403.2" r="50" fill="#e63946"/><text x="323.8" y="395.2" font-size="22">4</text><text x="323.8" y="419.2" font-size="14">Experiment</text>
+    <circle cx="176.2" cy="403.2" r="50" fill="#6a994e"/><text x="176.2" y="395.2" font-size="22">5</text><text x="176.2" y="419.2" font-size="14">Collect data</text>
+    <circle cx="84.3" cy="287.8" r="50" fill="#8e5ea2"/><text x="84.3" y="279.8" font-size="22">6</text><text x="84.3" y="303.8" font-size="14">Analyse data</text>
+    <circle cx="117.1" cy="144" r="50" fill="#264653"/><text x="117.1" y="136" font-size="22">7</text><text x="117.1" y="160" font-size="14">Conclusion</text>
+  </g>
+  <path d="M215 270a40 40 0 1 0 12-48" fill="none" stroke="#999" stroke-width="5" stroke-linecap="round"/>
+  <path d="M218 210l14 10-14 10z" fill="#999"/>
+  <text x="255" y="246" font-size="17" fill="#555">revise</text><text x="255" y="268" font-size="17" fill="#555">&amp; repeat</text>
+</svg>

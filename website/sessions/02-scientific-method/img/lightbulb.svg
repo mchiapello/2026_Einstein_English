@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 270" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <g stroke="#e9a23b" stroke-width="7" stroke-linecap="round"><line x1="130" y1="10" x2="130" y2="28"/><line x1="40" y1="45" x2="54" y2="58"/><line x1="220" y1="45" x2="206" y2="58"/><line x1="15" y1="125" x2="35" y2="125"/><line x1="245" y1="125" x2="225" y2="125"/></g>
+  <path d="M130 45a78 78 0 0 0-45 142v18h90v-18a78 78 0 0 0-45-142z" fill="#f4c95d" stroke="#c99a1e" stroke-width="5"/>
+  <rect x="88" y="210" width="84" height="16" rx="5" fill="#999"/><rect x="96" y="230" width="68" height="16" rx="5" fill="#999"/><rect x="112" y="250" width="36" height="12" rx="5" fill="#777"/>
+  <text x="130" y="122" font-size="28" font-weight="700" fill="#7a5a00">If…</text>
+  <text x="130" y="158" font-size="28" font-weight="700" fill="#7a5a00">then…</text>
+</svg>
