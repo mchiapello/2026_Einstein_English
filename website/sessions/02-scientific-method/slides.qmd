@@ -12,7 +12,16 @@ format:
 
 ## Warm-up: Review of Session 1 — Live Quiz {.center}
 
-Start of class: scan the QR code on the [session 1 material page](../01-how-to-study/index.qmd) to join the live quiz on the previous lesson.
+:::: {.columns}
+::: {.column width="45%"}
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=https://forms.gle/ykpqo3aYWRHh9vYU7" alt="QR code to join the live quiz" width="380" height="380" style="display:block; margin:0 auto;">
+:::
+::: {.column width="55%"}
+Scan the QR code to join the live quiz on **How to Study** (10 questions).
+
+[forms.gle/ykpqo3aYWRHh9vYU7](https://forms.gle/ykpqo3aYWRHh9vYU7)
+:::
+::::
 
 ::: {.notes}
 Every lesson starts with an assessment of the previous class. Display the QR code, run the quiz, then discuss the answers before moving on.
@@ -30,9 +39,11 @@ This slide sets the tone. The scientific method is not just a boring recipe — 
 
 ## Curiosity Drives Discovery
 
-> Why is the sky blue? How do plants grow? What are stars made of?
+Science starts with **asking questions** about the world around us:
 
-Science starts with **asking questions** about the world around us.
+- Why is the sky blue?
+- How do plants grow?
+- What are stars made of?
 
 ## The Seven Steps
 
@@ -113,6 +124,25 @@ A **testable and falsifiable** statement proposing an answer to the question.
 
 ::: {.callout-warning}
 Watch out for **spurious correlations** — two things changing together doesn't mean one causes the other.
+https://www.tylervigen.com/spurious-correlations
+:::
+
+## The Null Hypothesis
+
+::: {.vocab-box}
+**Null hypothesis (H₀)** — the claim of **no effect**: any change we observe is just due to chance.
+:::
+
+- **H₁:** Studying with flashcards improves exam scores
+- **H₀:** Studying with flashcards has **no** effect on exam scores
+- An experiment gathers evidence to **reject H₀** — it doesn't *prove* H₁
+
+::: {.callout-important}
+**A scientist's job is not to prove they are right.** You design the experiment to try to prove your own hypothesis *wrong* — if it survives that attempt, it gets stronger.
+:::
+
+::: {.notes}
+This is a subtle but important idea: scientists don't set out to prove their hypothesis directly. They test whether the data make the "nothing is happening" explanation (H₀) unlikely. If exam scores are clearly higher with flashcards, we reject H₀ in favour of H₁. If scores are about the same, we fail to reject H₀ — that doesn't mean H₀ is true, only that we don't have enough evidence against it. This connects back to falsifiability: H₀ is the default, skeptical position you need evidence to overturn. Philosophy of science point (Popper): good science is not about confirming what you already believe — hunting only for evidence that agrees with you is confirmation bias. A real test is one that COULD have proven you wrong and didn't. Ask students: what would the null hypothesis be for the toaster example, or for Fleming's penicillin observation? And how could Fleming have been wrong?
 :::
 
 ## Step 4 — Experiment
@@ -151,7 +181,7 @@ Pause here and get answers from students. Common ones: hours studied, amount of 
 Both types are valuable. Qualitative data captures nuance and description — "the plant looks healthier, has more vibrant green." Quantitative data is precise and analyzable — "the plant is 25.3 cm tall." In Fleming's penicillin experiment, qualitative observation (the clear zone around the mould) led him to the discovery, but quantitative data (how much bacterial growth was inhibited, concentration of the substance needed) was crucial for developing it as a medicine.
 :::
 
-## Precision vs. Accuracy
+## Precision vs. Accuracy {.smaller}
 
 | | Precision | Accuracy |
 |---|---|---|
@@ -161,6 +191,16 @@ Both types are valuable. Qualitative data captures nuance and description — "t
 
 ::: {.callout-tip}
 It's possible to be precise but *not* accurate — consistent measurements can still all be wrong if there's a systematic error.
+:::
+
+## Precision vs. Accuracy — Try It {.smaller}
+
+![](img/precision-accuracy-targets-blank.png){width="75%" fig-align="center"}
+
+For each target: is it **precise**? Is it **accurate**?
+
+::: {.notes}
+Show the unlabeled targets and ask students to call out, for each quadrant, whether it shows high/low precision and high/low accuracy, before revealing the labeled version on the next slide.
 :::
 
 ## Precision vs. Accuracy — Visualized
@@ -192,7 +232,7 @@ Without a control group, you can't tell if the outcome was caused by your variab
 
 :::: {.columns}
 ::: {.column width="55%"}
-- **Randomization** helps eliminate bias
+- **Randomization** helps eliminate bias: assign subjects to groups by chance (e.g. a coin flip), not by choice — otherwise, say, the most motivated students could all end up in the same group
 - **Replication** (repeating the trial) helps ensure results are reliable
 :::
 ::: {.column width="45%"}

@@ -8,16 +8,16 @@ subtitle: "Session 2"
 ## Start of Class: Review of Session 1 — Live Quiz {.center}
 
 ::: {.qr-block}
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="180" height="180">
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://forms.gle/ykpqo3aYWRHh9vYU7" alt="QR code to join the live quiz" width="180" height="180">
 
 ::: {}
-**How to Study — 3 questions**
+**How to Study — 10 questions**
 
 1. Why is five hours of study spread over two weeks better than five hours in one night?
 2. Why does re-reading your notes give weaker learning than retrieval practice?
 3. What does interleaving mean, and why should you not switch topics too often?
 
-[Or open the quiz directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
+[Or open the quiz directly →](https://forms.gle/ykpqo3aYWRHh9vYU7)
 :::
 :::
 
