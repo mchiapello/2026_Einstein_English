@@ -1,131 +1,65 @@
 ---
 title: "Understanding DNA"
+subtitle: "Session 3"
 ---
+
+[Open the slides →](slides.qmd)
 
 ## Start of Class: Review of Session 2 — Live Quiz {.center}
 
-Scan the QR code below with your phone to join the live quiz on the previous session. We start every lesson with this review.
-
 ::: {.qr-block}
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="180" height="180">
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://forms.gle/jZ4t2N5mUokwetFd9" alt="QR code to join the live quiz" width="180" height="180">
 
 ::: {}
-**Scientific Method — quick check (3 questions)**
+**Scientific Method — 10 questions**
 
-1. What is the difference between precision and accuracy?
-2. What is the purpose of a control group in an experiment?
-3. What is the first step of the scientific method?
+1. What makes a hypothesis falsifiable?
+2. What is the difference between the independent and the dependent variable?
+3. A scale always reads 2 kg too high: is it precise, accurate, both or neither?
 
-[Or open the quiz directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
+[Or open the quiz directly →](https://forms.gle/jZ4t2N5mUokwetFd9)
 :::
-:::
-
-::: {.callout-important}
-**Before class:** replace `REPLACE_WITH_YOUR_GOOGLE_FORM_LINK` above with your actual quiz link (see the [Live Quizzes](../../quizzes.qmd) page for how to set this up — it only takes a few minutes and only needs to be done once per session).
 :::
 
 ## Overview
 
-DNA is the molecule that carries genetic instructions for all living things. In this session, you'll learn about DNA's structure, how it works, and why it's so important to life. Read through the material below and then watch the presentation.
-
-[→ View the slides](slides.qmd)
+DNA (**deoxyribonucleic acid**) is the molecule that stores the instructions for every living thing. It is a long chain of **nucleotides**, and its four bases (A, T, G, C) pair up in a fixed way: **A with T, G with C**. That simple rule explains the **double helix** shape, how DNA is **copied** before a cell divides, and how a change in a single letter (a **mutation**) can make a difference.
 
 ## Key Vocabulary
 
 ::: {.vocab-box}
-**DNA (deoxyribonucleic acid)** — the molecule that stores genetic information in all living organisms. It has a double helix structure made of four chemical bases (A, T, G, C).
+- **nucleotide** — the building block of DNA: a phosphate group, a sugar (deoxyribose) and a base
+- **base pair** — two bases joined by hydrogen bonds: A–T or G–C
+- **complementary** — matching according to the pairing rule; each DNA strand is complementary to the other
+- **double helix** — the shape of DNA: two strands twisted like a spiral ladder
+- **chromosome** — a tightly packed structure of DNA wound around proteins (histones); humans have 46
+- **replication** — the copying of DNA before a cell divides; each strand is a template for a new one
+- **gene** — a stretch of DNA with the instructions for one product, usually a protein
+- **genome** — the complete set of DNA of an organism (about 3 billion base pairs in humans)
+- **mutation** — a change in the DNA sequence; it can be harmful, neutral or beneficial
 :::
 
-::: {.vocab-box}
-**Nucleotide** — the basic building block of DNA, consisting of a sugar, a phosphate group, and a nitrogenous base.
-:::
+## The Human Genome by Numbers
 
-::: {.vocab-box}
-**Base** — one of four chemical compounds in DNA: Adenine (A), Thymine (T), Guanine (G), or Cytosine (C). A always pairs with T, and G always pairs with C.
-:::
+| | |
+|---|---|
+| Base pairs | ≈ 3 billion |
+| Protein-coding genes | ≈ 20,000 |
+| Fraction that codes for proteins | ≈ 1.5 % |
+| DNA in one cell, unwound | ≈ 2 m |
+| Difference between two people | ≈ 0.1 % |
 
-::: {.vocab-box}
-**Gene** — a short segment of DNA (typically 300 to 3,000 base pairs) that contains instructions for building one protein. Humans have about 20,000 genes.
-:::
+## Case Study: The Double Helix
 
-::: {.vocab-box}
-**Genome** — the complete set of genetic instructions for an organism. The human genome contains about 3 billion base pairs.
-:::
+The discovery of DNA's structure in 1953 is a real example of the scientific method. Erwin **Chargaff**'s data showed that A ≈ T and G ≈ C, and **Rosalind Franklin**'s X-ray image (Photo 51) showed a helix. **James Watson** and **Francis Crick** combined these data into a model, which predicted how DNA is copied, and that prediction was confirmed in 1958. See the slides for the full story, including the question of who got the credit.
 
-::: {.vocab-box}
-**Mutation** — a change in the DNA sequence. Mutations can be beneficial, neutral, or harmful, and they are the source of genetic variation in populations.
-:::
+## Watch at Home (optional)
 
-::: {.vocab-box}
-**Replication** — the process by which DNA makes an exact copy of itself, which happens before cells divide. It's remarkably accurate because of base pairing rules.
-:::
+- [DNA Replication](https://www.youtube.com/watch?v=Qqe4thU-os8) — Amoeba Sisters
+- [Rosalind Franklin: DNA's unsung hero](https://www.youtube.com/watch?v=BIP0lYrdirI) — TED-Ed
+- [Where do genes come from?](https://www.youtube.com/watch?v=z9HIYjRRaDE) — TED-Ed
+- [DNA: The book of you](https://www.youtube.com/watch?v=aeAL6xThfL8) — TED-Ed
 
-## How DNA Works: The Central Dogma
+## Classroom Material
 
-DNA doesn't directly build proteins. Instead:
-
-**DNA → RNA → Protein**
-
-1. **Transcription:** DNA is transcribed into RNA (a similar molecule)
-2. **Translation:** RNA is translated into proteins by cellular machinery
-3. **Proteins:** Proteins do most of the work in cells
-
-This is why genes are so important — they're the instructions that ultimately become the proteins that keep you alive.
-
-## DNA Structure
-
-DNA looks like a twisted ladder (a **double helix**):
-
-- The sides of the ladder are made of sugar and phosphate groups
-- The rungs are made of base pairs (A-T and G-C)
-- The bases follow strict pairing rules: A always pairs with T (2 bonds), and G always pairs with C (3 bonds)
-
-This structure is crucial because it allows DNA to:
-- **Store information** reliably in the sequence of bases
-- **Replicate accurately** — when the strand separates, each side can serve as a template for a new matching strand
-- **Protect information** — the bases are tucked inside the helix, protected from damage
-
-## Scale and Packaging
-
-DNA is incredibly small yet packed with information:
-
-- A single strand is just 2 nanometers wide (0.000002 millimeters)
-- The entire human genome would stretch 2 meters if unwound
-- Yet it's compacted into the nucleus of every cell!
-
-This is achieved by wrapping DNA around proteins called **histones**, which form structures called **chromosomes**. You have 46 chromosomes (23 pairs) in each of your cells.
-
-## Key Facts About Genetic Variation
-
-- **Humans share ~99.9% of their DNA** — we are remarkably similar
-- The **0.1% difference** is what makes us individually unique
-- We share **98% of our DNA with chimpanzees**, showing common ancestry
-- We share **~50% with fruit flies** and **40–50% with plants** — evidence that all life evolved from common ancestors
-
-## The Genetic Code
-
-DNA contains about 20,000 genes, but:
-
-- Only ~1.5% of the genome codes for proteins
-- The rest is "regulatory" (controls when genes are turned on/off) or appears to have no known function (sometimes called "junk DNA," though this is misleading)
-- Gene expression (which genes are active) varies by cell type — a brain cell and a liver cell have the same DNA but express different genes
-
-## Mutations and Evolution
-
-Mutations are rare copying errors that occur during replication:
-
-- Most mutations have **no effect** on health or function
-- Some are **beneficial** — giving an advantage in survival or reproduction
-- A few are **harmful** — disrupting normal cellular function
-
-Over millions of years, beneficial mutations accumulate through natural selection, driving evolution. This is how all the diversity of life — from bacteria to humans — arose from common ancestors.
-
-## Modern Genomics: Why It Matters
-
-Thanks to the Human Genome Project and advances in sequencing technology:
-
-- **Medicine:** Doctors can identify genetic causes of disease and develop targeted treatments
-- **Ancestry:** We can trace human migration and relationships through DNA
-- **Agriculture:** We can breed crops and animals with desirable traits
-- **Evolution:** We can understand how species are related and how they evolved
-- **Forensics:** DNA is used to identify suspects and exonerate the innocent
+- [Worksheet: Exploring DNA (PDF)](material/dna-worksheet.pdf)

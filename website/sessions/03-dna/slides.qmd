@@ -12,7 +12,16 @@ format:
 
 ## Warm-up: Review of Session 2 — Live Quiz {.center}
 
-Start of class: scan the QR code on the [session 2 material page](../02-scientific-method/index.qmd) to join the live quiz on the previous lesson.
+:::: {.columns}
+::: {.column width="45%"}
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=https://forms.gle/jZ4t2N5mUokwetFd9" alt="QR code to join the live quiz" width="380" height="380" style="display:block; margin:0 auto;">
+:::
+::: {.column width="55%"}
+Scan the QR code to join the live quiz on the **Scientific Method** (10 questions).
+
+[Open the quiz](https://forms.gle/jZ4t2N5mUokwetFd9)
+:::
+::::
 
 ::: {.notes}
 Every lesson starts with an assessment of the previous class. Display the QR code, run the quiz, then discuss the answers before moving on.
@@ -20,201 +29,403 @@ Every lesson starts with an assessment of the previous class. Display the QR cod
 
 ## DNA: The Molecule of Life {.center}
 
-- The blueprint of life
-- Stored in nearly every cell of your body
-- Contains instructions for building and running organisms
+![](img/helix.svg){width="80%" fig-align="center" fig-alt="A colourful DNA double helix"}
+
+- The **instruction manual** for every living thing, from bacteria to humans
+- Found in almost every cell of your body
+- Copied and **passed on** from parents to children
 
 ::: {.notes}
-DNA is one of the most important molecules in nature. It's the instruction manual for life. Every living thing on Earth — from bacteria to humans to plants — uses DNA to store and pass along the information needed to build and maintain life.
+Start with a question: "What do you already know about DNA?" Collect a few words on the board (genes, double helix, inheritance, crime scenes…). Then: DNA is not alive and does not "do" anything by itself. It is information, like a recipe book. The cell reads it to build and run the organism.
 :::
 
-## What is DNA?
+## What Does "DNA" Stand For?
 
-DNA stands for **deoxyribonucleic acid**.
-
-It is a molecule that:
-
-- Carries genetic instructions for all living things
-- Is made up of four chemical bases
-- Forms a double helix structure
-- Can be copied and passed to offspring
+![](img/word-parts.svg){width="90%" fig-align="center" fig-alt="The word deoxyribonucleic acid split into deoxy, ribo, nucleic and acid, with the meaning of each part"}
 
 ::: {.notes}
-The word "deoxyribonucleic" sounds complex, but it just describes the chemical structure. What matters is what DNA does: it stores information. Think of it like a biological computer program or a cookbook with recipes for proteins.
+Scientific English tip: long scientific words are often built from smaller parts. If you know the parts, you can decode the word. "De-oxy" = without oxygen (the sugar deoxyribose has one oxygen atom less than ribose, the sugar in RNA). "Nucleic" because Friedrich Miescher first isolated it from cell nuclei in 1869 (he called it "nuclein"). "Acid" because of the phosphate groups. Ask: what could "ribonucleic acid" (RNA) mean?
 :::
 
-## The Building Blocks: Nucleotides
+## The Building Block: the Nucleotide
 
-DNA is made of four types of chemical bases:
+![](img/nucleotide.svg){width="80%" fig-align="center" fig-alt="A nucleotide: a phosphate group linked to a deoxyribose sugar, linked to a nitrogenous base"}
+
+DNA is a **polymer**: a long chain of millions of nucleotides.
+
+::: {.vocab-box}
+**Vocabulary:** *polymer* — a large molecule made of many repeated units (*poly* = many, *mer* = part).
+:::
+
+::: {.notes}
+Every nucleotide has the same phosphate and the same sugar. Only the base changes, and there are only four kinds. So all the information in DNA is in the ORDER of the bases, the way all the information in a book is in the order of the letters.
+:::
+
+## Four Bases, Two Families
+
+![](img/bases.svg){width="72%" fig-align="center" fig-alt="Purines adenine and guanine have two rings; pyrimidines cytosine and thymine have one ring"}
+
+::: {.notes}
+Purines (A, G) are bigger: two rings. Pyrimidines (C, T) are smaller: one ring. In RNA, thymine is replaced by uracil (U), another pyrimidine. Mnemonics: "Pure As Gold" for purines; "CUT the Py" for pyrimidines. Students do not need to learn the chemical structures, only the two families and which base belongs to which.
+:::
+
+## The Base-Pairing Rule
+
+![](img/base-pairing.svg){width="75%" fig-align="center" fig-alt="A pairs with T through 2 hydrogen bonds; G pairs with C through 3 hydrogen bonds; each pair has the same width"}
+
+**A** always pairs with **T**, **G** always pairs with **C**. The two strands are **complementary**.
+
+::: {.notes}
+A purine always pairs with a pyrimidine, so every rung of the ladder has the same width and the helix is regular. Hydrogen bonds are weak, so the two strands can be separated ("unzipped") without breaking the strands themselves. That will matter for replication. G–C pairs have three bonds, so DNA rich in G and C is harder to separate (it melts at a higher temperature).
+:::
+
+## Complementary Strands — Try It
+
+If one strand reads:
+
+<p style="font-family: monospace; font-size: 1.3em; text-align:center;">A T G C C T A G G A</p>
+
+What does the other strand read?
+
+::: {.fragment}
+<p style="font-family: monospace; font-size: 1.3em; text-align:center; color:#e63946;">T A C G G A T C C T</p>
+
+If you know **one** strand, you know **both**. That is why DNA can be copied.
+:::
+
+::: {.notes}
+Give students 30 seconds, then reveal. Optional extra: ask them to write their own 8-letter strand and swap with a neighbour, who writes the complementary strand. Advanced point if someone asks: the two strands run in opposite directions (antiparallel), labelled 5' and 3'.
+:::
+
+## The Double Helix
 
 :::: {.columns}
-::: {.column width="50%"}
-**Purines:**
-- Adenine (A)
-- Guanine (G)
+::: {.column width="58%"}
+![](img/slide03_img0.png){width="100%"}
 :::
-::: {.column width="50%"}
-**Pyrimidines:**
-- Cytosine (C)
-- Thymine (T)
+::: {.column width="42%"}
+A **twisted ladder**:
+
+- **Sides**: sugar–phosphate **backbone**
+- **Rungs**: base pairs (A–T, G–C)
+- Bases are **inside**, protected
 :::
 ::::
 
-![](img/slide04_img0.png){width="80%" fig-align="center"}
-
 ::: {.notes}
-These four bases pair up in a specific way: A always pairs with T, and G always pairs with C. This base pairing rule is fundamental to how DNA works — it's how the code is read and copied accurately.
+Use the ladder analogy, then twist it. The backbone is on the outside; the bases (the information) are tucked inside where they are protected. Who discovered this shape, and how? We will see it in the case study at the end of the lesson.
 :::
 
-## The Double Helix Structure {background-color="#1d5c9c"}
+## How Small Is DNA?
 
-![](img/slide05_img0.png){width="70%" fig-align="center"}
+![](img/scale.svg){width="85%" fig-align="center" fig-alt="Zooming in from a person to a cell, to a chromosome, to the DNA helix, which is 2 nanometres wide"}
 
-The discovery of DNA's double helix shape in 1953 by Watson, Crick, Franklin, and Wilkins was one of the greatest scientific breakthroughs.
+- The helix is just **2 nanometres** wide (1 nm = one billionth of a metre)
+- But the DNA in **one** cell, unwound and laid end to end, is about **2 metres** long
 
 ::: {.notes}
-The double helix looks like a twisted ladder. The two sides of the ladder are sugar-phosphate chains, and the rungs are the base pairs. This elegant structure explains how DNA can copy itself perfectly: when the two strands separate, each one can serve as a template to build a new matching strand.
+2 nm = 0.000002 mm: about 50,000 times thinner than a human hair. You cannot see a single DNA molecule with a light microscope. And yet each cell nucleus (about 6 µm across) holds about 2 m of DNA. How does it fit? Next slide. Next week, in the lab, you will extract DNA from fruit and see it with your own eyes: you will see millions of molecules clumped together, not a single one.
 :::
 
-## Understanding Scale: How Small is DNA?
+## Estimate It: All the DNA in Your Body
 
-DNA is **incredibly small**.
-
-- 1 meter = **10,000,000,000 angstroms** (10 billion)
-- DNA molecules are just a few nanometers wide
-- Yet, if all DNA from one cell were unwound and laid end-to-end, it would stretch about **2 meters**
-
-::: {.notes}
-This helps students grasp the microscopic scale. We can't see DNA with our eyes or even with a light microscope — we need an electron microscope. Yet there's so much information packed into something so tiny!
+::: {.callout-tip}
+**A scientist's estimate:** about **2 m** of DNA per cell × your number of cells = ?
 :::
 
-## Where is DNA Found?
+1. Guess the number of cells in a human body
+2. Multiply by 2 m
+3. Compare with the distance from the Earth to the Sun: **150 million km**
 
-![](img/slide10_img0.png){width="70%" fig-align="center"}
-
-In humans, most DNA is in the **nucleus** of each cell, but some is also in:
-- Mitochondria (powerhouses of the cell)
-- Chloroplasts (in plants)
+::: {.fragment}
+≈ 30 trillion cells × 2 m ≈ **60 billion km**: enough to go to the Sun and back **about 200 times**.
+:::
 
 ::: {.notes}
-The nucleus is like the control center of the cell, and DNA is locked inside it in the form of chromosomes. This isolation helps protect the genetic code from damage.
+This is a "Fermi estimate": a rough calculation with round numbers, the way scientists check if an answer is reasonable. Let groups of students try it before revealing. Numbers: about 30 trillion (3 × 10^13) cells in a human body (Sender et al., 2016). 3 × 10^13 × 2 m = 6 × 10^13 m = 6 × 10^10 km. Sun and back = 3 × 10^8 km, so 6 × 10^10 / 3 × 10^8 = 200 trips. Critical-thinking twist (link to Session 2): this estimate has a hidden assumption! About 80% of our cells are red blood cells, and they have NO nucleus and no DNA. So the real answer is several times smaller, but still tens of round trips to the Sun. Popular websites quote very different numbers ("600 times to the Sun", "17 times to Pluto") because they make different assumptions. Ask: which assumptions would change the answer?
+:::
+
+## Packing DNA: Chromosomes
+
+:::: {.columns}
+::: {.column width="50%"}
+![](img/slide10_img0.png){width="100%"}
+:::
+::: {.column width="50%"}
+- DNA is wound around proteins called **histones**, like thread on a spool
+- It is then coiled again and again into **chromosomes**
+- Humans have **46 chromosomes** (23 pairs): one set from each parent
+:::
+::::
+
+::: {.notes}
+The packaging is what lets 2 m of DNA fit into a nucleus a few micrometres wide. DNA + histones = chromatin. Before a cell divides, chromatin condenses into the X-shaped chromosomes you see in textbook pictures.
+:::
+
+## Where Is DNA Found?
+
+:::: {.columns}
+::: {.column width="50%"}
+![](img/slide11_img0.png){width="100%"}
+:::
+::: {.column width="50%"}
+- Mostly in the **nucleus**
+- A little in the **mitochondria**
+- In plants, also in the **chloroplasts**
+- Bacteria have no nucleus: their DNA floats in the cell
+:::
+::::
+
+::: {.notes}
+Mitochondria and chloroplasts have their own small DNA because they were once free-living bacteria swallowed by an ancestral cell (endosymbiosis). Mitochondrial DNA is inherited only from the mother, which is useful for tracing ancestry. We will meet this again in the forensic DNA session.
 :::
 
 ## DNA Replication: Copying the Code
 
-DNA can make **exact copies** of itself — this is essential for cell division and reproduction.
+![](img/replication.svg){width="82%" fig-align="center" fig-alt="A parent DNA molecule unzips; each old strand is a template for a new strand, giving two identical copies, each with one old and one new strand"}
 
-![](img/slide14_img0.png){width="65%" fig-align="center"}
-
-The process:
-1. The double helix unwinds (like unzipping)
-2. Each strand serves as a template
-3. New bases are added following the pairing rule (A-T, G-C)
-4. Two identical copies result
+The helix **unzips** → each strand is a **template** → new bases follow the pairing rule → **two identical copies**
 
 ::: {.notes}
-Replication is remarkably accurate because of the base pairing rules. An A on the original strand can only pair with a new T, ensuring perfect copying. Occasional errors (mutations) are what drive evolution.
+Before every cell division, all 3 billion base pairs are copied. Each new molecule keeps one old strand and gets one new strand: this is called semi-conservative replication. The enzyme that unzips is helicase; the enzyme that adds new nucleotides is DNA polymerase. It makes about one mistake in a billion bases after proofreading. Those rare mistakes are mutations.
 :::
 
-## What is a Gene?
+## DNA Replication: Video
 
-A **gene** is a short segment of DNA that:
-
-- Contains instructions for building one **protein**
-- Can be just hundreds to thousands of base pairs long
-- Is the basic unit of heredity
-
-![](img/slide17_img0.png){width="60%" fig-align="center"}
+{{< video https://www.youtube.com/watch?v=Qqe4thU-os8 >}}
 
 ::: {.notes}
-Genes are like individual recipes in a cookbook. One gene = one protein. That protein might be an enzyme that speeds up a chemical reaction, or a structural protein that gives shape to cells, or an antibody that fights infection. All the proteins in your body are made following instructions in your genes.
+Amoeba Sisters, "DNA Replication". Play it, then ask: what does helicase do? What does DNA polymerase do? Why is the pairing rule essential for copying?
+:::
+
+## What Is a Gene?
+
+![](img/gene.svg){width="85%" fig-align="center" fig-alt="A long DNA molecule with a few short coloured segments labelled gene; analogy: genome is a cookbook, chromosome a chapter, gene a recipe, protein the dish"}
+
+A **gene** is a stretch of DNA with the instructions to make **one product**, usually a **protein**.
+
+::: {.notes}
+Proteins do most of the work in a cell: enzymes, hormones like insulin, antibodies, the keratin in your hair. How the cell reads a gene to make a protein (DNA → RNA → protein) is the topic of Session 5, the "central dogma". Every cell has the same DNA (same cookbook), but a liver cell and a brain cell read different recipes.
+:::
+
+## The Human Genome by Numbers — Guess First!
+
+<style>
+.reveal .opt { display: inline-block; padding: 0 0.3em; margin: 0 0.1em; border-radius: 4px; }
+.reveal .fragment.custom.correct.visible { background: #6a994e; color: #fff; font-weight: 700; }
+</style>
+
+Choose an answer for each question, then check.
+
+::: {style="font-size: 0.72em;"}
+| Question | Answer |
+|---|---|
+| How many base pairs are in the human genome? | [3 million]{.opt} · [3 billion]{.opt .fragment .custom .correct} · [3 trillion]{.opt} |
+| How many protein-coding genes? | [2,000]{.opt} · [20,000]{.opt .fragment .custom .correct} · [200,000]{.opt} |
+| What fraction of the genome codes for proteins? | [1.5 %]{.opt .fragment .custom .correct} · [15 %]{.opt} · [50 %]{.opt} |
+| Typing it at 60 words per minute, 8 hours a day: how long? | [6 months]{.opt} · [6 years]{.opt} · [60 years]{.opt .fragment .custom .correct} |
+| How much of your DNA is unique to you? | [0.1 %]{.opt .fragment .custom .correct} · [1 %]{.opt} · [10 %]{.opt} |
+:::
+
+::: {.notes}
+Students guess on paper first (retrieval and prediction from Session 1!), then reveal answers one at a time. Typing: 3.1 billion letters; 60 words per minute ≈ 300 letters per minute; 8 h a day = 144,000 letters a day; 3.1 billion / 144,000 ≈ 21,500 days ≈ 59 years. The 1.5% refers to the parts of genes that are actually translated into protein (exons); whole genes, including introns, take up much more. The rest of the genome includes switches that turn genes on and off, and many repeated sequences. On the "0.1%": two people differ at about 1 base in 1,000 (single-letter differences). Counting larger insertions and deletions too, the difference is somewhat bigger (around 0.5%), but 0.1% is the figure usually quoted.
+:::
+
+## More Genes = More Complex?
+
+:::: {.columns}
+::: {.column width="55%"}
+![](img/slide20_img0.jpg){width="100%"}
+:::
+::: {.column width="45%"}
+![](img/slide22_img0.png){width="100%"}
+:::
+::::
+
+**No!** A grapevine and a pea have **more genes** than you do. Complexity depends on **how** genes are used, not only on how many there are.
+
+::: {.notes}
+Gene counts: grapevine ≈ 30,000; human ≈ 20,000; chicken ≈ 17,000; fruit fly ≈ 14,000; E. coli ≈ 4,000; influenza virus ≈ 11. The pea genome (≈ 4.5 billion base pairs) is even bigger than ours (≈ 3.2 billion). Many plants have duplicated their whole genome several times in their history. Humans get extra complexity by controlling when and where genes are switched on, and by making several proteins from one gene. Link to Session 2: the "hypothesis" that more genes means a more complex organism was tested by sequencing, and the data contradicted it.
 :::
 
 ## Mutations: Changes to the Code
 
-**Mutations** are changes in the DNA sequence. They can be:
+![](img/mutation.svg){width="80%" fig-align="center" fig-alt="Sentence analogy: THE CAT ATE THE RAT; a substitution gives THE CAT ATE THE HAT; a deletion shifts the letters and garbles the rest"}
 
-- **Beneficial** — provide an advantage (rare but important for evolution)
-- **Neutral** — no noticeable effect
-- **Harmful** — can disrupt how proteins work
-
-Effects depend on:
-- Where the mutation occurs (in a gene or not)
-- How many base pairs are affected
-- Which gene is affected
+A **mutation** is a change in the DNA sequence. Its effect can be **harmful**, **neutral** or **beneficial**.
 
 ::: {.notes}
-Most mutations have very small effects. Evolution works through natural selection of beneficial mutations over millions of years. Harmful mutations are usually weeded out because they reduce survival or reproduction. That's why variation within a species is relatively small — beneficial and harmful mutations balance each other out.
+The cell reads DNA in three-letter "words" (codons), so the sentence analogy works well. A substitution changes one word; a deletion or insertion shifts the reading frame and garbles everything after it, so it is usually more harmful. Most mutations are neutral: they fall outside genes, or do not change the protein. Real example of "harmful AND beneficial": the sickle-cell mutation (one letter, A → T) causes sickle-cell disease if you inherit two copies, but one copy protects against malaria. Mutations are the raw material of evolution: without them there would be no variation. Causes: copying errors during replication, UV light, some chemicals, radiation.
 :::
 
-## Key Facts About the Human Genome
+## How Much DNA Do We Share?
 
-| Question | Answer |
-|----------|--------|
-| How many genes? | ~20,000–25,000 |
-| How many base pairs? | ~3 billion |
-| What fraction codes for proteins? | Only ~1.5% |
-| DNA sequence unique to you? | ~0.1% |
+- With **any other human**: about **99.9 %**
+- With a **chimpanzee**: about **99 %**
+- With a **mouse**: about **85 %** of the protein-coding DNA
+- With a **fruit fly**: about **60 %** of our genes have a fly version
+
+::: {.callout-warning}
+"You share 50 % of your DNA with a banana" is a popular claim. It really means many of our **genes** have a related version in plants. It does **not** mean half of your DNA letters are the same!
+:::
 
 ::: {.notes}
-These numbers are mind-boggling. The human genome is enormous, but most of it doesn't code for proteins. Much of it is regulatory — it controls when and where genes are turned on and off. A tiny fraction (~0.1%) makes you genetically distinct from everyone else on Earth.
+These similarities are strong evidence that all living things share common ancestors: the more distantly related, the less similar the DNA. Critical-thinking link to Session 2: always ask WHAT is being compared (whole genome? only genes? only protein-coding parts?) and HOW similarity is measured. Different methods give very different percentages for the same pair of species. Fruit flies are used in medical research because about 75% of human disease-related genes have a counterpart in the fly.
 :::
 
-## We Share DNA With All Life
+## Every Person Is Unique
+
+![](img/slide25_img0.gif){width="65%" fig-align="center"}
+
+0.1 % of 3 billion = **3 million** differences between you and the person next to you.
+
+::: {.notes}
+0.1% sounds tiny, but 0.1% of 3 billion is 3 million letters. These differences contribute to eye colour, height, risk of some diseases, and so on. They are also what forensic DNA testing uses to identify people (Session 8). Except for identical twins, everyone's DNA is unique.
+:::
+
+# Case Study: The Double Helix {background-color="#1d5c9c"}
+
+## Background: What Was Known
 
 :::: {.columns}
-::: {.column width="50%"}
-**DNA similarity to humans:**
-- Chimpanzees: ~98%
-- Mice: ~85%
-- Fruit flies: ~50%
-- Cabbage: 40–50%
+::: {.column width="38%"}
+- 1944: **DNA** is shown to carry genetic information
+- 1950: Erwin **Chargaff** measures the four bases in many species
+- Nobody knows the **shape** of the molecule
 :::
-::: {.column width="50%"}
-This shows that all life shares a common ancestor. The more distantly related, the less DNA we share.
+::: {.column width="62%"}
+![](img/chargaff.svg){width="100%" fig-alt="Bar chart: in human DNA A is 31%, T 29%, G 20%, C 20%; in E. coli A 25%, T 24%, G 26%, C 26%"}
 :::
 ::::
 
 ::: {.notes}
-This is powerful evidence for evolution. We share so much DNA with other organisms because we all descended from the same ancestors billions of years ago. The small differences that accumulated over time created the diversity of life we see today.
+Observation step of the scientific method. Ask students: what pattern do you see in the data? Answer: in every species, the amount of A is about equal to T, and G is about equal to C, but the A+T vs G+C ratio changes from species to species. These are "Chargaff's rules". Chargaff did not know WHY. Values are approximate (Chargaff's data, rounded). The 1944 experiments were by Avery, MacLeod and McCarty.
 :::
 
-## The Human Genome Project {background-color="#1d5c9c"}
+## The Data: Photo 51
 
-**Completed: 1990–2003 (13 years, $3 billion)**
-
-Achievements:
-- Mapped all ~3 billion base pairs
-- Identified ~20,000 genes
-- Sequences shared with 20 universities and research centers worldwide
-
-Modern sequencing is now:
-- **Faster** (entire genome in hours, not years)
-- **Cheaper** ($1,000 instead of $3 billion)
-- **More complete** (filling in previously unreadable regions)
+:::: {.columns}
+::: {.column width="45%"}
+![](img/slide08_img0.png){width="100%"}
+:::
+::: {.column width="55%"}
+- May 1952, King's College London
+- **Rosalind Franklin** and her student Raymond Gosling shoot X-rays through DNA fibres
+- The **X-shaped** pattern means a **helix**; the spacing gives its size
+:::
+::::
 
 ::: {.notes}
-The Human Genome Project is a triumph of international collaboration and technological advancement. Today, genome sequencing is routine in research and medicine — it's used to understand disease, develop treatments, and trace human ancestry.
+Data collection step. Franklin was an expert in X-ray crystallography: X-rays are scattered by the molecule and the pattern on film reveals its structure. Photo 51 needed about 100 hours of exposure. From her images and measurements Franklin worked out that the backbone is on the outside and that the molecule has a regular repeating structure. Precision link to Session 2: her measurements were careful and repeated.
 :::
 
-## What We Learn From Sequencing
+## The Hypothesis: Building Models
 
-Genome sequencing helps us:
+:::: {.columns}
+::: {.column width="55%"}
+![](img/slide05_img0.png){width="100%"}
+:::
+::: {.column width="45%"}
+In Cambridge, **James Watson** and **Francis Crick** build models of metal and cardboard.
 
-- **Understand disease** — find genetic causes of cancer, diabetes, etc.
-- **Develop medicines** — design drugs that target specific proteins
-- **Trace evolution** — see how species are related
-- **Personalize medicine** — tailor treatments to individual genetics
+Their **first model (1951) was wrong**: bases on the outside, three strands.
+:::
+::::
 
 ::: {.notes}
-Genomics is transforming medicine. In the future, doctors might sequence a patient's genome to predict disease risk or choose the best treatment based on their individual genetic makeup. This is already starting to happen.
+Hypothesis step. Watson and Crick did not do experiments themselves: they combined other people's data into a model, and tested whether the model fitted ALL the data. Their first model was rejected after Franklin pointed out that it contradicted her measurements. Science is a cycle: back to the drawing board! In January 1953, Maurice Wilkins (Franklin's colleague) showed Photo 51 to Watson without Franklin's knowledge, and Watson and Crick also saw a report with her data. This is an important ethics discussion point for the end of the case study.
 :::
 
-## Recap
+## "We Have Found the Secret of Life"
 
-- DNA is the molecule that stores genetic instructions for life
-- Its double helix structure allows it to replicate accurately
-- Genes are short segments of DNA that code for proteins
-- The human genome has ~3 billion base pairs and ~20,000 genes
-- We share significant DNA with all living organisms
-- Genomic technology is revolutionizing medicine and biology
+:::: {.columns}
+::: {.column width="50%"}
+![](img/slide07_img0.png){width="100%"}
+:::
+::: {.column width="50%"}
+- **28 February 1953**: the new model fits Photo 51 **and** Chargaff's rules
+- Crick announces it at lunch in the **Eagle pub**, Cambridge
+- **April 1953**: published in *Nature*, a paper of just **one page**
+:::
+::::
+
+::: {.notes}
+The key insight was base pairing: A with T and G with C. That explained Chargaff's rules immediately (A = T, G = C). It also gave the same width for every rung, matching Franklin's data. Communication step: in the same issue of Nature there were also papers by Franklin & Gosling and by Wilkins with the X-ray evidence. The pub still has a blue plaque about the discovery.
+:::
+
+## Testing the Prediction
+
+> *"It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material."*
+>
+> — Watson & Crick, 1953
+
+- **Prediction:** each new DNA molecule keeps **one old strand** and gets **one new strand**
+- **1958:** Meselson and Stahl test it with bacteria — the prediction is **confirmed**
+
+::: {.notes}
+A good hypothesis makes predictions that could turn out false (falsifiability, Session 2). The double-helix model predicted semi-conservative replication: exactly what we drew earlier in the lesson. Meselson and Stahl grew bacteria with "heavy" nitrogen, then switched to "light" nitrogen, and measured the weight of the DNA after each generation. The results matched the prediction perfectly. The model survived a real test, so it got much stronger. Ask: what result would have proved the model wrong?
+:::
+
+## Rosalind Franklin: Video
+
+{{< video https://www.youtube.com/watch?v=BIP0lYrdirI >}}
+
+::: {.notes}
+TED-Ed, "Rosalind Franklin: DNA's unsung hero". Play it, then move to the discussion on the next slide.
+:::
+
+## Conclusion & Impact
+
+- 1962: **Nobel Prize** to Watson, Crick and Wilkins
+- Franklin had died in 1958, aged 37: the Nobel is never given after death
+- The double helix opened the way to modern genetics and biotechnology
+
+::: {.callout-note}
+**Discussion:** Was it fair to use Franklin's data without asking her? What does it teach us about **credit** in science?
+:::
+
+::: {.notes}
+Let students discuss in pairs for 2–3 minutes, then share. Points to bring out: science is collaborative, and data from many people (Chargaff, Franklin, Gosling, Wilkins) led to the model. Correct credit and permission to use data are part of research ethics. Peer review and publication (Session 2) are also about giving credit. Franklin went on to do important work on the structure of viruses.
+:::
+
+## From One Molecule to the Whole Genome
+
+![](img/hgp.svg){width="80%" fig-align="center" fig-alt="2003: the first human genome took 13 years, about 3 billion dollars and 20 centres in 6 countries; today one genome takes about 1 day, a few hundred dollars, one machine"}
+
+- **Human Genome Project** (1990–2003): the first reading of all ~3 billion letters
+- 2022: the **last gaps** were finally filled in
+- Today genome sequencing is used in **medicine**, **ancestry**, **agriculture** and **forensics**
+
+::: {.notes}
+Fifty years after the double helix, the whole human genome was read. The 2003 version still had gaps (about 8% was missing, mostly highly repetitive regions); the Telomere-to-Telomere (T2T) consortium published the first complete, gap-free sequence in 2022. The cost fell faster than computer prices: from billions of dollars to a few hundred. We will look at how sequencing works in the Biotech and Bioinformatics sessions.
+:::
+
+## Recap {.smaller}
+
+- DNA is a **polymer of nucleotides**: phosphate + sugar + base (A, T, G, C)
+- **Base pairing** (A–T, G–C) makes the two strands **complementary**
+- DNA is a **double helix**, packed into **chromosomes**, mostly in the nucleus
+- **Replication** copies DNA: each strand is a template
+- A **gene** is a stretch of DNA that codes for a product, usually a protein
+- **Mutations** change the sequence: harmful, neutral or beneficial
+- The double helix was found by combining **data** (Chargaff, Franklin) and **models** (Watson & Crick)
+
+## Classroom Exercise: Exploring DNA {.smaller}
+
+:::: {.columns}
+::: {.column width="40%"}
+![](img/worksheet-preview.png){width="100%" fig-align="center"}
+:::
+::: {.column width="60%"}
+Worksheet handed out on paper in class. It covers:
+
+- **True or False**: correct 5 statements about DNA
+- **Matching**: match 8 terms (nucleotide, gene, genome, chromosome…) to their definitions
+- **Complementary strands**: write the missing strand and use Chargaff's rules
+- **The double helix story**: link each event to a step of the scientific method
+:::
+::::
+
+::: {.notes}
+Hand out the paper worksheet (material/dna-worksheet.pdf) and give students time to work individually or in pairs. Walk around and help, then go through the answers together before the end of class. Answer key. Part A: 1 False, the double helix was described in 1953; 2 True; 3 False, A pairs with T, G with C; 4 False, most mutations are neutral; 5 False, humans have 46 chromosomes (23 pairs). Part B: 1-d, 2-f, 3-a, 4-h, 5-b, 6-g, 7-c, 8-e. Part C: (1) AATCGGTACG; (2) GCTTAAGCAT; (3) T = 30%, G = 20%, C = 20%; (4) G–C-rich DNA, because each G–C pair has 3 hydrogen bonds instead of 2. Part D: a = observation, b = data collection, c = hypothesis, d = revising the hypothesis, e = communicating the conclusion, f = testing a prediction.
+:::
