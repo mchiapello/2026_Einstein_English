@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 610" font-family="Lato, Helvetica, Arial, sans-serif">
+<defs><marker id="ah" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto-start-reverse"><path d="M0,0 L14,7 L0,14 z" fill="#555"/></marker></defs>
+<line x1="40" y1="165" x2="70.0" y2="165" stroke="#e63946" stroke-width="7"/><line x1="70.0" y1="165" x2="100" y2="165" stroke="#f4c95d" stroke-width="7"/>
+<line x1="40" y1="191" x2="70.0" y2="191" stroke="#f4c95d" stroke-width="7"/><line x1="70.0" y1="191" x2="100" y2="191" stroke="#e63946" stroke-width="7"/>
+<line x1="40" y1="217" x2="70.0" y2="217" stroke="#6a994e" stroke-width="7"/><line x1="70.0" y1="217" x2="100" y2="217" stroke="#8e6bbf" stroke-width="7"/>
+<line x1="40" y1="243" x2="70.0" y2="243" stroke="#8e6bbf" stroke-width="7"/><line x1="70.0" y1="243" x2="100" y2="243" stroke="#6a994e" stroke-width="7"/>
+<line x1="40" y1="269" x2="70.0" y2="269" stroke="#6a994e" stroke-width="7"/><line x1="70.0" y1="269" x2="100" y2="269" stroke="#8e6bbf" stroke-width="7"/>
+<line x1="40" y1="295" x2="70.0" y2="295" stroke="#e63946" stroke-width="7"/><line x1="70.0" y1="295" x2="100" y2="295" stroke="#f4c95d" stroke-width="7"/>
+<line x1="40" y1="321" x2="70.0" y2="321" stroke="#f4c95d" stroke-width="7"/><line x1="70.0" y1="321" x2="100" y2="321" stroke="#e63946" stroke-width="7"/>
+<line x1="40" y1="347" x2="70.0" y2="347" stroke="#8e6bbf" stroke-width="7"/><line x1="70.0" y1="347" x2="100" y2="347" stroke="#6a994e" stroke-width="7"/>
+<line x1="40" y1="373" x2="70.0" y2="373" stroke="#6a994e" stroke-width="7"/><line x1="70.0" y1="373" x2="100" y2="373" stroke="#8e6bbf" stroke-width="7"/>
+<line x1="40" y1="399" x2="70.0" y2="399" stroke="#f4c95d" stroke-width="7"/><line x1="70.0" y1="399" x2="100" y2="399" stroke="#e63946" stroke-width="7"/>
+<line x1="40" y1="425" x2="70.0" y2="425" stroke="#e63946" stroke-width="7"/><line x1="70.0" y1="425" x2="100" y2="425" stroke="#f4c95d" stroke-width="7"/>
+<line x1="40" y1="150" x2="40" y2="440" stroke="#1d5c9c" stroke-width="9" stroke-linecap="round"/><line x1="100" y1="150" x2="100" y2="440" stroke="#5b8fc7" stroke-width="9" stroke-linecap="round"/>
+<text x="70" y="132" font-size="17" font-weight="700" fill="#333" text-anchor="middle">a ladder…</text>
+<path d="M110 480 Q150 480 175 455" fill="none" stroke="#555" stroke-width="4" marker-end="url(#ah)"/><text x="120" y="505" font-size="16" font-weight="700" fill="#333" text-anchor="middle">twist it</text>
+<polyline points="479.7,113 478.8,116 477.2,119 475.1,122 472.4,125 469.1,128 465.3,131 460.9,134 456.0,137 450.7,140 444.9,143 438.8,146 432.2,149 425.4,152 418.3,155 410.9,158 403.3,161 395.6,164 387.8,167 380.0,170 372.2,173 364.4,176 356.7,179 349.1,182 341.7,185 334.6,188 327.8,191 321.2,194 315.1,197 309.3,200 304.0,203 299.1,206 294.7,209 290.9,212 287.6,215 284.9,218 282.8,221 281.2,224 280.3,227 280.0,230" fill="none" stroke="#1d5c9c" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/>
+<polyline points="479.7,353 478.8,356 477.2,359 475.1,362 472.4,365 469.1,368 465.3,371 460.9,374 456.0,377 450.7,380 444.9,383 438.8,386 432.2,389 425.4,392 418.3,395 410.9,398 403.3,401 395.6,404 387.8,407 380.0,410 372.2,413 364.4,416 356.7,419 349.1,422 341.7,425 334.6,428 327.8,431 321.2,434 315.1,437 309.3,440 304.0,443 299.1,446 294.7,449 290.9,452 287.6,455 284.9,458 282.8,461 281.2,464 280.3,467 280.0,470" fill="none" stroke="#1d5c9c" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/>
+<polyline points="460.9,50 456.0,53 450.7,56 444.9,59 438.8,62 432.2,65 425.4,68 418.3,71 410.9,74 403.3,77 395.6,80 387.8,83 380.0,86 372.2,89 364.4,92 356.7,95 349.1,98 341.7,101 334.6,104 327.8,107 321.2,110 315.1,113 309.3,116 304.0,119 299.1,122 294.7,125 290.9,128 287.6,131 284.9,134 282.8,137 281.2,140 280.3,143 280.0,146" fill="none" stroke="#5b8fc7" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/>
+<polyline points="479.7,269 478.8,272 477.2,275 475.1,278 472.4,281 469.1,284 465.3,287 460.9,290 456.0,293 450.7,296 444.9,299 438.8,302 432.2,305 425.4,308 418.3,311 410.9,314 403.3,317 395.6,320 387.8,323 380.0,326 372.2,329 364.4,332 356.7,335 349.1,338 341.7,341 334.6,344 327.8,347 321.2,350 315.1,353 309.3,356 304.0,359 299.1,362 294.7,365 290.9,368 287.6,371 284.9,374 282.8,377 281.2,380 280.3,383 280.0,386" fill="none" stroke="#5b8fc7" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/>
+<polyline points="479.7,509 478.8,512 477.2,515 475.1,518 472.4,521 469.1,524 465.3,527 460.9,530" fill="none" stroke="#5b8fc7" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/>
+<line x1="400.8" y1="58" x2="423.9" y2="58" stroke="#f4c95d" stroke-width="8"/><line x1="423.9" y1="58" x2="446.9" y2="58" stroke="#e63946" stroke-width="8"/>
+<line x1="454.3" y1="82" x2="422.4" y2="82" stroke="#f4c95d" stroke-width="8"/><line x1="422.4" y1="82" x2="390.5" y2="82" stroke="#e63946" stroke-width="8"/>
+<line x1="479.5" y1="106" x2="404.7" y2="106" stroke="#6a994e" stroke-width="8"/><line x1="404.7" y1="106" x2="330.0" y2="106" stroke="#8e6bbf" stroke-width="8"/>
+<line x1="466.6" y1="130" x2="377.6" y2="130" stroke="#8e6bbf" stroke-width="8"/><line x1="377.6" y1="130" x2="288.6" y2="130" stroke="#6a994e" stroke-width="8"/>
+<line x1="420.7" y1="154" x2="351.4" y2="154" stroke="#e63946" stroke-width="8"/><line x1="351.4" y1="154" x2="282.2" y2="154" stroke="#f4c95d" stroke-width="8"/>
+<line x1="359.2" y1="178" x2="336.1" y2="178" stroke="#e63946" stroke-width="8"/><line x1="336.1" y1="178" x2="313.1" y2="178" stroke="#f4c95d" stroke-width="8"/>
+<line x1="305.7" y1="202" x2="337.6" y2="202" stroke="#8e6bbf" stroke-width="8"/><line x1="337.6" y1="202" x2="369.5" y2="202" stroke="#6a994e" stroke-width="8"/>
+<line x1="280.5" y1="226" x2="355.3" y2="226" stroke="#6a994e" stroke-width="8"/><line x1="355.3" y1="226" x2="430.0" y2="226" stroke="#8e6bbf" stroke-width="8"/>
+<line x1="293.4" y1="250" x2="382.4" y2="250" stroke="#f4c95d" stroke-width="8"/><line x1="382.4" y1="250" x2="471.4" y2="250" stroke="#e63946" stroke-width="8"/>
+<line x1="339.3" y1="274" x2="408.6" y2="274" stroke="#f4c95d" stroke-width="8"/><line x1="408.6" y1="274" x2="477.8" y2="274" stroke="#e63946" stroke-width="8"/>
+<line x1="400.8" y1="298" x2="423.9" y2="298" stroke="#8e6bbf" stroke-width="8"/><line x1="423.9" y1="298" x2="446.9" y2="298" stroke="#6a994e" stroke-width="8"/>
+<line x1="454.3" y1="322" x2="422.4" y2="322" stroke="#8e6bbf" stroke-width="8"/><line x1="422.4" y1="322" x2="390.5" y2="322" stroke="#6a994e" stroke-width="8"/>
+<line x1="479.5" y1="346" x2="404.7" y2="346" stroke="#8e6bbf" stroke-width="8"/><line x1="404.7" y1="346" x2="330.0" y2="346" stroke="#6a994e" stroke-width="8"/>
+<line x1="466.6" y1="370" x2="377.6" y2="370" stroke="#f4c95d" stroke-width="8"/><line x1="377.6" y1="370" x2="288.6" y2="370" stroke="#e63946" stroke-width="8"/>
+<line x1="420.7" y1="394" x2="351.4" y2="394" stroke="#f4c95d" stroke-width="8"/><line x1="351.4" y1="394" x2="282.2" y2="394" stroke="#e63946" stroke-width="8"/>
+<line x1="359.2" y1="418" x2="336.1" y2="418" stroke="#f4c95d" stroke-width="8"/><line x1="336.1" y1="418" x2="313.1" y2="418" stroke="#e63946" stroke-width="8"/>
+<line x1="305.7" y1="442" x2="337.6" y2="442" stroke="#8e6bbf" stroke-width="8"/><line x1="337.6" y1="442" x2="369.5" y2="442" stroke="#6a994e" stroke-width="8"/>
+<line x1="280.5" y1="466" x2="355.3" y2="466" stroke="#e63946" stroke-width="8"/><line x1="355.3" y1="466" x2="430.0" y2="466" stroke="#f4c95d" stroke-width="8"/>
+<line x1="293.4" y1="490" x2="382.4" y2="490" stroke="#e63946" stroke-width="8"/><line x1="382.4" y1="490" x2="471.4" y2="490" stroke="#f4c95d" stroke-width="8"/>
+<line x1="339.3" y1="514" x2="408.6" y2="514" stroke="#f4c95d" stroke-width="8"/><line x1="408.6" y1="514" x2="477.8" y2="514" stroke="#e63946" stroke-width="8"/>
+<polyline points="380.0,50 387.8,53 395.6,56 403.3,59 410.9,62 418.3,65 425.4,68 432.2,71 438.8,74 444.9,77 450.7,80 456.0,83 460.9,86 465.3,89 469.1,92 472.4,95 475.1,98 477.2,101 478.8,104 479.7,107 480.0,110" fill="none" stroke="#1d5c9c" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polyline points="280.3,233 281.2,236 282.8,239 284.9,242 287.6,245 290.9,248 294.7,251 299.1,254 304.0,257 309.3,260 315.1,263 321.2,266 327.8,269 334.6,272 341.7,275 349.1,278 356.7,281 364.4,284 372.2,287 380.0,290 387.8,293 395.6,296 403.3,299 410.9,302 418.3,305 425.4,308 432.2,311 438.8,314 444.9,317 450.7,320 456.0,323 460.9,326 465.3,329 469.1,332 472.4,335 475.1,338 477.2,341 478.8,344 479.7,347 480.0,350" fill="none" stroke="#1d5c9c" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polyline points="280.3,473 281.2,476 282.8,479 284.9,482 287.6,485 290.9,488 294.7,491 299.1,494 304.0,497 309.3,500 315.1,503 321.2,506 327.8,509 334.6,512 341.7,515 349.1,518 356.7,521 364.4,524 372.2,527 380.0,530" fill="none" stroke="#1d5c9c" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polyline points="280.3,149 281.2,152 282.8,155 284.9,158 287.6,161 290.9,164 294.7,167 299.1,170 304.0,173 309.3,176 315.1,179 321.2,182 327.8,185 334.6,188 341.7,191 349.1,194 356.7,197 364.4,200 372.2,203 380.0,206 387.8,209 395.6,212 403.3,215 410.9,218 418.3,221 425.4,224 432.2,227 438.8,230 444.9,233 450.7,236 456.0,239 460.9,242 465.3,245 469.1,248 472.4,251 475.1,254 477.2,257 478.8,260 479.7,263 480.0,266" fill="none" stroke="#5b8fc7" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polyline points="280.3,389 281.2,392 282.8,395 284.9,398 287.6,401 290.9,404 294.7,407 299.1,410 304.0,413 309.3,416 315.1,419 321.2,422 327.8,425 334.6,428 341.7,431 349.1,434 356.7,437 364.4,440 372.2,443 380.0,446 387.8,449 395.6,452 403.3,455 410.9,458 418.3,461 425.4,464 432.2,467 438.8,470 444.9,473 450.7,476 456.0,479 460.9,482 465.3,485 469.1,488 472.4,491 475.1,494 477.2,497 478.8,500 479.7,503 480.0,506" fill="none" stroke="#5b8fc7" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<text x="376" y="36" font-size="17" font-weight="700" fill="#1d5c9c" text-anchor="middle">5′</text>
+<text x="465" y="36" font-size="17" font-weight="700" fill="#5b8fc7" text-anchor="middle">3′</text>
+<text x="380" y="558" font-size="17" font-weight="700" fill="#1d5c9c" text-anchor="middle">3′</text>
+<text x="461" y="558" font-size="17" font-weight="700" fill="#5b8fc7" text-anchor="middle">5′</text>
+<path d="M266 151 h-8 V225 h8" fill="none" stroke="#555" stroke-width="2.5"/>
+<text x="250" y="194" font-size="16" fill="#333" text-anchor="end">minor groove</text>
+<path d="M266 235 h-8 V381 h8" fill="none" stroke="#555" stroke-width="2.5"/>
+<text x="250" y="314" font-size="16" fill="#333" text-anchor="end">major groove</text>
+<line x1="274" y1="582" x2="486" y2="582" stroke="#555" stroke-width="2.5" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<rect x="348" y="570" width="64" height="24" fill="#fff"/><text x="380" y="588" font-size="18" font-weight="700" fill="#333" text-anchor="middle">2 nm</text>
+<line x1="517" y1="110.0" x2="533" y2="110.0" stroke="#555" stroke-width="2"/><line x1="517" y1="350.0" x2="533" y2="350.0" stroke="#555" stroke-width="2"/>
+<line x1="525" y1="110.0" x2="525" y2="350.0" stroke="#555" stroke-width="2.5" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text transform="translate(549,230.0) rotate(-90)" font-size="16" fill="#333" text-anchor="middle"><tspan font-weight="700">1 full turn</tspan> = 10 base pairs = 3.4 nm</text>
+<line x1="628" y1="89" x2="430" y2="70" stroke="#999" stroke-width="2"/><circle cx="430" cy="70" r="5" fill="#777"/>
+<text x="640" y="95" font-size="21" font-weight="700" fill="#1d5c9c">Sugar–phosphate backbone</text>
+<text x="640" y="121" font-size="17" fill="#444">the two sides of the ladder,</text>
+<text x="640" y="144" font-size="17" fill="#444">on the outside</text>
+<line x1="628" y1="264" x2="424" y2="298" stroke="#999" stroke-width="2"/><circle cx="424" cy="298" r="5" fill="#777"/>
+<text x="640" y="270" font-size="21" font-weight="700" fill="#e63946">Base pairs</text>
+<text x="640" y="296" font-size="17" fill="#444">the rungs: A–T and G–C,</text>
+<text x="640" y="319" font-size="17" fill="#444">on the inside, protected</text>
+<line x1="628" y1="434" x2="469" y2="524" stroke="#999" stroke-width="2"/><circle cx="469" cy="524" r="5" fill="#777"/>
+<text x="640" y="440" font-size="21" font-weight="700" fill="#5b8fc7">Two strands, opposite directions</text>
+<text x="640" y="466" font-size="17" fill="#444">one strand runs from 5′ to 3′,</text>
+<text x="640" y="489" font-size="17" fill="#444">the other from 3′ to 5′ (antiparallel)</text>
+</svg>
