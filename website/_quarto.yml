@@ -13,7 +13,7 @@ website:
       - href: sessions/index.qmd
         text: Sessions
       - href: quizzes.qmd
-        text: Live Quizzes
+        text: Quizzes & Material
     right:
       - text: "A.Y. 2026/27"
   sidebar:

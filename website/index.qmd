@@ -10,6 +10,6 @@ Each session below has two parts:
 - **Material** — the reading page, with vocabulary and key concepts explained.
 - **Slides** — the in-class presentation (opens as a full-screen slideshow; press `f` for fullscreen, arrow keys to navigate, `s` for speaker notes).
 
-At the end of most sessions you'll find a **live quiz**: scan the QR code with your phone to join and answer along with the rest of the class. See the [Live Quizzes](quizzes.qmd) page for details on how that works.
+At the end of most sessions you'll find a **live quiz**: scan the QR code with your phone to join and answer along with the rest of the class. All the quizzes and the classroom material are also collected on the [Quizzes & Material](quizzes.qmd) page.
 
 Go to the [Sessions](sessions/index.qmd) page to get started.

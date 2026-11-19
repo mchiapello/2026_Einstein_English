@@ -18,7 +18,7 @@ from pathlib import Path
 SITE = Path(__file__).resolve().parent
 REPO = SITE.parent
 OUT = SITE / "_site_public"
-SKIP = {"_site", "_site_public", ".quarto", "__pycache__", "schedule.toml", "publish.py", "quizzes.qmd"}
+SKIP = {"_site", "_site_public", ".quarto", "__pycache__", "schedule.toml", "publish.py"}
 
 
 def num(s):
@@ -46,6 +46,52 @@ def card(i, s, state, summary=""):
     return f"::: {{.session-card .session-card-locked}}\n### {n}. {s['title']}\n{label} — {when}\n:::\n"
 
 
+QUIZ_INTRO = (
+    "All the live quizzes and the classroom material of the course, in one place. "
+    "Use the quizzes to check yourself again before the exam!\n\n"
+)
+
+
+def resources(sessions, root):
+    """Quiz links and Classroom Material of every session whose folder exists under root.
+
+    A quiz under a heading like "Review of Session N" belongs to session N; any other quiz
+    belongs to the session whose page it is on. Placeholder links are ignored.
+    """
+    quizzes, material = {}, {}
+    for s in sessions:
+        page = root / "sessions" / s["dir"] / "index.qmd"
+        if not page.exists():
+            continue
+        heading, section = "", None
+        for line in page.read_text().splitlines():
+            if line.startswith("## "):
+                heading = line
+                section = "material" if line.strip() == "## Classroom Material" else None
+                continue
+            for url in re.findall(r"\((https://forms\.gle/[^)\s]+)\)", line):
+                m = re.search(r"Review of Session (\d+)", heading)
+                quizzes.setdefault(int(m.group(1)) if m else num(s), url)
+            if section and line.startswith("- "):
+                item = re.sub(r"\]\((?!https?://)([^)]+)\)", rf"](sessions/{s['dir']}/\1)", line[2:].strip())
+                material.setdefault(num(s), []).append(item)
+    return quizzes, material
+
+
+def quiz_page(sessions, root):
+    quizzes, material = resources(sessions, root)
+    rows = []
+    for s in sessions:
+        n = num(s)
+        if not (root / "sessions" / s["dir"]).exists() or (n not in quizzes and n not in material):
+            continue
+        quiz = f"[Open the quiz →]({quizzes[n]})" if n in quizzes else "—"
+        mat = "<br>".join(material.get(n, [])) or "—"
+        rows.append(f"| [{n}. {s['title']}](sessions/{s['dir']}/index.qmd) | {quiz} | {mat} |")
+    table = "| Session | Quiz | Classroom material |\n|---|---|---|\n" + "\n".join(rows) if rows else "Nothing here yet."
+    return '---\ntitle: "Quizzes & Material"\n---\n\n' + QUIZ_INTRO + table + "\n"
+
+
 def build(sessions, cur):
     live = set(range(0, cur + 1))  # every session up to and including the current one
     shutil.rmtree(OUT, ignore_errors=True)  # start clean so no stale pages get published
@@ -64,20 +110,19 @@ def build(sessions, cur):
     )
     (tmp / "sessions" / "index.qmd").write_text('---\ntitle: "Sessions"\n---\n\n' + cards)
 
-    # navigation: plain text (no link) for placeholders; drop the teacher-only quizzes page
+    # quizzes & material table: only the sessions that are online
+    (tmp / "quizzes.qmd").write_text(quiz_page(sessions, tmp))
+
+    # navigation: plain text (no link) for placeholders
     cfg = (SITE / "_quarto.yml").read_text()
     items = "\n".join(
         f"          - sessions/{s['dir']}/index.qmd" if i in live else f"          - text: \"{num(s)}. {s['title']}\""
         for i, s in enumerate(sessions)
     )
     cfg = re.sub(r"(          - sessions/index\.qmd\n)(?:          - .*\n)+", lambda m: m.group(1) + items + "\n", cfg)
-    cfg = re.sub(r"\n      - href: quizzes\.qmd\n        text: Live Quizzes", "", cfg)
-    cfg = re.sub(r"\n      - quizzes\.qmd", "", cfg)
     (tmp / "_quarto.yml").write_text(cfg)
 
     # strip teacher-only bits from the copied pages
-    home = tmp / "index.qmd"
-    home.write_text(re.sub(r" See the \[Live Quizzes\]\(quizzes\.qmd\) page for details on how that works\.", "", home.read_text()))
     for f in tmp.glob("sessions/*/*.qmd"):
         t = f.read_text()
         t = re.sub(r"::: \{\.callout-important\}\n\*\*Before class:\*\*.*?\n:::\n", "", t, flags=re.S)
