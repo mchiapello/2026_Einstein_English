@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" font-family="Lato, Helvetica, Arial, sans-serif">
+  <g font-size="18" fill="#555"><text x="20" y="58">original</text><text x="20" y="133" font-weight="700" fill="#e9a23b">substitution</text><text x="20" y="208" font-weight="700" fill="#e63946">deletion</text></g>
+  <g font-family="Menlo, Consolas, monospace" font-size="32" font-weight="700" fill="#1d5c9c" xml:space="preserve">
+    <text x="190" y="60">THE CAT ATE THE RAT</text>
+    <text x="190" y="135">THE CAT ATE THE <tspan fill="#e9a23b">H</tspan>AT</text>
+    <text x="190" y="210">THE C<tspan fill="#e63946">TA TET HER AT</tspan></text>
+  </g>
+  <g font-size="16" fill="#555"><text x="190" y="160">one letter swapped: the meaning changes a little</text><text x="190" y="235">one letter lost: everything after it is garbled</text></g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 310" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <line x1="60" y1="240" x2="530" y2="240" stroke="#555" stroke-width="3"/><line x1="60" y1="240" x2="60" y2="40" stroke="#555" stroke-width="3"/>
+  <g font-size="13" fill="#555" text-anchor="end"><text x="54" y="244">0%</text><text x="54" y="184">10%</text><text x="54" y="124">20%</text><text x="54" y="64">30%</text></g>
+  <g stroke="#e5e5e5" stroke-width="1"><line x1="61" y1="180" x2="530" y2="180"/><line x1="61" y1="120" x2="530" y2="120"/><line x1="61" y1="60" x2="530" y2="60"/></g>
+  <rect x="90" y="54" width="38" height="186" fill="#e63946"/><rect x="132" y="66" width="38" height="174" fill="#f4c95d"/><rect x="184" y="120" width="38" height="120" fill="#6a994e"/><rect x="226" y="120" width="38" height="120" fill="#8e6bbf"/>
+  <rect x="320" y="90" width="38" height="150" fill="#e63946"/><rect x="362" y="96" width="38" height="144" fill="#f4c95d"/><rect x="414" y="84" width="38" height="156" fill="#6a994e"/><rect x="456" y="84" width="38" height="156" fill="#8e6bbf"/>
+  <g font-size="14" fill="#333"><text x="109" y="48">31</text><text x="151" y="60">29</text><text x="203" y="114">20</text><text x="245" y="114">20</text><text x="339" y="84">25</text><text x="381" y="90">24</text><text x="433" y="78">26</text><text x="475" y="78">26</text></g>
+  <g font-size="17" font-weight="700" fill="#333"><text x="109" y="260">A</text><text x="151" y="260">T</text><text x="203" y="260">G</text><text x="245" y="260">C</text><text x="339" y="260">A</text><text x="381" y="260">T</text><text x="433" y="260">G</text><text x="475" y="260">C</text></g>
+  <g font-size="17" fill="#555"><text x="177" y="290">human</text><text x="407" y="290"><tspan font-style="italic">E. coli</tspan> (bacterium)</text></g>
+  <g font-size="22" font-weight="700" fill="#1d5c9c"><text x="590" y="120">A ≈ T</text><text x="590" y="160">G ≈ C</text></g>
+</svg>

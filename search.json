@@ -76,7 +76,7 @@
     "href": "sessions/index.html",
     "title": "Sessions",
     "section": "",
-    "text": "0. Welcome\n6 November 2026\nMaterial → · Slides →\n\n\n1. How to Study\n6 November 2026\nMaterial → · Slides →\n\n\n2. Introduction & Scientific Method\n13 November 2026\nMaterial → · Slides →\n\n\n3. DNA\nComing soon — 20 November 2026\n\n\n4. DNA Extraction (Lab)\nComing soon — 27 November 2026\n\n\n5. Biology Central Dogma\nComing soon — 4 December 2026\n\n\n6. Biotech I\nComing soon — 11 December 2026\n\n\n7. Bioinformatics\nComing soon — 18 December 2026\n\n\n8. Forensic DNA\nComing soon — 8 January 2027\n\n\n9. Life on Earth\nComing soon — 15 January 2027\n\n\n10. Weird Plants\nComing soon — 22 January 2027",
+    "text": "0. Welcome\n6 November 2026\nMaterial → · Slides →\n\n\n1. How to Study\n6 November 2026\nMaterial → · Slides →\n\n\n2. Introduction & Scientific Method\n13 November 2026\nMaterial → · Slides →\n\n\n3. DNA\n20 November 2026\nMaterial → · Slides →\n\n\n4. DNA Extraction (Lab)\nComing soon — 27 November 2026\n\n\n5. Biology Central Dogma\nComing soon — 4 December 2026\n\n\n6. Biotech I\nComing soon — 11 December 2026\n\n\n7. Bioinformatics\nComing soon — 18 December 2026\n\n\n8. Forensic DNA\nComing soon — 8 January 2027\n\n\n9. Life on Earth\nComing soon — 15 January 2027\n\n\n10. Weird Plants\nComing soon — 22 January 2027",
     "crumbs": [
       "Home",
       "Sessions",
@@ -686,6 +686,216 @@
     "text": "Recap\n\nPrepare your body and mind: sleep, exercise, water, healthy snacks\nMultitasking is switching; attention can only be on one thing at a time\nRe-reading and cramming feel productive but work poorly\nSix strategies: retrieval practice, spaced practice, dual coding, interleaving, concrete examples, elaboration\nNotebookLM can be a study partner, as long as you do the thinking"
   },
   {
+    "objectID": "sessions/03-dna/slides.html#warm-up-review-of-session-2-live-quiz",
+    "href": "sessions/03-dna/slides.html#warm-up-review-of-session-2-live-quiz",
+    "title": "Understanding DNA",
+    "section": "Warm-up: Review of Session 2 — Live Quiz",
+    "text": "Warm-up: Review of Session 2 — Live Quiz\n\n\n\n\nScan the QR code to join the live quiz on the Scientific Method (10 questions).\nOpen the quiz\n\n\nEvery lesson starts with an assessment of the previous class. Display the QR code, run the quiz, then discuss the answers before moving on."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#dna-the-molecule-of-life",
+    "href": "sessions/03-dna/slides.html#dna-the-molecule-of-life",
+    "title": "Understanding DNA",
+    "section": "DNA: The Molecule of Life",
+    "text": "DNA: The Molecule of Life\n\n\nThe instruction manual for every living thing, from bacteria to humans\nFound in almost every cell of your body\nCopied and passed on from parents to children\n\n\nStart with a question: “What do you already know about DNA?” Collect a few words on the board (genes, double helix, inheritance, crime scenes…). Then: DNA is not alive and does not “do” anything by itself. It is information, like a recipe book. The cell reads it to build and run the organism."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#what-does-dna-stand-for",
+    "href": "sessions/03-dna/slides.html#what-does-dna-stand-for",
+    "title": "Understanding DNA",
+    "section": "What Does “DNA” Stand For?",
+    "text": "What Does “DNA” Stand For?\n\n\nScientific English tip: long scientific words are often built from smaller parts. If you know the parts, you can decode the word. “De-oxy” = without oxygen (the sugar deoxyribose has one oxygen atom less than ribose, the sugar in RNA). “Nucleic” because Friedrich Miescher first isolated it from cell nuclei in 1869 (he called it “nuclein”). “Acid” because of the phosphate groups. Ask: what could “ribonucleic acid” (RNA) mean?"
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#the-building-block-the-nucleotide",
+    "href": "sessions/03-dna/slides.html#the-building-block-the-nucleotide",
+    "title": "Understanding DNA",
+    "section": "The Building Block: the Nucleotide",
+    "text": "The Building Block: the Nucleotide\n\nDNA is a polymer: a long chain of millions of nucleotides.\n\nVocabulary: polymer — a large molecule made of many repeated units (poly = many, mer = part).\n\n\nEvery nucleotide has the same phosphate and the same sugar. Only the base changes, and there are only four kinds. So all the information in DNA is in the ORDER of the bases, the way all the information in a book is in the order of the letters."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#four-bases-two-families",
+    "href": "sessions/03-dna/slides.html#four-bases-two-families",
+    "title": "Understanding DNA",
+    "section": "Four Bases, Two Families",
+    "text": "Four Bases, Two Families\n\n\nPurines (A, G) are bigger: two rings. Pyrimidines (C, T) are smaller: one ring. In RNA, thymine is replaced by uracil (U), another pyrimidine. Mnemonics: “Pure As Gold” for purines; “CUT the Py” for pyrimidines. Students do not need to learn the chemical structures, only the two families and which base belongs to which."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#the-base-pairing-rule",
+    "href": "sessions/03-dna/slides.html#the-base-pairing-rule",
+    "title": "Understanding DNA",
+    "section": "The Base-Pairing Rule",
+    "text": "The Base-Pairing Rule\n\nA always pairs with T, G always pairs with C. The two strands are complementary.\n\nA purine always pairs with a pyrimidine, so every rung of the ladder has the same width and the helix is regular. Hydrogen bonds are weak, so the two strands can be separated (“unzipped”) without breaking the strands themselves. That will matter for replication. G–C pairs have three bonds, so DNA rich in G and C is harder to separate (it melts at a higher temperature)."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#complementary-strands-try-it",
+    "href": "sessions/03-dna/slides.html#complementary-strands-try-it",
+    "title": "Understanding DNA",
+    "section": "Complementary Strands — Try It",
+    "text": "Complementary Strands — Try It\nIf one strand reads:\n\nA T G C C T A G G A\n\nWhat does the other strand read?\n\n\nT A C G G A T C C T\n\nIf you know one strand, you know both. That is why DNA can be copied.\n\n\nGive students 30 seconds, then reveal. Optional extra: ask them to write their own 8-letter strand and swap with a neighbour, who writes the complementary strand. Advanced point if someone asks: the two strands run in opposite directions (antiparallel), labelled 5’ and 3’."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#the-double-helix",
+    "href": "sessions/03-dna/slides.html#the-double-helix",
+    "title": "Understanding DNA",
+    "section": "The Double Helix",
+    "text": "The Double Helix\n\n\n\n\nA twisted ladder:\n\nSides: sugar–phosphate backbone\nRungs: base pairs (A–T, G–C)\nBases are inside, protected\n\n\n\nUse the ladder analogy, then twist it. The backbone is on the outside; the bases (the information) are tucked inside where they are protected. Who discovered this shape, and how? We will see it in the case study at the end of the lesson."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#how-small-is-dna",
+    "href": "sessions/03-dna/slides.html#how-small-is-dna",
+    "title": "Understanding DNA",
+    "section": "How Small Is DNA?",
+    "text": "How Small Is DNA?\n\n\nThe helix is just 2 nanometres wide (1 nm = one billionth of a metre)\nBut the DNA in one cell, unwound and laid end to end, is about 2 metres long\n\n\n2 nm = 0.000002 mm: about 50,000 times thinner than a human hair. You cannot see a single DNA molecule with a light microscope. And yet each cell nucleus (about 6 µm across) holds about 2 m of DNA. How does it fit? Next slide. Next week, in the lab, you will extract DNA from fruit and see it with your own eyes: you will see millions of molecules clumped together, not a single one."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#estimate-it-all-the-dna-in-your-body",
+    "href": "sessions/03-dna/slides.html#estimate-it-all-the-dna-in-your-body",
+    "title": "Understanding DNA",
+    "section": "Estimate It: All the DNA in Your Body",
+    "text": "Estimate It: All the DNA in Your Body\n\n\n\n\n\n\nTip\n\n\nA scientist’s estimate: about 2 m of DNA per cell × your number of cells = ?\n\n\n\n\nGuess the number of cells in a human body\nMultiply by 2 m\nCompare with the distance from the Earth to the Sun: 150 million km\n\n\n≈ 30 trillion cells × 2 m ≈ 60 billion km: enough to go to the Sun and back about 200 times.\n\n\nThis is a “Fermi estimate”: a rough calculation with round numbers, the way scientists check if an answer is reasonable. Let groups of students try it before revealing. Numbers: about 30 trillion (3 × 10^13) cells in a human body (Sender et al., 2016). 3 × 10^13 × 2 m = 6 × 10^13 m = 6 × 10^10 km. Sun and back = 3 × 10^8 km, so 6 × 10^10 / 3 × 10^8 = 200 trips. Critical-thinking twist (link to Session 2): this estimate has a hidden assumption! About 80% of our cells are red blood cells, and they have NO nucleus and no DNA. So the real answer is several times smaller, but still tens of round trips to the Sun. Popular websites quote very different numbers (“600 times to the Sun”, “17 times to Pluto”) because they make different assumptions. Ask: which assumptions would change the answer?"
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#packing-dna-chromosomes",
+    "href": "sessions/03-dna/slides.html#packing-dna-chromosomes",
+    "title": "Understanding DNA",
+    "section": "Packing DNA: Chromosomes",
+    "text": "Packing DNA: Chromosomes\n\n\n\n\n\nDNA is wound around proteins called histones, like thread on a spool\nIt is then coiled again and again into chromosomes\nHumans have 46 chromosomes (23 pairs): one set from each parent\n\n\n\nThe packaging is what lets 2 m of DNA fit into a nucleus a few micrometres wide. DNA + histones = chromatin. Before a cell divides, chromatin condenses into the X-shaped chromosomes you see in textbook pictures."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#where-is-dna-found",
+    "href": "sessions/03-dna/slides.html#where-is-dna-found",
+    "title": "Understanding DNA",
+    "section": "Where Is DNA Found?",
+    "text": "Where Is DNA Found?\n\n\n\n\n\nMostly in the nucleus\nA little in the mitochondria\nIn plants, also in the chloroplasts\nBacteria have no nucleus: their DNA floats in the cell\n\n\n\nMitochondria and chloroplasts have their own small DNA because they were once free-living bacteria swallowed by an ancestral cell (endosymbiosis). Mitochondrial DNA is inherited only from the mother, which is useful for tracing ancestry. We will meet this again in the forensic DNA session."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#dna-replication-copying-the-code",
+    "href": "sessions/03-dna/slides.html#dna-replication-copying-the-code",
+    "title": "Understanding DNA",
+    "section": "DNA Replication: Copying the Code",
+    "text": "DNA Replication: Copying the Code\n\nThe helix unzips → each strand is a template → new bases follow the pairing rule → two identical copies\n\nBefore every cell division, all 3 billion base pairs are copied. Each new molecule keeps one old strand and gets one new strand: this is called semi-conservative replication. The enzyme that unzips is helicase; the enzyme that adds new nucleotides is DNA polymerase. It makes about one mistake in a billion bases after proofreading. Those rare mistakes are mutations."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#dna-replication-video",
+    "href": "sessions/03-dna/slides.html#dna-replication-video",
+    "title": "Understanding DNA",
+    "section": "DNA Replication: Video",
+    "text": "DNA Replication: Video\n\n\nAmoeba Sisters, “DNA Replication”. Play it, then ask: what does helicase do? What does DNA polymerase do? Why is the pairing rule essential for copying?"
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#what-is-a-gene",
+    "href": "sessions/03-dna/slides.html#what-is-a-gene",
+    "title": "Understanding DNA",
+    "section": "What Is a Gene?",
+    "text": "What Is a Gene?\n\nA gene is a stretch of DNA with the instructions to make one product, usually a protein.\n\nProteins do most of the work in a cell: enzymes, hormones like insulin, antibodies, the keratin in your hair. How the cell reads a gene to make a protein (DNA → RNA → protein) is the topic of Session 5, the “central dogma”. Every cell has the same DNA (same cookbook), but a liver cell and a brain cell read different recipes."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#the-human-genome-by-numbers-guess-first",
+    "href": "sessions/03-dna/slides.html#the-human-genome-by-numbers-guess-first",
+    "title": "Understanding DNA",
+    "section": "The Human Genome by Numbers — Guess First!",
+    "text": "The Human Genome by Numbers — Guess First!\n\nChoose an answer for each question, then check.\n\n\n\n\n\n\n\n\nQuestion\nAnswer\n\n\n\n\nHow many base pairs are in the human genome?\n3 million · 3 billion · 3 trillion\n\n\nHow many protein-coding genes?\n2,000 · 20,000 · 200,000\n\n\nWhat fraction of the genome codes for proteins?\n1.5 % · 15 % · 50 %\n\n\nTyping it at 60 words per minute, 8 hours a day: how long?\n6 months · 6 years · 60 years\n\n\nHow much of your DNA is unique to you?\n0.1 % · 1 % · 10 %\n\n\n\n\n\nStudents guess on paper first (retrieval and prediction from Session 1!), then reveal answers one at a time. Typing: 3.1 billion letters; 60 words per minute ≈ 300 letters per minute; 8 h a day = 144,000 letters a day; 3.1 billion / 144,000 ≈ 21,500 days ≈ 59 years. The 1.5% refers to the parts of genes that are actually translated into protein (exons); whole genes, including introns, take up much more. The rest of the genome includes switches that turn genes on and off, and many repeated sequences. On the “0.1%”: two people differ at about 1 base in 1,000 (single-letter differences). Counting larger insertions and deletions too, the difference is somewhat bigger (around 0.5%), but 0.1% is the figure usually quoted."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#more-genes-more-complex",
+    "href": "sessions/03-dna/slides.html#more-genes-more-complex",
+    "title": "Understanding DNA",
+    "section": "More Genes = More Complex?",
+    "text": "More Genes = More Complex?\n\n\n\n\n\n\nNo! A grapevine and a pea have more genes than you do. Complexity depends on how genes are used, not only on how many there are.\n\nGene counts: grapevine ≈ 30,000; human ≈ 20,000; chicken ≈ 17,000; fruit fly ≈ 14,000; E. coli ≈ 4,000; influenza virus ≈ 11. The pea genome (≈ 4.5 billion base pairs) is even bigger than ours (≈ 3.2 billion). Many plants have duplicated their whole genome several times in their history. Humans get extra complexity by controlling when and where genes are switched on, and by making several proteins from one gene. Link to Session 2: the “hypothesis” that more genes means a more complex organism was tested by sequencing, and the data contradicted it."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#mutations-changes-to-the-code",
+    "href": "sessions/03-dna/slides.html#mutations-changes-to-the-code",
+    "title": "Understanding DNA",
+    "section": "Mutations: Changes to the Code",
+    "text": "Mutations: Changes to the Code\n\nA mutation is a change in the DNA sequence. Its effect can be harmful, neutral or beneficial.\n\nThe cell reads DNA in three-letter “words” (codons), so the sentence analogy works well. A substitution changes one word; a deletion or insertion shifts the reading frame and garbles everything after it, so it is usually more harmful. Most mutations are neutral: they fall outside genes, or do not change the protein. Real example of “harmful AND beneficial”: the sickle-cell mutation (one letter, A → T) causes sickle-cell disease if you inherit two copies, but one copy protects against malaria. Mutations are the raw material of evolution: without them there would be no variation. Causes: copying errors during replication, UV light, some chemicals, radiation."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#how-much-dna-do-we-share",
+    "href": "sessions/03-dna/slides.html#how-much-dna-do-we-share",
+    "title": "Understanding DNA",
+    "section": "How Much DNA Do We Share?",
+    "text": "How Much DNA Do We Share?\n\nWith any other human: about 99.9 %\nWith a chimpanzee: about 99 %\nWith a mouse: about 85 % of the protein-coding DNA\nWith a fruit fly: about 60 % of our genes have a fly version\n\n\n\n\n\n\n\nWarning\n\n\n“You share 50 % of your DNA with a banana” is a popular claim. It really means many of our genes have a related version in plants. It does not mean half of your DNA letters are the same!\n\n\n\n\nThese similarities are strong evidence that all living things share common ancestors: the more distantly related, the less similar the DNA. Critical-thinking link to Session 2: always ask WHAT is being compared (whole genome? only genes? only protein-coding parts?) and HOW similarity is measured. Different methods give very different percentages for the same pair of species. Fruit flies are used in medical research because about 75% of human disease-related genes have a counterpart in the fly."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#every-person-is-unique",
+    "href": "sessions/03-dna/slides.html#every-person-is-unique",
+    "title": "Understanding DNA",
+    "section": "Every Person Is Unique",
+    "text": "Every Person Is Unique\n\n0.1 % of 3 billion = 3 million differences between you and the person next to you.\n\n0.1% sounds tiny, but 0.1% of 3 billion is 3 million letters. These differences contribute to eye colour, height, risk of some diseases, and so on. They are also what forensic DNA testing uses to identify people (Session 8). Except for identical twins, everyone’s DNA is unique."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#background-what-was-known",
+    "href": "sessions/03-dna/slides.html#background-what-was-known",
+    "title": "Understanding DNA",
+    "section": "Background: What Was Known",
+    "text": "Background: What Was Known\n\n\n\n1944: DNA is shown to carry genetic information\n1950: Erwin Chargaff measures the four bases in many species\nNobody knows the shape of the molecule\n\n\n\n\n\nObservation step of the scientific method. Ask students: what pattern do you see in the data? Answer: in every species, the amount of A is about equal to T, and G is about equal to C, but the A+T vs G+C ratio changes from species to species. These are “Chargaff’s rules”. Chargaff did not know WHY. Values are approximate (Chargaff’s data, rounded). The 1944 experiments were by Avery, MacLeod and McCarty."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#the-data-photo-51",
+    "href": "sessions/03-dna/slides.html#the-data-photo-51",
+    "title": "Understanding DNA",
+    "section": "The Data: Photo 51",
+    "text": "The Data: Photo 51\n\n\n\n\n\nMay 1952, King’s College London\nRosalind Franklin and her student Raymond Gosling shoot X-rays through DNA fibres\nThe X-shaped pattern means a helix; the spacing gives its size\n\n\n\nData collection step. Franklin was an expert in X-ray crystallography: X-rays are scattered by the molecule and the pattern on film reveals its structure. Photo 51 needed about 100 hours of exposure. From her images and measurements Franklin worked out that the backbone is on the outside and that the molecule has a regular repeating structure. Precision link to Session 2: her measurements were careful and repeated."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#the-hypothesis-building-models",
+    "href": "sessions/03-dna/slides.html#the-hypothesis-building-models",
+    "title": "Understanding DNA",
+    "section": "The Hypothesis: Building Models",
+    "text": "The Hypothesis: Building Models\n\n\n\n\nIn Cambridge, James Watson and Francis Crick build models of metal and cardboard.\nTheir first model (1951) was wrong: bases on the outside, three strands.\n\n\nHypothesis step. Watson and Crick did not do experiments themselves: they combined other people’s data into a model, and tested whether the model fitted ALL the data. Their first model was rejected after Franklin pointed out that it contradicted her measurements. Science is a cycle: back to the drawing board! In January 1953, Maurice Wilkins (Franklin’s colleague) showed Photo 51 to Watson without Franklin’s knowledge, and Watson and Crick also saw a report with her data. This is an important ethics discussion point for the end of the case study."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#we-have-found-the-secret-of-life",
+    "href": "sessions/03-dna/slides.html#we-have-found-the-secret-of-life",
+    "title": "Understanding DNA",
+    "section": "“We Have Found the Secret of Life”",
+    "text": "“We Have Found the Secret of Life”\n\n\n\n\n\n28 February 1953: the new model fits Photo 51 and Chargaff’s rules\nCrick announces it at lunch in the Eagle pub, Cambridge\nApril 1953: published in Nature, a paper of just one page\n\n\n\nThe key insight was base pairing: A with T and G with C. That explained Chargaff’s rules immediately (A = T, G = C). It also gave the same width for every rung, matching Franklin’s data. Communication step: in the same issue of Nature there were also papers by Franklin & Gosling and by Wilkins with the X-ray evidence. The pub still has a blue plaque about the discovery."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#testing-the-prediction",
+    "href": "sessions/03-dna/slides.html#testing-the-prediction",
+    "title": "Understanding DNA",
+    "section": "Testing the Prediction",
+    "text": "Testing the Prediction\n\n“It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material.”\n— Watson & Crick, 1953\n\n\nPrediction: each new DNA molecule keeps one old strand and gets one new strand\n1958: Meselson and Stahl test it with bacteria — the prediction is confirmed\n\n\nA good hypothesis makes predictions that could turn out false (falsifiability, Session 2). The double-helix model predicted semi-conservative replication: exactly what we drew earlier in the lesson. Meselson and Stahl grew bacteria with “heavy” nitrogen, then switched to “light” nitrogen, and measured the weight of the DNA after each generation. The results matched the prediction perfectly. The model survived a real test, so it got much stronger. Ask: what result would have proved the model wrong?"
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#rosalind-franklin-video",
+    "href": "sessions/03-dna/slides.html#rosalind-franklin-video",
+    "title": "Understanding DNA",
+    "section": "Rosalind Franklin: Video",
+    "text": "Rosalind Franklin: Video\n\n\nTED-Ed, “Rosalind Franklin: DNA’s unsung hero”. Play it, then move to the discussion on the next slide."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#conclusion-impact",
+    "href": "sessions/03-dna/slides.html#conclusion-impact",
+    "title": "Understanding DNA",
+    "section": "Conclusion & Impact",
+    "text": "Conclusion & Impact\n\n1962: Nobel Prize to Watson, Crick and Wilkins\nFranklin had died in 1958, aged 37: the Nobel is never given after death\nThe double helix opened the way to modern genetics and biotechnology\n\n\n\n\n\n\n\nNote\n\n\nDiscussion: Was it fair to use Franklin’s data without asking her? What does it teach us about credit in science?\n\n\n\n\nLet students discuss in pairs for 2–3 minutes, then share. Points to bring out: science is collaborative, and data from many people (Chargaff, Franklin, Gosling, Wilkins) led to the model. Correct credit and permission to use data are part of research ethics. Peer review and publication (Session 2) are also about giving credit. Franklin went on to do important work on the structure of viruses."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#from-one-molecule-to-the-whole-genome",
+    "href": "sessions/03-dna/slides.html#from-one-molecule-to-the-whole-genome",
+    "title": "Understanding DNA",
+    "section": "From One Molecule to the Whole Genome",
+    "text": "From One Molecule to the Whole Genome\n\n\nHuman Genome Project (1990–2003): the first reading of all ~3 billion letters\n2022: the last gaps were finally filled in\nToday genome sequencing is used in medicine, ancestry, agriculture and forensics\n\n\nFifty years after the double helix, the whole human genome was read. The 2003 version still had gaps (about 8% was missing, mostly highly repetitive regions); the Telomere-to-Telomere (T2T) consortium published the first complete, gap-free sequence in 2022. The cost fell faster than computer prices: from billions of dollars to a few hundred. We will look at how sequencing works in the Biotech and Bioinformatics sessions."
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#recap",
+    "href": "sessions/03-dna/slides.html#recap",
+    "title": "Understanding DNA",
+    "section": "Recap",
+    "text": "Recap\n\nDNA is a polymer of nucleotides: phosphate + sugar + base (A, T, G, C)\nBase pairing (A–T, G–C) makes the two strands complementary\nDNA is a double helix, packed into chromosomes, mostly in the nucleus\nReplication copies DNA: each strand is a template\nA gene is a stretch of DNA that codes for a product, usually a protein\nMutations change the sequence: harmful, neutral or beneficial\nThe double helix was found by combining data (Chargaff, Franklin) and models (Watson & Crick)"
+  },
+  {
+    "objectID": "sessions/03-dna/slides.html#classroom-exercise-exploring-dna",
+    "href": "sessions/03-dna/slides.html#classroom-exercise-exploring-dna",
+    "title": "Understanding DNA",
+    "section": "Classroom Exercise: Exploring DNA",
+    "text": "Classroom Exercise: Exploring DNA\n\n\n\n\n\n\n\n\nWorksheet handed out on paper in class. It covers:\n\nTrue or False: correct 5 statements about DNA\nMatching: match 8 terms (nucleotide, gene, genome, chromosome…) to their definitions\nComplementary strands: write the missing strand and use Chargaff’s rules\nThe double helix story: link each event to a step of the scientific method\n\n\n\nHand out the paper worksheet (material/dna-worksheet.pdf) and give students time to work individually or in pairs. Walk around and help, then go through the answers together before the end of class. Answer key. Part A: 1 False, the double helix was described in 1953; 2 True; 3 False, A pairs with T, G with C; 4 False, most mutations are neutral; 5 False, humans have 46 chromosomes (23 pairs). Part B: 1-d, 2-f, 3-a, 4-h, 5-b, 6-g, 7-c, 8-e. Part C: (1) AATCGGTACG; (2) GCTTAAGCAT; (3) T = 30%, G = 20%, C = 20%; (4) G–C-rich DNA, because each G–C pair has 3 hydrogen bonds instead of 2. Part D: a = observation, b = data collection, c = hypothesis, d = revising the hypothesis, e = communicating the conclusion, f = testing a prediction."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Scientific English",
@@ -694,6 +904,102 @@
     "crumbs": [
       "Home",
       "Scientific English"
+    ]
+  },
+  {
+    "objectID": "sessions/03-dna/index.html",
+    "href": "sessions/03-dna/index.html",
+    "title": "Understanding DNA",
+    "section": "",
+    "text": "Open the slides →",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Understanding DNA"
+    ]
+  },
+  {
+    "objectID": "sessions/03-dna/index.html#start-of-class-review-of-session-2-live-quiz",
+    "href": "sessions/03-dna/index.html#start-of-class-review-of-session-2-live-quiz",
+    "title": "Understanding DNA",
+    "section": "Start of Class: Review of Session 2 — Live Quiz",
+    "text": "Start of Class: Review of Session 2 — Live Quiz\n\n\n\nScientific Method — 10 questions\n\nWhat makes a hypothesis falsifiable?\nWhat is the difference between the independent and the dependent variable?\nA scale always reads 2 kg too high: is it precise, accurate, both or neither?\n\nOr open the quiz directly →",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Understanding DNA"
+    ]
+  },
+  {
+    "objectID": "sessions/03-dna/index.html#overview",
+    "href": "sessions/03-dna/index.html#overview",
+    "title": "Understanding DNA",
+    "section": "Overview",
+    "text": "Overview\nDNA (deoxyribonucleic acid) is the molecule that stores the instructions for every living thing. It is a long chain of nucleotides, and its four bases (A, T, G, C) pair up in a fixed way: A with T, G with C. That simple rule explains the double helix shape, how DNA is copied before a cell divides, and how a change in a single letter (a mutation) can make a difference.",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Understanding DNA"
+    ]
+  },
+  {
+    "objectID": "sessions/03-dna/index.html#key-vocabulary",
+    "href": "sessions/03-dna/index.html#key-vocabulary",
+    "title": "Understanding DNA",
+    "section": "Key Vocabulary",
+    "text": "Key Vocabulary\n\n\nnucleotide — the building block of DNA: a phosphate group, a sugar (deoxyribose) and a base\nbase pair — two bases joined by hydrogen bonds: A–T or G–C\ncomplementary — matching according to the pairing rule; each DNA strand is complementary to the other\ndouble helix — the shape of DNA: two strands twisted like a spiral ladder\nchromosome — a tightly packed structure of DNA wound around proteins (histones); humans have 46\nreplication — the copying of DNA before a cell divides; each strand is a template for a new one\ngene — a stretch of DNA with the instructions for one product, usually a protein\ngenome — the complete set of DNA of an organism (about 3 billion base pairs in humans)\nmutation — a change in the DNA sequence; it can be harmful, neutral or beneficial",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Understanding DNA"
+    ]
+  },
+  {
+    "objectID": "sessions/03-dna/index.html#the-human-genome-by-numbers",
+    "href": "sessions/03-dna/index.html#the-human-genome-by-numbers",
+    "title": "Understanding DNA",
+    "section": "The Human Genome by Numbers",
+    "text": "The Human Genome by Numbers\n\n\n\nBase pairs\n≈ 3 billion\n\n\nProtein-coding genes\n≈ 20,000\n\n\nFraction that codes for proteins\n≈ 1.5 %\n\n\nDNA in one cell, unwound\n≈ 2 m\n\n\nDifference between two people\n≈ 0.1 %",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Understanding DNA"
+    ]
+  },
+  {
+    "objectID": "sessions/03-dna/index.html#case-study-the-double-helix",
+    "href": "sessions/03-dna/index.html#case-study-the-double-helix",
+    "title": "Understanding DNA",
+    "section": "Case Study: The Double Helix",
+    "text": "Case Study: The Double Helix\nThe discovery of DNA’s structure in 1953 is a real example of the scientific method. Erwin Chargaff’s data showed that A ≈ T and G ≈ C, and Rosalind Franklin’s X-ray image (Photo 51) showed a helix. James Watson and Francis Crick combined these data into a model, which predicted how DNA is copied, and that prediction was confirmed in 1958. See the slides for the full story, including the question of who got the credit.",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Understanding DNA"
+    ]
+  },
+  {
+    "objectID": "sessions/03-dna/index.html#watch-at-home-optional",
+    "href": "sessions/03-dna/index.html#watch-at-home-optional",
+    "title": "Understanding DNA",
+    "section": "Watch at Home (optional)",
+    "text": "Watch at Home (optional)\n\nDNA Replication — Amoeba Sisters\nRosalind Franklin: DNA’s unsung hero — TED-Ed\nWhere do genes come from? — TED-Ed\nDNA: The book of you — TED-Ed",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Understanding DNA"
+    ]
+  },
+  {
+    "objectID": "sessions/03-dna/index.html#classroom-material",
+    "href": "sessions/03-dna/index.html#classroom-material",
+    "title": "Understanding DNA",
+    "section": "Classroom Material",
+    "text": "Classroom Material\n\nWorksheet: Exploring DNA (PDF)",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "Understanding DNA"
     ]
   },
   {
