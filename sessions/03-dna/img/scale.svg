@@ -22,7 +22,7 @@
   <g fill="#555"><path d="M150 110h25" stroke="#555" stroke-width="5"/><path d="M173 101l14 9-14 9z"/><path d="M340 110h25" stroke="#555" stroke-width="5"/><path d="M363 101l14 9-14 9z"/><path d="M515 110h25" stroke="#555" stroke-width="5"/><path d="M538 101l14 9-14 9z"/></g>
   <g font-size="17" fill="#333">
     <text x="90" y="210" font-weight="700">you</text><text x="90" y="232">≈ 1.7 m</text>
-    <text x="270" y="210" font-weight="700">a cell</text><text x="270" y="232">≈ 0.01 mm</text>
+    <text x="270" y="210" font-weight="700">a cell</text><text x="270" y="232">≈ 10 µm</text>
     <text x="450" y="210" font-weight="700">a chromosome</text><text x="450" y="232">DNA packed tight</text>
     <text x="630" y="210" font-weight="700">the DNA helix</text><text x="630" y="232">2 nm wide</text>
   </g>
