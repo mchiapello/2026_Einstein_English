@@ -961,10 +961,21 @@
     "href": "index.html",
     "title": "Scientific English",
     "section": "",
-    "text": "Welcome! This site collects the slides, reading material, and self-check quizzes for the Scientific English course.\nEach session below has two parts:\n\nMaterial — the reading page, with vocabulary and key concepts explained.\nSlides — the in-class presentation (opens as a full-screen slideshow; press f for fullscreen, arrow keys to navigate, s for speaker notes).\n\nAt the end of most sessions you’ll find a live quiz: scan the QR code with your phone to join and answer along with the rest of the class.\nGo to the Sessions page to get started.",
+    "text": "Welcome! This site collects the slides, reading material, and self-check quizzes for the Scientific English course.\nEach session below has two parts:\n\nMaterial — the reading page, with vocabulary and key concepts explained.\nSlides — the in-class presentation (opens as a full-screen slideshow; press f for fullscreen, arrow keys to navigate, s for speaker notes).\n\nAt the end of most sessions you’ll find a live quiz: scan the QR code with your phone to join and answer along with the rest of the class. All the quizzes and the classroom material are also collected on the Quizzes & Material page.\nGo to the Sessions page to get started.",
     "crumbs": [
       "Home",
       "Scientific English"
+    ]
+  },
+  {
+    "objectID": "quizzes.html",
+    "href": "quizzes.html",
+    "title": "Quizzes & Material",
+    "section": "",
+    "text": "All the live quizzes and the classroom material of the course, in one place. Use the quizzes to check yourself again before the exam!\n\n\n\nSession\nQuiz\nClassroom material\n\n\n\n\n1. How to Study\nOpen the quiz →\n—\n\n\n2. Introduction & Scientific Method\nOpen the quiz →\nWorksheet: Exploring the Scientific Method (PDF)\n\n\n3. DNA\n—\nWorksheet: Exploring DNA (PDF)",
+    "crumbs": [
+      "Home",
+      "Quizzes & Material"
     ]
   },
   {
