@@ -45,3 +45,7 @@ It's easy to confuse these two. A measurement can be **precise but not accurate*
 ## Case Study: Penicillin
 
 Alexander Fleming's 1928 discovery of penicillin is a real example of the full scientific method in action — from an accidental **observation** (mould killing bacteria on a forgotten petri dish) to a **hypothesis**, **experiments**, and a **conclusion** that changed medicine. See the slides for the full walkthrough.
+
+## Classroom Material
+
+- [Worksheet: Exploring the Scientific Method (PDF)](material/scientific-method-worksheet.pdf)
