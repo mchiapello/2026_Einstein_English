@@ -8,11 +8,11 @@ title: "DNA Extraction"
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="180" height="180">
 
 ::: {}
-**DNA — 3 questions**
+**Understanding DNA — 10 questions**
 
-1. What are the four bases in DNA and their pairing rules?
-2. What is the difference between a gene and a genome?
-3. What percentage of the human genome actually codes for proteins?
+1. One DNA strand reads A T G C C A: what does the complementary strand read?
+2. How does DNA replication work?
+3. Can a mutation be beneficial?
 
 [Or open the quiz directly →](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
 :::
@@ -50,3 +50,7 @@ Learn how to extract DNA from cells using simple household materials Read throug
 ::: {.vocab-box}
 **Filtration** — Removing solid debris from the liquid solution
 :::
+
+## Classroom Material
+
+- [Worksheet: DNA Extraction Lab (PDF)](material/dna-extraction-worksheet.pdf)

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 250" font-family="Lato, Helvetica, Arial, sans-serif" text-anchor="middle">
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#1d5c9c"/>
+    </marker>
+    <clipPath id="tube"><path d="M752 52 L752 170 Q752 188 770 188 Q788 188 788 170 L788 52 Z"/></clipPath>
+  </defs>
+
+  <!-- arrows -->
+  <g stroke="#1d5c9c" stroke-width="4" marker-end="url(#ah)">
+    <line x1="180" y1="125" x2="262" y2="125"/>
+    <line x1="400" y1="125" x2="492" y2="125"/>
+    <line x1="612" y1="125" x2="730" y2="125"/>
+  </g>
+
+  <!-- step numbers -->
+  <g font-size="20" font-weight="700" fill="#fff">
+    <circle cx="110" cy="26" r="18" fill="#1d5c9c"/><text x="110" y="33">1</text>
+    <circle cx="330" cy="26" r="18" fill="#1d5c9c"/><text x="330" y="33">2</text>
+    <circle cx="550" cy="26" r="18" fill="#1d5c9c"/><text x="550" y="33">3</text>
+    <circle cx="770" cy="26" r="18" fill="#1d5c9c"/><text x="770" y="33">4</text>
+  </g>
+
+  <!-- 1. beaker with the extraction solution -->
+  <path d="M82 118 L82 170 Q82 178 90 178 L130 178 Q138 178 138 170 L138 118 Z" fill="#a8d0f0"/>
+  <g fill="#fff" stroke="#5b8fc7" stroke-width="1.5">
+    <circle cx="95" cy="114" r="6"/><circle cx="108" cy="111" r="8"/><circle cx="123" cy="114" r="6"/><circle cx="132" cy="110" r="4"/>
+  </g>
+  <path d="M74 70 L80 70 L80 170 Q80 180 90 180 L130 180 Q140 180 140 170 L140 70" fill="none" stroke="#555" stroke-width="3"/>
+  <g stroke="#555" stroke-width="2"><line x1="128" y1="95" x2="140" y2="95"/><line x1="128" y1="135" x2="140" y2="135"/><line x1="128" y1="155" x2="140" y2="155"/></g>
+
+  <!-- 2. mortar and pestle -->
+  <ellipse cx="330" cy="120" rx="44" ry="7" fill="#e63946"/>
+  <circle cx="312" cy="119" r="4" fill="#f4c95d"/><circle cx="340" cy="121" r="4" fill="#f4c95d"/>
+  <path d="M284 120 Q284 180 330 180 Q376 180 376 120" fill="#ececec" stroke="#555" stroke-width="3"/>
+  <rect x="312" y="178" width="36" height="9" rx="3" fill="#ccc" stroke="#555" stroke-width="2"/>
+  <line x1="345" y1="122" x2="386" y2="66" stroke="#8a6d4b" stroke-width="13" stroke-linecap="round"/>
+
+  <!-- 3. funnel with filter -->
+  <path d="M506 66 L594 66 L556 116 L556 146 L544 146 L544 116 Z" fill="#f2f2f2" stroke="#555" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M514 70 L586 70 L550 112 Z" fill="#fff" stroke="#aaa" stroke-width="2" stroke-dasharray="5 3"/>
+  <g fill="#e63946"><circle cx="535" cy="80" r="5"/><circle cx="552" cy="84" r="6"/><circle cx="568" cy="79" r="5"/><circle cx="545" cy="94" r="4"/><circle cx="559" cy="96" r="4"/></g>
+  <path d="M550 152 Q545 160 550 164 Q555 160 550 152 Z" fill="#f4a6ad"/>
+  <path d="M527 172 L527 184 Q527 190 533 190 L567 190 Q573 190 573 184 L573 172 Z" fill="#f4a6ad"/>
+  <path d="M523 160 L525 160 L525 184 Q525 192 533 192 L567 192 Q575 192 575 184 L575 160" fill="none" stroke="#555" stroke-width="3"/>
+
+  <!-- 4. tube: filtrate + cold ethanol, DNA at the boundary -->
+  <g clip-path="url(#tube)">
+    <rect x="740" y="132" width="60" height="70" fill="#f4a6ad"/>
+    <rect x="740" y="74" width="60" height="58" fill="#e3eef9"/>
+  </g>
+  <g fill="none" stroke-linecap="round">
+    <path d="M762 132 C756 118 770 110 764 96 M776 132 C782 116 770 106 778 88" stroke="#888" stroke-width="6"/>
+    <path d="M762 132 C756 118 770 110 764 96 M776 132 C782 116 770 106 778 88" stroke="#fff" stroke-width="3.5"/>
+  </g>
+  <path d="M750 50 L750 170 Q750 190 770 190 Q790 190 790 170 L790 50" fill="none" stroke="#555" stroke-width="3"/>
+
+  <!-- labels -->
+  <g font-size="19" font-weight="700" fill="#1d5c9c">
+    <text x="110" y="218">Make the solution</text>
+    <text x="330" y="218">Grind the fruit</text>
+    <text x="550" y="218">Filter</text>
+    <text x="770" y="218">Add cold ethanol</text>
+  </g>
+  <g font-size="16" fill="#444">
+    <text x="110" y="240">water + salt + soap</text>
+    <text x="330" y="240">with the solution</text>
+    <text x="550" y="240">keep the liquid</text>
+    <text x="770" y="240">DNA appears!</text>
+  </g>
+</svg>
