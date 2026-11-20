@@ -307,15 +307,19 @@ Choose an answer for each question, then check.
 ::: {style="font-size: 0.72em;"}
 | Question | Answer |
 |---|---|
-| How many base pairs are in the human genome? | [3 million]{.opt} · [3 billion]{.opt .fragment .custom .correct} · [3 trillion]{.opt} |
-| How many protein-coding genes? | [2,000]{.opt} · [20,000]{.opt .fragment .custom .correct} · [200,000]{.opt} |
-| What fraction of the genome codes for proteins? | [1.5 %]{.opt .fragment .custom .correct} · [15 %]{.opt} · [50 %]{.opt} |
-| Typing it at 60 words per minute, 8 hours a day: how long? | [6 months]{.opt} · [6 years]{.opt} · [60 years]{.opt .fragment .custom .correct} |
-| How much of your DNA is unique to you? | [0.1 %]{.opt .fragment .custom .correct} · [1 %]{.opt} · [10 %]{.opt} |
+| How many base pairs are in the human genome? | [3 million]{.opt} · [3 billion]{.opt .fragment .custom .correct fragment-index=1} · [3 trillion]{.opt} |
+| How many protein-coding genes? | [2,000]{.opt} · [20,000]{.opt .fragment .custom .correct fragment-index=2} · [200,000]{.opt} |
+| What fraction of the genome codes for proteins? | [1.5 %]{.opt .fragment .custom .correct fragment-index=3} · [15 %]{.opt} · [50 %]{.opt} |
+| Typing it at 60 words per minute, 8 hours a day: how long? | [6 months]{.opt} · [6 years]{.opt} · [60 years]{.opt .fragment .custom .correct fragment-index=5} |
+| How much of your DNA is unique to you? | [0.1 %]{.opt .fragment .custom .correct fragment-index=6} · [1 %]{.opt} · [10 %]{.opt} |
+:::
+
+::: {.fragment .fade-in-then-out fragment-index=4 style="position:absolute; top:95px; left:30px; width:990px; background:#fff; border:3px solid #1d5c9c; border-radius:16px; box-shadow:0 10px 30px rgba(0,0,0,0.25); padding:14px 18px; z-index:10;"}
+![](img/genome-composition.svg){width="100%" fig-alt="A grid of 100 squares, each 1% of the human genome: 1.5% protein-coding exons; 26% introns, inside genes but cut out before the protein is made; 44% jumping genes (transposable elements), some from ancient viruses; 16% other repeated sequences; 12.5% switches that turn genes on and off, RNA genes and unknown."}
 :::
 
 ::: {.notes}
-Students guess on paper first (retrieval and prediction from Session 1!), then reveal answers one at a time. Typing: 3.1 billion letters; 60 words per minute ≈ 300 letters per minute; 8 h a day = 144,000 letters a day; 3.1 billion / 144,000 ≈ 21,500 days ≈ 59 years. The 1.5% refers to the parts of genes that are actually translated into protein (exons); whole genes, including introns, take up much more. The rest of the genome includes switches that turn genes on and off, and many repeated sequences. On the "0.1%": two people differ at about 1 base in 1,000 (single-letter differences). Counting larger insertions and deletions too, the difference is somewhat bigger (around 0.5%), but 0.1% is the figure usually quoted.
+Students guess on paper first (retrieval and prediction from Session 1!), then reveal answers one at a time. Typing: 3.1 billion letters; 60 words per minute ≈ 300 letters per minute; 8 h a day = 144,000 letters a day; 3.1 billion / 144,000 ≈ 21,500 days ≈ 59 years. The 1.5% refers to the parts of genes that are actually translated into protein (exons). The click after the 1.5% answer opens a pop-up with the rest of the genome; the next click closes it and reveals the typing question. Pop-up: introns (26%) are inside genes but cut out of the message before the protein is made; "jumping genes" (transposable elements, 44%) are pieces of DNA that copied and pasted themselves around the genome over millions of years, and about 8% of our genome comes from ancient viruses that infected our ancestors; other repeats (16%) are short sequences repeated many times, for example around the centromeres; the remaining part includes the switches (promoters, enhancers) that turn genes on and off, genes for RNA molecules that are not translated into proteins, and DNA whose function is still unknown. It used to be called "junk DNA", but that name is misleading: some of it has important jobs, although scientists still debate how much is really functional. On the "0.1%": two people differ at about 1 base in 1,000 (single-letter differences). Counting larger insertions and deletions too, the difference is somewhat bigger (around 0.5%), but 0.1% is the figure usually quoted.
 :::
 
 ## Is the Human at the Top?
