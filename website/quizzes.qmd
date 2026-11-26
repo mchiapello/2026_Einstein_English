@@ -8,4 +8,4 @@ All the live quizzes and the classroom material of the course, in one place. Use
 |---|---|---|
 | [1. How to Study](sessions/01-how-to-study/index.qmd) | [Open the quiz →](https://forms.gle/ykpqo3aYWRHh9vYU7) | — |
 | [2. Introduction & Scientific Method](sessions/02-scientific-method/index.qmd) | [Open the quiz →](https://forms.gle/jZ4t2N5mUokwetFd9) | [Worksheet: Exploring the Scientific Method (PDF)](sessions/02-scientific-method/material/scientific-method-worksheet.pdf) |
-| [3. DNA](sessions/03-dna/index.qmd) | — | [Worksheet: Exploring DNA (PDF)](sessions/03-dna/material/dna-worksheet.pdf) |
+| [3. DNA](sessions/03-dna/index.qmd) | [Open the quiz →](https://forms.gle/5Nn7AqS5zZ5CQjRC6) | [Worksheet: Exploring DNA (PDF)](sessions/03-dna/material/dna-worksheet.pdf) |

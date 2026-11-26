@@ -14,12 +14,12 @@ format:
 
 :::: {.columns}
 ::: {.column width="45%"}
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=REPLACE_WITH_YOUR_GOOGLE_FORM_LINK" alt="QR code to join the live quiz" width="380" height="380" style="display:block; margin:0 auto;">
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=https://forms.gle/5Nn7AqS5zZ5CQjRC6" alt="QR code to join the live quiz" width="380" height="380" style="display:block; margin:0 auto;">
 :::
 ::: {.column width="55%"}
 Scan the QR code to join the live quiz on **Understanding DNA** (10 questions).
 
-[Open the quiz](REPLACE_WITH_YOUR_GOOGLE_FORM_LINK)
+[Open the quiz](https://forms.gle/5Nn7AqS5zZ5CQjRC6)
 :::
 ::::
 
@@ -318,6 +318,59 @@ What you see is **millions of DNA molecules** stuck together, not a single doubl
 
 ::: {.notes}
 Precipitation = a dissolved substance comes out of a solution as a solid. Link to session 3 (how small is DNA?): a single molecule is far too thin to see; you are seeing a huge bundle. The white strands also contain some RNA and proteins, so our DNA is not pure. A real lab needs purer DNA: last slide.
+:::
+
+## DNA Extraction: Full Protocol {#full-protocol .smaller}
+
+```{=html}
+<style>
+.reveal .proto { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; text-align: left; }
+.reveal .proto .card { background: #eef4fb; border-top: 6px solid #1d5c9c; border-radius: 8px; padding: 4px 16px 6px; font-size: 25px; line-height: 1.22; }
+.reveal .proto .title { font-weight: 700; color: #1d5c9c; font-size: 27px; margin-bottom: 2px; }
+.reveal .proto ol { margin: 0 0 0 1em; display: block; }
+.reveal .proto li { margin: 0; }
+.reveal .proto-safety { margin-top: 10px; background: #fdf3d8; border-radius: 8px; padding: 3px 14px; font-size: 22px; text-align: center; }
+</style>
+<div class="proto">
+<div class="card">
+<div class="title">1 · Make the extraction solution</div>
+<ol>
+<li><b>Mix</b> <b>50 ml</b> of water, <b>2 tsp</b> of salt and <b>1 tbsp</b> of washing-up liquid</li>
+<li><b>Stir</b> gently until the salt dissolves (no foam!)</li>
+</ol>
+</div>
+<div class="card">
+<div class="title">2 · Prepare the sample</div>
+<ol>
+<li><b>Weigh</b> about <b>⅓ of a banana</b></li>
+<li><b>Weigh</b> the same mass of strawberries</li>
+<li><b>Grind</b> each fruit in its own mortar</li>
+<li><b>Add</b> the extraction solution and <b>mix</b> gently</li>
+</ol>
+</div>
+<div class="card">
+<div class="title">3 · Filter</div>
+<ol>
+<li><b>Filter</b> each mixture through a coffee filter</li>
+<li><b>Collect</b> the liquid: the <i>filtrate</i></li>
+<li><b>Throw away</b> the filter with the solid pieces</li>
+</ol>
+</div>
+<div class="card">
+<div class="title">4 · Make the DNA appear</div>
+<ol>
+<li><b>Transfer</b> about <b>3 ml</b> of filtrate into a clean tube</li>
+<li><b>Pour</b> <b>8 ml</b> of <b>ice-cold ethanol</b> slowly down the side</li>
+<li><b>Wait</b> two minutes: do not shake!</li>
+<li><b>Observe</b> the white, cloudy strands</li>
+</ol>
+</div>
+</div>
+<div class="proto-safety">⚠️ <b>Goggles on</b> · Ethanol is <b>flammable</b>: no flames · <b>Do not eat</b> or drink · Label tubes <b>B</b> and <b>S</b></div>
+```
+
+::: {.notes}
+Leave this slide on screen during the practical. It summarises steps 1–4 and the safety rules.
 :::
 
 ## The Language of Protocols {.smaller}
