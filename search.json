@@ -88,7 +88,7 @@
     "href": "sessions/index.html",
     "title": "Sessions",
     "section": "",
-    "text": "0. Welcome\n6 November 2026\nMaterial → · Slides →\n\n\n1. How to Study\n6 November 2026\nMaterial → · Slides →\n\n\n2. Introduction & Scientific Method\n13 November 2026\nMaterial → · Slides →\n\n\n3. DNA\n20 November 2026\nMaterial → · Slides →\n\n\n4. DNA Extraction (Lab)\nComing soon — 27 November 2026\n\n\n5. Biology Central Dogma\nComing soon — 4 December 2026\n\n\n6. Biotech I\nComing soon — 11 December 2026\n\n\n7. Bioinformatics\nComing soon — 18 December 2026\n\n\n8. Forensic DNA\nComing soon — 8 January 2027\n\n\n9. Life on Earth\nComing soon — 15 January 2027\n\n\n10. Weird Plants\nComing soon — 22 January 2027",
+    "text": "0. Welcome\n6 November 2026\nMaterial → · Slides →\n\n\n1. How to Study\n6 November 2026\nMaterial → · Slides →\n\n\n2. Introduction & Scientific Method\n13 November 2026\nMaterial → · Slides →\n\n\n3. DNA\n20 November 2026\nMaterial → · Slides →\n\n\n4. DNA Extraction (Lab)\n27 November 2026\nMaterial → · Slides →\n\n\n5. Biology Central Dogma\nComing soon — 4 December 2026\n\n\n6. Biotech I\nComing soon — 11 December 2026\n\n\n7. Bioinformatics\nComing soon — 18 December 2026\n\n\n8. Forensic DNA\nComing soon — 8 January 2027\n\n\n9. Life on Earth\nComing soon — 15 January 2027\n\n\n10. Weird Plants\nComing soon — 22 January 2027",
     "crumbs": [
       "Home",
       "Sessions",
@@ -957,6 +957,160 @@
     "text": "Classroom Exercise: Exploring DNA\n\n\n\n\n\n\n\n\nWorksheet handed out on paper in class. It covers:\n\nTrue or False: correct 5 statements about DNA\nMatching: match 8 terms (nucleotide, gene, genome, chromosome…) to their definitions\nComplementary strands: write the missing strand and use Chargaff’s rules\nThe double helix story: link each event to a step of the scientific method\n\n\n\nHand out the paper worksheet (material/dna-worksheet.pdf) and give students time to work individually or in pairs. Walk around and help, then go through the answers together before the end of class. Answer key. Part A: 1 False, the double helix was described in 1953; 2 True; 3 False, A pairs with T, G with C; 4 False, most mutations are neutral; 5 False, humans have 46 chromosomes (23 pairs). Part B: 1-d, 2-f, 3-a, 4-h, 5-b, 6-g, 7-c, 8-e. Part C: (1) AATCGGTACG; (2) GCTTAAGCAT; (3) T = 30%, G = 20%, C = 20%; (4) G–C-rich DNA, because each G–C pair has 3 hydrogen bonds instead of 2. Part D: a = observation, b = data collection, c = hypothesis, d = revising the hypothesis, e = communicating the conclusion, f = testing a prediction."
   },
   {
+    "objectID": "sessions/04-dna-extraction/slides.html#warm-up-review-of-session-3-live-quiz",
+    "href": "sessions/04-dna-extraction/slides.html#warm-up-review-of-session-3-live-quiz",
+    "title": "DNA Extraction",
+    "section": "Warm-up: Review of Session 3 — Live Quiz",
+    "text": "Warm-up: Review of Session 3 — Live Quiz\n\n\n\n\nScan the QR code to join the live quiz on Understanding DNA (10 questions).\nOpen the quiz\n\n\nEvery lesson starts with an assessment of the previous class. Display the QR code, run the quiz, then discuss the answers before moving on."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#session-3-worksheet-lets-correct-it",
+    "href": "sessions/04-dna-extraction/slides.html#session-3-worksheet-lets-correct-it",
+    "title": "DNA Extraction",
+    "section": "Session 3 Worksheet: Let’s Correct It",
+    "text": "Session 3 Worksheet: Let’s Correct It\n\n\n\n\n\nTake out your worksheet Exploring DNA and a pen of a different colour.\n\nTrue or False (1–5)\nMatching (1–8)\nComplementary strands (1–4)\nThe double helix story (a–f)\n\n\n\nCorrect the session 3 worksheet together. Students mark their own answers with a different colour pen. For each item, ask a student to say their answer and WHY before revealing it (click to reveal). Answer key: material/dna-worksheet-solutions.pdf in session 3."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#worksheet-true-or-false",
+    "href": "sessions/04-dna-extraction/slides.html#worksheet-true-or-false",
+    "title": "DNA Extraction",
+    "section": "Worksheet — True or False",
+    "text": "Worksheet — True or False\n\nIf false, rewrite the statement so that it is true.\n\n\n\n\n\n\n\n\n#\nStatement\nAnswer\n\n\n\n\n1\nThe double helix structure of DNA was discovered in 1869.\nFalse → 1953 (DNA itself was isolated in 1869)\n\n\n2\nA nucleotide is made of a phosphate group, a sugar and a nitrogenous base.\nTrue\n\n\n3\nIn DNA, adenine (A) always pairs with guanine (G).\nFalse → A pairs with thymine (T)\n\n\n4\nMost mutations are harmful.\nFalse → most mutations are neutral\n\n\n5\nMost human cells contain 23 chromosomes.\nFalse → 46 (23 pairs); only eggs and sperm have 23\n\n\n\n\n\n1: Miescher isolated “nuclein” in 1869; Watson and Crick published the double helix in 1953. 3: A–T and G–C; a purine always pairs with a pyrimidine. 4: most mutations fall outside genes or do not change the protein. 5: body cells have two sets (one from each parent); eggs and sperm have one set, so that fertilisation restores 46."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#worksheet-matching",
+    "href": "sessions/04-dna-extraction/slides.html#worksheet-matching",
+    "title": "DNA Extraction",
+    "section": "Worksheet — Matching",
+    "text": "Worksheet — Matching\n\n\n\n\n\n\n\n\n\n#\nTerm\nAnswer\n\n\n\n\n1\nnucleotide\nd — the building block of DNA: phosphate + sugar + base\n\n\n2\ngene\nf — a stretch of DNA with the instructions for one product, usually a protein\n\n\n3\ngenome\na — the complete set of DNA of an organism\n\n\n4\nchromosome\nh — a tightly packed structure of DNA and proteins; humans have 46\n\n\n5\nbase pair\nb — two bases joined by hydrogen bonds, such as A–T\n\n\n6\nmutation\ng — a change in the DNA sequence\n\n\n7\nreplication\nc — the process that copies DNA before a cell divides\n\n\n8\nhistone\ne — a protein that DNA is wound around, like thread on a spool\n\n\n\n\n\nThe usual mix-up is gene vs genome vs chromosome. Use the cookbook analogy from session 3: genome = the whole cookbook, chromosome = a chapter, gene = a recipe."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#worksheet-complementary-strands",
+    "href": "sessions/04-dna-extraction/slides.html#worksheet-complementary-strands",
+    "title": "DNA Extraction",
+    "section": "Worksheet — Complementary Strands",
+    "text": "Worksheet — Complementary Strands\n\n\n1. TTAGCCATGC → AATCGGTACG\n2. CGAATTCGTA → GCTTAAGCAT\n\n3. A DNA sample contains 30 % A. What about T, G and C?\nT = 30 %, G = 20 %, C = 20 %\n4. Which DNA is harder to separate: rich in A–T or rich in G–C?\nG–C: each G–C pair has 3 hydrogen bonds, A–T only 2\n\n\n3: A = T, so A + T = 60 %. The remaining 40 % is split equally between G and C. This is Chargaff’s rule, which we met in the double helix case study. 4: more hydrogen bonds = more energy needed to separate the strands (DNA rich in G–C “melts” at a higher temperature)."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#worksheet-the-double-helix-story",
+    "href": "sessions/04-dna-extraction/slides.html#worksheet-the-double-helix-story",
+    "title": "DNA Extraction",
+    "section": "Worksheet — The Double Helix Story",
+    "text": "Worksheet — The Double Helix Story\n\n\n\n\n\n\n\n\n\n\nEvent\nStep of the scientific method\n\n\n\n\na\nChargaff notices that A ≈ T and G ≈ C in every species\nobservation\n\n\nb\nFranklin and Gosling take X-ray photographs of DNA (Photo 51)\ndata collection\n\n\nc\nWatson and Crick propose a model of the structure of DNA\nhypothesis\n\n\nd\nTheir first model is wrong, so they build a new one\nrevising the hypothesis\n\n\ne\nThe double helix model is published in Nature in 1953\ncommunicating the conclusion\n\n\nf\nIn 1958 Meselson and Stahl check whether each new DNA molecule keeps one old strand\ntesting a prediction\n\n\n\n\n\nThis links sessions 2 and 3: real science follows the cycle of the scientific method, including going back when a hypothesis turns out to be wrong (d)."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#the-plan",
+    "href": "sessions/04-dna-extraction/slides.html#the-plan",
+    "title": "DNA Extraction",
+    "section": "The Plan",
+    "text": "The Plan\n\nFour steps, about 30 minutes, using things you can find in a kitchen.\n\nGive the big picture before any detail, so students know where each step is going. Then for each step we will ask two questions: WHAT do we do, and WHY."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#where-is-the-dna",
+    "href": "sessions/04-dna-extraction/slides.html#where-is-the-dna",
+    "title": "DNA Extraction",
+    "section": "Where Is the DNA?",
+    "text": "Where Is the DNA?\n\n\nRecall session 3: DNA is mostly in the nucleus, wound around histone proteins. To get it out of a plant cell we have to get through three barriers (cell wall, cell membrane, nuclear membrane) and then separate the DNA from its proteins. Each ingredient of today’s protocol has one job. Ask: animal cells have no cell wall; which step would be easier with animal cells?"
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#make-a-prediction",
+    "href": "sessions/04-dna-extraction/slides.html#make-a-prediction",
+    "title": "DNA Extraction",
+    "section": "Make a Prediction",
+    "text": "Make a Prediction\n\n\n\n\n\n\nNote\n\n\nQuestion: Which fruit gives more DNA from the same mass: banana or strawberry?\n\n\n\nWrite your hypothesis: “If we use …, then …, because …”\n\nKeep it fair: what do we change, what do we measure, what do we keep the same?\n\n\n\n\n\n\n\n\nIndependent variable\nDependent variable\nControlled variables\n\n\n\n\ntype of fruit\namount of DNA we see\nmass of fruit, volume of solution, volume of ethanol, time\n\n\n\n\n\nLink to session 2: a fair test changes only one variable. Let students vote before the lab. The answer comes at the end: strawberries usually give much more DNA. Strawberries are octoploid, they have 8 copies of each chromosome (bananas have 3), and they are soft and easy to break."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#lab-safety",
+    "href": "sessions/04-dna-extraction/slides.html#lab-safety",
+    "title": "DNA Extraction",
+    "section": "Lab Safety",
+    "text": "Lab Safety\n\n\n\n\n\n\n\n\nWarning\n\n\n\nWear goggles\nEthanol is flammable: no flames nearby\nDo not eat or drink anything in the lab\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nLabel your tubes: B (banana), S (strawberry)\nWork in pairs: one person reads, one person does\nWash your hands at the end\n\n\n\n\n\n\nKeep the ethanol in the freezer or on ice until step 4. Check that every pair has goggles before handing out the ethanol."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#step-1-the-extraction-solution",
+    "href": "sessions/04-dna-extraction/slides.html#step-1-the-extraction-solution",
+    "title": "DNA Extraction",
+    "section": "Step 1: The Extraction Solution",
+    "text": "Step 1: The Extraction Solution\n\n\n50 ml water\n\n\n2 tsp 2 teaspoons of cooking salt (NaCl)\n\n\n1 tbsp 1 tablespoon of washing-up liquid (soap)\n\n\n\nStir gently until the salt dissolves. Avoid making foam.\n\nWashing-up liquid is the soap for washing dishes by hand (in American English: dish soap). Not dishwasher tablets! Foam makes it hard to measure and to see the DNA later."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#why-these-ingredients",
+    "href": "sessions/04-dna-extraction/slides.html#why-these-ingredients",
+    "title": "DNA Extraction",
+    "section": "Why These Ingredients?",
+    "text": "Why These Ingredients?\n\n\n\n\n\n\n\nIngredient\nIts job\n\n\n\n\nSoap\ndissolves the membranes (made of fats called phospholipids), so the cell and the nucleus break open\n\n\nSalt\npulls the proteins away from the DNA and neutralises the DNA’s negative charges, so the strands can clump together\n\n\nWater\nthe solvent: everything else dissolves in it\n\n\n\n\nSoap works on cell membranes the same way it works on greasy plates: membranes are made of phospholipids, which are fats. Salt: DNA’s phosphate groups are negatively charged (the “acid” in deoxyribonucleic acid, session 3), so DNA strands push each other away. The positive sodium ions (Na+) cover these negative charges, so the strands can come together and later precipitate."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#step-2-prepare-the-sample",
+    "href": "sessions/04-dna-extraction/slides.html#step-2-prepare-the-sample",
+    "title": "DNA Extraction",
+    "section": "Step 2: Prepare the Sample",
+    "text": "Step 2: Prepare the Sample\n\n\n\nWeigh about ⅓ of a banana\nWeigh the same mass of strawberries\nGrind each fruit in its own mortar\nAdd the extraction solution and mix gently\n\n\n\n\n\n\n\n\nTip\n\n\nWhy gently? DNA molecules are very long and thin. Strong shaking breaks them into short pieces, which are harder to see.\n\n\n\n\n\nGrinding breaks the cell walls (step 1 of the barriers). Same mass = controlled variable (fair test). Two separate mortars so that the samples do not mix. Let the mixture rest for a few minutes so the soap and salt can work."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#step-3-filter",
+    "href": "sessions/04-dna-extraction/slides.html#step-3-filter",
+    "title": "DNA Extraction",
+    "section": "Step 3: Filter",
+    "text": "Step 3: Filter\n\n\n\nFilter each mixture through a coffee filter\nCollect the liquid that passes through: the filtrate\nThrow away the filter with the solid pieces\n\n\n\n\n\n\n\n\nNote\n\n\nVocabulary: filtrate — the liquid that passes through a filter. The solids left in the filter are the residue.\n\n\n\n\n\nThe DNA is now dissolved in the liquid, so we keep the liquid and discard the solids (pieces of cell wall, seeds, fibres). Filtering takes a few minutes: do not squeeze the filter, or debris gets into the filtrate."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#step-4-make-the-dna-appear",
+    "href": "sessions/04-dna-extraction/slides.html#step-4-make-the-dna-appear",
+    "title": "DNA Extraction",
+    "section": "Step 4: Make the DNA Appear",
+    "text": "Step 4: Make the DNA Appear\n\n\n\n\n\nTransfer about 3 ml of filtrate into a clean tube\nSlowly pour 8 ml of ice-cold ethanol down the side of the tube\nWait: do not shake!\nObserve: white, cloudy strands appear where the two liquids meet\n\n\n\nTilt the tube and let the ethanol run down the side, so it floats on top as a separate layer (ethanol is less dense than water). After a minute or two the DNA appears at the boundary and rises into the ethanol. Students can wind it around a wooden stick or a paper clip."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#why-does-the-dna-appear",
+    "href": "sessions/04-dna-extraction/slides.html#why-does-the-dna-appear",
+    "title": "DNA Extraction",
+    "section": "Why Does the DNA Appear?",
+    "text": "Why Does the DNA Appear?\n\nDNA dissolves in water, but not in ethanol\nEthanol pulls the water away from the DNA, so the DNA molecules clump together and come out of the solution\nThis is called precipitation; cold ethanol works better\nSalt helps: with its charges neutralised, DNA clumps more easily\n\n\n\n\n\n\n\nNote\n\n\nWhat you see is millions of DNA molecules stuck together, not a single double helix: one helix is only 2 nm wide!\n\n\n\n\nPrecipitation = a dissolved substance comes out of a solution as a solid. Link to session 3 (how small is DNA?): a single molecule is far too thin to see; you are seeing a huge bundle. The white strands also contain some RNA and proteins, so our DNA is not pure. A real lab needs purer DNA: last slide."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#full-protocol",
+    "href": "sessions/04-dna-extraction/slides.html#full-protocol",
+    "title": "DNA Extraction",
+    "section": "DNA Extraction: Full Protocol",
+    "text": "DNA Extraction: Full Protocol\n\n\n\n1 · Make the extraction solution\n\nMix 50 ml of water, 2 tsp of salt and 1 tbsp of washing-up liquid\nStir gently until the salt dissolves (no foam!)\n\n\n\n2 · Prepare the sample\n\nWeigh about ⅓ of a banana\nWeigh the same mass of strawberries\nGrind each fruit in its own mortar\nAdd the extraction solution and mix gently\n\n\n\n3 · Filter\n\nFilter each mixture through a coffee filter\nCollect the liquid: the filtrate\nThrow away the filter with the solid pieces\n\n\n\n4 · Make the DNA appear\n\nTransfer about 3 ml of filtrate into a clean tube\nPour 8 ml of ice-cold ethanol slowly down the side\nWait two minutes: do not shake!\nObserve the white, cloudy strands\n\n\n\n⚠️ Goggles on · Ethanol is flammable: no flames · Do not eat or drink · Label tubes B and S\n\nLeave this slide on screen during the practical. It summarises steps 1–4 and the safety rules."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#the-language-of-protocols",
+    "href": "sessions/04-dna-extraction/slides.html#the-language-of-protocols",
+    "title": "DNA Extraction",
+    "section": "The Language of Protocols",
+    "text": "The Language of Protocols\n\n\nProtocols use the imperative: start with the verb.\n\nWeigh the fruit.\nGrind the sample.\nTransfer 3 ml into a tube.\nDiscard the filter.\n\n\nRewrite as instructions:\n\nYou should take 50 ml of water.\nThe ethanol is poured slowly.\nThen you have to wait two minutes.\n\n\n→ Take 50 ml of water. → Pour the ethanol slowly. → Wait two minutes.\n\n\n\nProtocols (and recipes) are short, clear instructions in order. Useful verbs: weigh, measure, grind, mix, stir, add, pour, filter, transfer, discard, observe, record. Units: ml (millilitre), g (gram), tsp (teaspoon), tbsp (tablespoon). Students can do this while the filtration is running."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#record-your-results",
+    "href": "sessions/04-dna-extraction/slides.html#record-your-results",
+    "title": "DNA Extraction",
+    "section": "Record Your Results",
+    "text": "Record Your Results\n\n\n\n\n\n\n\n\nFruit\nMass (g)\nWhat do you see? (amount, colour, texture)\n\n\n\n\nBanana\n\n\n\n\nStrawberry\n\n\n\n\n\n\nConclusion: Was your hypothesis supported? Which fruit gave more DNA, and why?\n\n\nUsually strawberries give much more DNA. Why: strawberries are octoploid (8 copies of each chromosome), bananas are triploid (3 copies); strawberries are also very soft and easy to break. A good discussion: is “amount we see” a precise measurement? (No: it is a qualitative observation. How could we measure it better? Weigh the DNA, or measure it with a spectrophotometer.)"
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#from-the-kitchen-to-the-real-lab",
+    "href": "sessions/04-dna-extraction/slides.html#from-the-kitchen-to-the-real-lab",
+    "title": "DNA Extraction",
+    "section": "From the Kitchen to the Real Lab",
+    "text": "From the Kitchen to the Real Lab\n\n\n\n\n\n\n\nOur protocol\nA real lab kit\n\n\n\n\nGrind in a mortar\nGrind frozen tissue, or shake with tiny beads\n\n\nSoap + salt\nLysis buffer (detergent + salts) and enzymes that digest proteins\n\n\nCoffee filter\nA centrifuge spins the debris to the bottom\n\n\nCold ethanol\nDNA sticks to a silica membrane, is washed with ethanol, then released in water\n\n\nCloudy white strands\nPure DNA, ready for analysis (e.g. sequencing)\n\n\n\nAn example of a real protocol (QIAGEN) →\n\nThe idea is the same: break the cells, remove the proteins and debris, collect the DNA. Lab kits are faster, more reproducible, and give much purer DNA, which is needed for techniques like PCR and sequencing (Biotech and Bioinformatics sessions). Lysis = breaking open cells (from Greek “loosening”)."
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#recap",
+    "href": "sessions/04-dna-extraction/slides.html#recap",
+    "title": "DNA Extraction",
+    "section": "Recap",
+    "text": "Recap\n\nTo extract DNA we break the cell wall (grinding) and the membranes (soap)\nSalt pulls proteins away from DNA and helps it clump\nFiltering removes the solid debris\nCold ethanol makes the DNA precipitate: we see millions of molecules together\nA fair test changes one variable (the fruit) and keeps the others the same\nProtocols are written in the imperative: weigh, grind, filter, pour"
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/slides.html#classroom-exercise-dna-extraction-lab",
+    "href": "sessions/04-dna-extraction/slides.html#classroom-exercise-dna-extraction-lab",
+    "title": "DNA Extraction",
+    "section": "Classroom Exercise: DNA Extraction Lab",
+    "text": "Classroom Exercise: DNA Extraction Lab\n\n\n\n\n\n\n\n\nWorksheet handed out on paper in class. It covers:\n\nTrue or False: correct 5 statements about the extraction\nMatching: match 8 lab terms (filtrate, residue, precipitation, lysis…) to their definitions\nThe language of protocols: rewrite sentences in the imperative\nThe order of the protocol: put the 8 steps in the right order\nYour experiment: hypothesis, variables, results and conclusion for banana vs strawberry\n\n\n\nHand out the paper worksheet (material/dna-extraction-worksheet.pdf). Parts A–D can be done while the mixtures are filtering; part E is filled in during and after the experiment. Answer key: material/dna-extraction-worksheet-solutions.pdf. Part A: 1 False, soap dissolves the membranes, grinding breaks the cell wall; 2 True; 3 False, DNA dissolves in water but not in ethanol; 4 True; 5 False, millions of molecules clumped together. Part B: 1-h, 2-e, 3-g, 4-b, 5-f, 6-d, 7-c, 8-a. Part C: (a) Stir the solution gently; (b) Throw away the filter with the solid pieces; (c) Leave the tube still for two minutes / Wait two minutes. Part D, in the order printed: 5, 2, 7, 1, 8, 3, 6, 4. Part E: independent variable = type of fruit; dependent = amount of DNA seen; controlled = mass of fruit, volumes, ethanol temperature, waiting time."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Scientific English",
@@ -972,10 +1126,70 @@
     "href": "quizzes.html",
     "title": "Quizzes & Material",
     "section": "",
-    "text": "All the live quizzes and the classroom material of the course, in one place. Use the quizzes to check yourself again before the exam!\n\n\n\nSession\nQuiz\nClassroom material\n\n\n\n\n1. How to Study\nOpen the quiz →\n—\n\n\n2. Introduction & Scientific Method\nOpen the quiz →\nWorksheet: Exploring the Scientific Method (PDF)\n\n\n3. DNA\n—\nWorksheet: Exploring DNA (PDF)",
+    "text": "All the live quizzes and the classroom material of the course, in one place. Use the quizzes to check yourself again before the exam!\n\n\n\nSession\nQuiz\nClassroom material\n\n\n\n\n1. How to Study\nOpen the quiz →\n—\n\n\n2. Introduction & Scientific Method\nOpen the quiz →\nWorksheet: Exploring the Scientific Method (PDF)\n\n\n3. DNA\nOpen the quiz →\nWorksheet: Exploring DNA (PDF)\n\n\n4. DNA Extraction (Lab)\n—\nWorksheet: DNA Extraction Lab (PDF)",
     "crumbs": [
       "Home",
       "Quizzes & Material"
+    ]
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/index.html",
+    "href": "sessions/04-dna-extraction/index.html",
+    "title": "DNA Extraction",
+    "section": "",
+    "text": "Understanding DNA — 10 questions\n\nOne DNA strand reads A T G C C A: what does the complementary strand read?\nHow does DNA replication work?\nCan a mutation be beneficial?\n\nOr open the quiz directly →",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "DNA Extraction"
+    ]
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/index.html#start-of-class-review-of-session-3-live-quiz",
+    "href": "sessions/04-dna-extraction/index.html#start-of-class-review-of-session-3-live-quiz",
+    "title": "DNA Extraction",
+    "section": "",
+    "text": "Understanding DNA — 10 questions\n\nOne DNA strand reads A T G C C A: what does the complementary strand read?\nHow does DNA replication work?\nCan a mutation be beneficial?\n\nOr open the quiz directly →",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "DNA Extraction"
+    ]
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/index.html#overview",
+    "href": "sessions/04-dna-extraction/index.html#overview",
+    "title": "DNA Extraction",
+    "section": "Overview",
+    "text": "Overview\nLearn how to extract DNA from cells using simple household materials Read through the material below and then watch the presentation.\n→ View the slides",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "DNA Extraction"
+    ]
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/index.html#key-vocabulary",
+    "href": "sessions/04-dna-extraction/index.html#key-vocabulary",
+    "title": "DNA Extraction",
+    "section": "Key Vocabulary",
+    "text": "Key Vocabulary\n\nExtraction solution — A mixture of salt, water, and detergent that breaks down cell and nuclear membranes\n\n\nPrecipitation — When DNA comes out of solution and becomes visible\n\n\nDetergent — A substance that dissolves lipids, breaking down the fatty membranes around cells\n\n\nSalting out — Using salt to make DNA clump together and separate from water\n\n\nSample preparation — Breaking down tissue or cells into smaller pieces\n\n\nFiltration — Removing solid debris from the liquid solution",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "DNA Extraction"
+    ]
+  },
+  {
+    "objectID": "sessions/04-dna-extraction/index.html#classroom-material",
+    "href": "sessions/04-dna-extraction/index.html#classroom-material",
+    "title": "DNA Extraction",
+    "section": "Classroom Material",
+    "text": "Classroom Material\n\nWorksheet: DNA Extraction Lab (PDF)",
+    "crumbs": [
+      "Home",
+      "Sessions",
+      "DNA Extraction"
     ]
   },
   {

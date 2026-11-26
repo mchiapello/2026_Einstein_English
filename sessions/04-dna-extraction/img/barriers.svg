@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 330" font-family="Lato, Helvetica, Arial, sans-serif">
+  <!-- plant cell -->
+  <rect x="40" y="30" width="320" height="270" rx="30" fill="#eef6e9" stroke="#6a994e" stroke-width="12"/>
+  <rect x="58" y="48" width="284" height="234" rx="20" fill="none" stroke="#f4c95d" stroke-width="6"/>
+  <circle cx="200" cy="165" r="74" fill="#e7eef8" stroke="#8e6bbf" stroke-width="6"/>
+  <!-- DNA wound around proteins -->
+  <path d="M150 140 C165 110 190 120 195 140 S220 175 240 150 S255 195 225 200 S180 210 170 190 S140 175 150 140" fill="none" stroke="#1d5c9c" stroke-width="4"/>
+  <g fill="#e63946">
+    <circle cx="160" cy="125" r="7"/><circle cx="195" cy="142" r="7"/><circle cx="238" cy="152" r="7"/>
+    <circle cx="242" cy="190" r="7"/><circle cx="197" cy="206" r="7"/><circle cx="158" cy="182" r="7"/>
+  </g>
+
+  <!-- legend -->
+  <g font-size="19">
+    <rect x="410" y="28" width="30" height="14" rx="3" fill="#6a994e"/>
+    <text x="455" y="41" font-weight="700" fill="#333">cell wall</text>
+    <text x="455" y="64" fill="#555">broken by <tspan font-weight="700" fill="#1d5c9c">grinding</tspan></text>
+
+    <rect x="410" y="91" width="30" height="8" rx="3" fill="#f4c95d"/>
+    <text x="455" y="101" font-weight="700" fill="#333">cell membrane</text>
+    <text x="455" y="124" fill="#555">dissolved by <tspan font-weight="700" fill="#1d5c9c">soap</tspan></text>
+
+    <rect x="410" y="151" width="30" height="8" rx="3" fill="#8e6bbf"/>
+    <text x="455" y="161" font-weight="700" fill="#333">nuclear membrane</text>
+    <text x="455" y="184" fill="#555">dissolved by <tspan font-weight="700" fill="#1d5c9c">soap</tspan></text>
+
+    <circle cx="425" cy="215" r="8" fill="#e63946"/>
+    <text x="455" y="221" font-weight="700" fill="#333">proteins wrapped around the DNA</text>
+    <text x="455" y="244" fill="#555">pulled away with the help of <tspan font-weight="700" fill="#1d5c9c">salt</tspan></text>
+
+    <line x1="410" y1="275" x2="440" y2="275" stroke="#1d5c9c" stroke-width="5"/>
+    <text x="455" y="281" font-weight="700" fill="#333">DNA</text>
+    <text x="455" y="304" fill="#555">collected with <tspan font-weight="700" fill="#1d5c9c">cold ethanol</tspan></text>
+  </g>
+</svg>
